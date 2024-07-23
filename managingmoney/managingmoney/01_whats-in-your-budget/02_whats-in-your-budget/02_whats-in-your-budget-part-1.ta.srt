@@ -1,0 +1,380 @@
+1
+00:00:01,000 --> 00:00:04,170
+Here in lesson one, I wanna start
+right off with the big picture
+
+2
+00:00:04,170 --> 00:00:07,310
+of how all ten lessons in this
+course are going to fit together.
+
+3
+00:00:07,310 --> 00:00:13,200
+At the same time, I wanna give you a solid
+idea of the core theme behind the course.
+
+4
+00:00:13,200 --> 00:00:14,430
+On the first question,
+
+5
+00:00:14,430 --> 00:00:18,830
+in most classes, the content
+builds in a linear progression.
+
+6
+00:00:18,830 --> 00:00:22,930
+For example, in math you first
+learn an addition and subtraction.
+
+7
+00:00:22,930 --> 00:00:27,200
+This in turn enables you to learn about
+multiplication, and division, and so
+
+8
+00:00:27,200 --> 00:00:32,390
+on until you reach the dreaded, or
+for some like me beloved calculus.
+
+9
+00:00:32,390 --> 00:00:37,870
+For this course however, the content isn't
+quite suited to such a linear structure.
+
+10
+00:00:37,870 --> 00:00:41,590
+Thus, while we've tried our best to
+advance things in a logical order,
+
+11
+00:00:41,590 --> 00:00:44,810
+you will see that each
+individual topic we cover
+
+12
+00:00:44,810 --> 00:00:48,250
+has multiple connections to
+many of the other topics.
+
+13
+00:00:48,250 --> 00:00:52,570
+For example, our first lesson here on
+budgeting has multiple connections to our
+
+14
+00:00:52,570 --> 00:00:58,350
+lessons on credit cards, loans,
+taxes, investment and so forth.
+
+15
+00:00:58,350 --> 00:01:02,640
+So it's kind of like a spider web of
+personal finance rather than a ladder.
+
+16
+00:01:03,740 --> 00:01:05,980
+And here's the key point, and
+
+17
+00:01:05,980 --> 00:01:09,440
+the main reason why I'm bothering to
+share this course architecture with you.
+
+18
+00:01:10,530 --> 00:01:14,180
+As you go sequentially through
+the lessons, when something comes up that
+
+19
+00:01:14,180 --> 00:01:18,660
+references an earlier lesson, I encourage
+you to go back to that topical lecture and
+
+20
+00:01:18,660 --> 00:01:20,940
+refresh your memory if you need to.
+
+21
+00:01:20,940 --> 00:01:22,860
+Now, here's another key point.
+
+22
+00:01:22,860 --> 00:01:25,790
+Despite the somewhat distributed
+nature of the topics,
+
+23
+00:01:25,790 --> 00:01:29,590
+there is really only one
+main theme to this course.
+
+24
+00:01:29,590 --> 00:01:34,920
+Personal finance isn't like that bio 101
+test that you're pretty sure you can wing
+
+25
+00:01:34,920 --> 00:01:36,830
+and still maybe get a decent grade.
+
+26
+00:01:37,830 --> 00:01:41,070
+Having a smart plan for
+your money is very important, and
+
+27
+00:01:41,070 --> 00:01:45,050
+learning how to develop such a smart
+plan at this stage of your life
+
+28
+00:01:45,050 --> 00:01:48,950
+lays the groundwork for the rest of
+your personal and professional life.
+
+29
+00:01:48,950 --> 00:01:52,300
+Let me illustrate this point
+with my very own modern fable,
+
+30
+00:01:52,300 --> 00:01:56,490
+reminiscent of the ant and
+the grasshopper involving 2 30 something
+
+31
+00:01:56,490 --> 00:02:00,680
+executives at a medium sized company
+that develops office buildings.
+
+32
+00:02:00,680 --> 00:02:03,830
+Neither of these executives,
+we'll call them Juan and
+
+33
+00:02:03,830 --> 00:02:09,670
+Juanita, are in the 1% of the wealthy,
+but both make pretty decent money.
+
+34
+00:02:09,670 --> 00:02:12,930
+So each month, they have a surplus
+of discretionary funds to
+
+35
+00:02:12,930 --> 00:02:17,620
+allocate after they have covered their
+fixed expenses like housing and insurance.
+
+36
+00:02:17,620 --> 00:02:20,768
+On one hand,
+Juanita has a very smart financial plan.
+
+37
+00:02:20,768 --> 00:02:26,510
+She saves 5% of her paycheck every month,
+invests wisely in the stock market,
+
+38
+00:02:26,510 --> 00:02:30,340
+and even own a small internet
+business she runs on the side.
+
+39
+00:02:30,340 --> 00:02:33,250
+As a result,
+she has multiple streams of income
+
+40
+00:02:33,250 --> 00:02:37,170
+as well as a decent amount of capital
+in her business and other investments.
+
+41
+00:02:38,180 --> 00:02:40,800
+While she doesn't appear
+to be super wealthy,
+
+42
+00:02:40,800 --> 00:02:45,460
+she drives a ten year old Toyota Camry
+with a car loan long paid off.
+
+43
+00:02:45,460 --> 00:02:49,770
+She can support her family and
+still live a reasonably comfortable life.
+
+44
+00:02:49,770 --> 00:02:53,995
+Juan on the other hand, lives as well as
+he can off the wages he gets from work,
+
+45
+00:02:53,995 --> 00:02:56,430
+his only source of income.
+
+46
+00:02:56,430 --> 00:02:59,110
+Part of his cash flow drain
+is a big lease payment
+
+47
+00:02:59,110 --> 00:03:01,870
+each month on a really cool red Porsche.
+
+48
+00:03:01,870 --> 00:03:04,800
+Plus the dude loves to party,
+what can I say.
+
+49
+00:03:04,800 --> 00:03:07,900
+So what do you think happens
+when a mutual friend of Juan and
+
+50
+00:03:07,900 --> 00:03:12,150
+Juanita offer them a great opportunity
+to invest in a new business venture
+
+51
+00:03:12,150 --> 00:03:15,030
+with a high probability of success?
+
+52
+00:03:15,030 --> 00:03:18,510
+While Juanita can take full
+advantage of this opportunity,
+
+53
+00:03:18,510 --> 00:03:19,750
+Juan is simply tapped out.
+
+54
+00:03:20,790 --> 00:03:24,790
+Fast forward five years, and
+the economy has gone into a recession.
+
+55
+00:03:24,790 --> 00:03:29,300
+The building industry is on the ropes and
+both Juan and Juanita get laid off.
+
+56
+00:03:29,300 --> 00:03:32,370
+While Juan ends up on
+the extended unemployment line,
+
+57
+00:03:32,370 --> 00:03:36,740
+riding the bus after missing several
+lease payments on his latest Porsche,
+
+58
+00:03:36,740 --> 00:03:39,560
+Juanita simply devotes more
+time to her side business and
+
+59
+00:03:39,560 --> 00:03:42,480
+draws a little bit of cash from her
+other investments when she needs to.
+
+60
+00:03:43,620 --> 00:03:48,440
+Fast forward 20 more years, and Juanita is
+off to an active retirement in Florida.
+
+61
+00:03:48,440 --> 00:03:52,300
+Juan on the other hand, has come to
+the uncomfortable conclusion that
+
+62
+00:03:52,300 --> 00:03:55,280
+he will likely have to work well
+into his supposed retirement.
+
+63
+00:03:56,730 --> 00:03:58,309
+So what are the key points?
+
+64
+00:03:59,340 --> 00:04:03,360
+Well, first, having a smart,
+balanced plan let's us live
+
+65
+00:04:03,360 --> 00:04:08,140
+a more comfortable life at the same time
+that it prepares us for emergencies,
+
+66
+00:04:08,140 --> 00:04:12,490
+bad economic trends, or investment
+opportunities that may lie in the future.
+
+67
+00:04:13,680 --> 00:04:18,550
+Second, planning for the unexpected
+emergency, like losing your job,
+
+68
+00:04:18,550 --> 00:04:22,720
+is as critical a part of your financial
+plan as your investment portfolio.
+
+69
+00:04:23,850 --> 00:04:24,860
+And finally,
+
+70
+00:04:24,860 --> 00:04:30,150
+a key part of any smart financial plan
+is diversifying your sources of income.
+
+71
+00:04:30,150 --> 00:04:33,010
+While Juan was stuck in
+a highly cyclical industry and
+
+72
+00:04:33,010 --> 00:04:35,380
+paid a heavy price when a recession hit,
+
+73
+00:04:35,380 --> 00:04:39,650
+Juanita was appropriately diversified both
+job-wise and through her investments.
+
+74
+00:04:41,290 --> 00:04:44,680
+You don't need to worry about the
+specifics of diversification right now.
+
+75
+00:04:44,680 --> 00:04:47,610
+We will talk about that
+in a later lecture.
+
+76
+00:04:47,610 --> 00:04:51,274
+For now, I just wanted to tell you this
+little story to illustrate several of
+
+77
+00:04:51,274 --> 00:04:52,820
+the key ideas of the course, and
+
+78
+00:04:52,820 --> 00:04:56,275
+give you a small example of what
+a smart financial plan might look like.
+
+79
+00:04:56,275 --> 00:05:05,299
+இசை

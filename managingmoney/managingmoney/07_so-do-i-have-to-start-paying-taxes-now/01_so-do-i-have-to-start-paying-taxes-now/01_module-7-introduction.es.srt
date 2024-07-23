@@ -1,0 +1,215 @@
+1
+00:00:07,766 --> 00:00:09,228
+Hola, soy el profesor Navarro.
+
+2
+00:00:09,228 --> 00:00:10,424
+>> Y yo soy Alex LeBon.
+
+3
+00:00:10,424 --> 00:00:11,049
+>> Muy bien.
+
+4
+00:00:11,049 --> 00:00:11,582
+Entonces, ¿qué pasa para la lección de hoy?
+
+5
+00:00:11,582 --> 00:00:15,803
+>> Es hora de impuestos, todo tipo de impuestos.
+
+6
+00:00:15,803 --> 00:00:17,373
+>> Muy bien. ¿Cuántos puedes nombrar en la parte superior de
+
+7
+00:00:17,373 --> 00:00:18,860
+tu cabeza?
+
+8
+00:00:18,860 --> 00:00:22,510
+>> Vamos a ver. Tenemos ingresos, propiedades, gas,
+
+9
+00:00:22,510 --> 00:00:26,820
+estado, valor añadido, nómina, desempleo.
+
+10
+00:00:26,820 --> 00:00:29,540
+>> Hm? ¿De verdad tienes que pagar un impuesto cuando
+
+11
+00:00:29,540 --> 00:00:30,150
+estás desempleado?
+
+12
+00:00:31,330 --> 00:00:32,410
+>> No del todo.
+
+13
+00:00:32,410 --> 00:00:35,890
+Eso es un impuesto que la gente con trabajo tiene que pagar, así que hay dinero para que
+
+14
+00:00:35,890 --> 00:00:38,520
+el gobierno ayude a la gente sin trabajo.
+
+15
+00:00:38,520 --> 00:00:40,950
+Incluyéndote, si tienes mala suerte.
+
+16
+00:00:40,950 --> 00:00:43,370
+>> Suena a socialismo para mí.
+
+17
+00:00:43,370 --> 00:00:45,910
+>> O tal vez sólo una buena política económica.
+
+18
+00:00:45,910 --> 00:00:47,610
+>> Eso es lo gracioso de los impuestos.
+
+19
+00:00:47,610 --> 00:00:51,740
+La gente en la arena política discute sobre ellos todo el tiempo.
+
+20
+00:00:51,740 --> 00:00:53,440
+>> Bueno, tal vez con una buena razón.
+
+21
+00:00:53,440 --> 00:00:54,030
+Después de todo,
+
+22
+00:00:54,030 --> 00:00:59,400
+en algunos países más de la mitad de sus ingresos se destinan a pagar sus impuestos cada año.
+
+23
+00:00:59,400 --> 00:01:03,770
+Entonces, ¿vamos a entrar hoy en un debate sobre la fiscalidad?
+
+24
+00:01:03,770 --> 00:01:06,890
+>> No, sólo voy a explicar cómo funcionan los impuestos,
+
+25
+00:01:06,890 --> 00:01:10,860
+hablar de algunos de los argumentos que justifican la tributación, luego mostrar a nuestros
+
+26
+00:01:10,860 --> 00:01:14,890
+estudiantes algunos consejos interesantes sobre cómo administrar su factura de impuestos cada año.
+
+27
+00:01:14,890 --> 00:01:16,170
+>> Muy bien, suena como un plan,
+
+28
+00:01:16,170 --> 00:01:20,820
+pero antes de empezar, vamos a jugar un pequeño juego de quién dijo qué.
+
+29
+00:01:20,820 --> 00:01:22,170
+>> Vale, ve por ello.
+
+30
+00:01:22,170 --> 00:01:23,000
+>> Muy bien, primero.
+
+31
+00:01:23,000 --> 00:01:25,480
+No hay impuestos sin representación.
+
+32
+00:01:26,820 --> 00:01:31,380
+>> Ese es el eslogan contra el rey George que puso en marcha la revolución americana.
+
+33
+00:01:31,380 --> 00:01:32,080
+>> Hm, bonito.
+
+34
+00:01:32,080 --> 00:01:32,790
+¿ Qué tal este?
+
+35
+00:01:32,790 --> 00:01:38,150
+Si te levantas temprano, trabajas hasta tarde, y pagas tus impuestos, serás rico.
+
+36
+00:01:38,150 --> 00:01:39,025
+Si golpeas petróleo.
+
+37
+00:01:39,025 --> 00:01:41,850
+>> [RISA] Eso suena como magnate del petróleo J.
+
+38
+00:01:41,850 --> 00:01:43,030
+Paul Getty.
+
+39
+00:01:43,030 --> 00:01:44,550
+>> Estás en un rollo. ¿Qué tal este?
+
+40
+00:01:44,550 --> 00:01:49,590
+El impuesto sobre la renta creó más criminales que cualquier otro acto de gobierno.
+
+41
+00:01:49,590 --> 00:01:53,640
+>> Eso sería el senador estadounidense y conservador Barry Goldwater.
+
+42
+00:01:53,640 --> 00:01:54,940
+>> Vale, Sr. Física Mayor.
+
+43
+00:01:54,940 --> 00:01:56,640
+Seguro que vas a conseguir este.
+
+44
+00:01:56,640 --> 00:01:59,980
+Lo más difícil del mundo de entender es el impuesto sobre la renta.
+
+45
+00:01:59,980 --> 00:02:01,010
+>> Buena pista.
+
+46
+00:02:01,010 --> 00:02:01,980
+¿ Esa persona?
+
+47
+00:02:01,980 --> 00:02:02,620
+Albert Einstein.
+
+48
+00:02:02,620 --> 00:02:06,160
+Podría averiguar la relatividad, ¿pero los impuestos?
+
+49
+00:02:06,160 --> 00:02:07,380
+Tal vez demasiado duro.
+
+50
+00:02:07,380 --> 00:02:09,090
+>> De hecho. Bien, aquí está el último.
+
+51
+00:02:09,090 --> 00:02:13,110
+Sólo dos cosas que son ciertas en la vida son la muerte y los impuestos.
+
+52
+00:02:13,110 --> 00:02:16,092
+>> Bueno, tendrás que ir a la primera lección si quieres esa respuesta.
+
+53
+00:02:16,092 --> 00:02:19,261
+>> Muy bien, vaya cuando esté listo.
+
+54
+00:02:19,261 --> 00:02:26,979
+[ MÚSICA]

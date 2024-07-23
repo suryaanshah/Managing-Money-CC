@@ -1,0 +1,315 @@
+1
+00:00:01,000 --> 00:00:04,170
+Ici, dans la première leçon, je voudrais commencer tout de suite avec une vue
+
+2
+00:00:04,170 --> 00:00:07,310
+d'ensemble de la façon dont les dix leçons de ce cours vont s'intégrer.
+
+3
+00:00:07,310 --> 00:00:13,200
+En même temps, je veux vous donner une idée solide du thème principal derrière le cours.
+
+4
+00:00:13,200 --> 00:00:14,430
+Sur la première question,
+
+5
+00:00:14,430 --> 00:00:18,830
+dans la plupart des classes, le contenu se construit dans une progression linéaire.
+
+6
+00:00:18,830 --> 00:00:22,930
+Par exemple, en mathématiques, vous apprenez d'abord un ajout et une soustraction.
+
+7
+00:00:22,930 --> 00:00:27,200
+Cela à son tour vous permet d'apprendre sur la multiplication, et la division, et ainsi de suite
+
+8
+00:00:27,200 --> 00:00:32,390
+jusqu'à ce que vous atteigniez le redouté, ou pour certains comme moi le calcul bien-aimé.
+
+9
+00:00:32,390 --> 00:00:37,870
+Pour ce cours cependant, le contenu n'est pas tout à fait adapté à une telle structure linéaire.
+
+10
+00:00:37,870 --> 00:00:41,590
+Ainsi, bien que nous ayons fait de notre mieux pour faire avancer les choses dans un ordre logique,
+
+11
+00:00:41,590 --> 00:00:44,810
+vous verrez que chaque sujet individuel que nous abordons
+
+12
+00:00:44,810 --> 00:00:48,250
+a plusieurs connexions avec de nombreux autres sujets.
+
+13
+00:00:48,250 --> 00:00:52,570
+Par exemple, notre première leçon sur la budgétisation a plusieurs liens avec nos
+
+14
+00:00:52,570 --> 00:00:58,350
+leçons sur les cartes de crédit, les prêts, les impôts, les investissements, etc.
+
+15
+00:00:58,350 --> 00:01:02,640
+C' est un peu comme une toile d'araignée de finances personnelles plutôt qu'une échelle.
+
+16
+00:01:03,740 --> 00:01:05,980
+Et voici le point clé, et
+
+17
+00:01:05,980 --> 00:01:09,440
+la principale raison pour laquelle j'ai la peine de partager cette architecture de cours avec vous.
+
+18
+00:01:10,530 --> 00:01:14,180
+Au fur et à mesure que vous parcourez les leçons de façon séquentielle, quand quelque chose se présente qui
+
+19
+00:01:14,180 --> 00:01:18,660
+fait référence à une leçon antérieure, je vous encourage à revenir à cette conférence d'actualité et
+
+20
+00:01:18,660 --> 00:01:20,940
+à vous rafraîchir la mémoire si vous en avez besoin.
+
+21
+00:01:20,940 --> 00:01:22,860
+Maintenant, voici un autre point clé.
+
+22
+00:01:22,860 --> 00:01:25,790
+Malgré la nature quelque peu distribuée des sujets,
+
+23
+00:01:25,790 --> 00:01:29,590
+il n'y a vraiment qu'un thème principal à ce cours. La
+
+24
+00:01:29,590 --> 00:01:34,920
+finance personnelle n'est pas comme ce test bio 101 que vous êtes sûr de pouvoir ailier
+
+25
+00:01:34,920 --> 00:01:36,830
+et peut-être encore obtenir une note décente.
+
+26
+00:01:37,830 --> 00:01:41,070
+Avoir un plan intelligent pour votre argent est très important, et
+
+27
+00:01:41,070 --> 00:01:45,050
+apprendre à développer un tel plan intelligent à ce stade de votre vie
+
+28
+00:01:45,050 --> 00:01:48,950
+jette les bases pour le reste de votre vie personnelle et professionnelle.
+
+29
+00:01:48,950 --> 00:01:52,300
+Permettez-moi d'illustrer ce point avec ma propre fable moderne,
+
+30
+00:01:52,300 --> 00:01:56,490
+qui rappelle la fourmi et la sauterelle impliquant 2 30
+
+31
+00:01:56,490 --> 00:02:00,680
+cadres d'une entreprise de taille moyenne qui développe des immeubles de bureaux.
+
+32
+00:02:00,680 --> 00:02:03,830
+Aucun de ces dirigeants, nous les appellerons Juan et
+
+33
+00:02:03,830 --> 00:02:09,670
+Juanita, ne sont dans le 1% des riches, mais tous les deux font de l'argent assez décent.
+
+34
+00:02:09,670 --> 00:02:12,930
+Ainsi, chaque mois, ils ont un surplus de fonds discrétionnaires à
+
+35
+00:02:12,930 --> 00:02:17,620
+allouer après avoir couvert leurs dépenses fixes comme le logement et l'assurance.
+
+36
+00:02:17,620 --> 00:02:20,768
+D' une part, Juanita a un plan financier très intelligent.
+
+37
+00:02:20,768 --> 00:02:26,510
+Elle économise 5 % de son salaire chaque mois, investit judicieusement dans le marché boursier
+
+38
+00:02:26,510 --> 00:02:30,340
+et possède même une petite entreprise Internet qu'elle exploite sur le côté.
+
+39
+00:02:30,340 --> 00:02:33,250
+Par conséquent, elle a de multiples flux de revenus
+
+40
+00:02:33,250 --> 00:02:37,170
+ainsi qu'un capital décent dans son entreprise et dans d'autres placements.
+
+41
+00:02:38,180 --> 00:02:40,800
+Bien qu'elle ne semble pas être super riche,
+
+42
+00:02:40,800 --> 00:02:45,460
+elle conduit une Toyota Camry de dix ans avec un prêt de voiture payé depuis longtemps.
+
+43
+00:02:45,460 --> 00:02:49,770
+Elle peut subvenir aux besoins de sa famille et vivre une vie raisonnablement confortable.
+
+44
+00:02:49,770 --> 00:02:53,995
+Juan, en revanche, vit aussi bien qu'il le peut sur le salaire qu'il reçoit du travail,
+
+45
+00:02:53,995 --> 00:02:56,430
+sa seule source de revenu.
+
+46
+00:02:56,430 --> 00:02:59,110
+Une partie de son flux de trésorerie est un gros paiement de location
+
+47
+00:02:59,110 --> 00:03:01,870
+chaque mois sur une Porsche rouge vraiment cool.
+
+48
+00:03:01,870 --> 00:03:04,800
+Et le mec aime faire la fête, que puis-je dire.
+
+49
+00:03:04,800 --> 00:03:07,900
+Alors que pensez-vous qu'il se passe quand un ami commun de Juan et
+
+50
+00:03:07,900 --> 00:03:12,150
+Juanita leur offre une excellente opportunité d'investir dans une nouvelle entreprise commerciale
+
+51
+00:03:12,150 --> 00:03:15,030
+avec une forte probabilité de succès ?
+
+52
+00:03:15,030 --> 00:03:18,510
+Alors que Juanita peut profiter pleinement de cette opportunité,
+
+53
+00:03:18,510 --> 00:03:19,750
+Juan est simplement exploité.
+
+54
+00:03:20,790 --> 00:03:24,790
+Avance rapide cinq ans, et l'économie est entrée dans une récession.
+
+55
+00:03:24,790 --> 00:03:29,300
+L' industrie du bâtiment est sur les cordes et Juan et Juanita sont licenciés.
+
+56
+00:03:29,300 --> 00:03:32,370
+Alors que Juan finit sur la ligne de chômage prolongée,
+
+57
+00:03:32,370 --> 00:03:36,740
+à bord de l'autobus après avoir manqué plusieurs paiements de location sur sa dernière Porsche,
+
+58
+00:03:36,740 --> 00:03:39,560
+Juanita consacre tout simplement plus de temps à son activité secondaire et
+
+59
+00:03:39,560 --> 00:03:42,480
+tire un peu d'argent de ses autres investissements quand elle en a besoin.
+
+60
+00:03:43,620 --> 00:03:48,440
+Avance rapide 20 années de plus, et Juanita part à une retraite active en Floride.
+
+61
+00:03:48,440 --> 00:03:52,300
+Juan, en revanche, en est venu à la conclusion inconfortable qu'
+
+62
+00:03:52,300 --> 00:03:55,280
+il devra probablement travailler bien avant sa retraite supposée.
+
+63
+00:03:56,730 --> 00:03:58,309
+Alors, quels sont les points clés ?
+
+64
+00:03:59,340 --> 00:04:03,360
+Eh bien, tout d'abord, avoir un plan intelligent et équilibré, nous allons vivre
+
+65
+00:04:03,360 --> 00:04:08,140
+une vie plus confortable en même temps qu'il nous prépare aux urgences, aux
+
+66
+00:04:08,140 --> 00:04:12,490
+mauvaises tendances économiques ou aux occasions d'investissement qui pourraient se trouver dans l'avenir.
+
+67
+00:04:13,680 --> 00:04:18,550
+Deuxièmement, la planification d'
+
+68
+00:04:18,550 --> 00:04:22,720
+une situation d'urgence imprévue, comme la perte d'emploi, est aussi essentielle à votre plan financier que votre portefeuille de placements.
+
+69
+00:04:23,850 --> 00:04:24,860
+Enfin,
+
+70
+00:04:24,860 --> 00:04:30,150
+un élément clé de tout plan financier intelligent consiste à diversifier vos sources de revenus.
+
+71
+00:04:30,150 --> 00:04:33,010
+Alors que Juan était coincé dans une industrie très cyclique et
+
+72
+00:04:33,010 --> 00:04:35,380
+payait un lourd tribut lorsqu'une récession a frappé,
+
+73
+00:04:35,380 --> 00:04:39,650
+Juanita a été suffisamment diversifiée à la fois sur le plan de l'emploi et grâce à ses investissements.
+
+74
+00:04:41,290 --> 00:04:44,680
+Vous n'avez pas à vous soucier des spécificités de la diversification en ce moment.
+
+75
+00:04:44,680 --> 00:04:47,610
+Nous en parlerons lors d'une conférence ultérieure.
+
+76
+00:04:47,610 --> 00:04:51,274
+Pour l'instant, je voulais simplement vous raconter cette petite histoire pour illustrer plusieurs
+
+77
+00:04:51,274 --> 00:04:52,820
+des idées clés du cours et
+
+78
+00:04:52,820 --> 00:04:56,275
+vous donner un petit exemple de ce que pourrait ressembler un plan financier intelligent.
+
+79
+00:04:56,275 --> 00:05:05,299
+[ MUSIQUE]

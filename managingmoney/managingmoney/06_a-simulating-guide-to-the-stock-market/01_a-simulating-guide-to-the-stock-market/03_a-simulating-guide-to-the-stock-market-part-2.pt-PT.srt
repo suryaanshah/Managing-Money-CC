@@ -1,0 +1,355 @@
+1
+00:00:01,030 --> 00:00:04,520
+Uma vez que estamos falando de mercado de ações investir um bom lugar para começar
+
+2
+00:00:04,520 --> 00:00:08,260
+pode ser com uma explicação do que um mercado de ações realmente é.
+
+3
+00:00:09,690 --> 00:00:12,940
+Basicamente, um mercado de ações é como um lugar físico
+
+4
+00:00:12,940 --> 00:00:17,420
+como a Bolsa de Valores de Nova York ou poderia ser um lugar virtual como o
+
+5
+00:00:17,420 --> 00:00:19,279
+mercado NASDAQ onde as ações são compradas e vendidas.
+
+6
+00:00:20,880 --> 00:00:22,950
+A propósito, a Bolsa de Valores de Nova Iorque e a
+
+7
+00:00:22,950 --> 00:00:25,820
+NASDAQ estão localizadas nos Estados Unidos.
+
+8
+00:00:25,820 --> 00:00:29,050
+E eles classificam o número um e dois no mundo em termos do valor
+
+9
+00:00:29,050 --> 00:00:31,540
+das empresas que são negociadas nessas bolsas.
+
+10
+00:00:32,820 --> 00:00:33,900
+Além disso, em todo o mundo,
+
+11
+00:00:33,900 --> 00:00:38,600
+algumas das bolsas de valores mais importantes incluem a Bolsa de Valores de Londres da Inglaterra, a Bolsa de Valores de
+
+12
+00:00:38,600 --> 00:00:44,540
+Tóquio do Japão, a Bolsa de Valores de Xangai e Hong Kong, a
+
+13
+00:00:44,540 --> 00:00:49,600
+Bolsa de Valores de Bombaim da Índia e a BMF Bovespa do Brasil.
+
+14
+00:00:51,060 --> 00:00:53,950
+Quanto ao que realmente pode ser negociado nessas bolsas,
+
+15
+00:00:53,950 --> 00:00:59,100
+a primeira resposta óbvia é “Stock” em empresas, mas o que são realmente ações?
+
+16
+00:00:59,100 --> 00:01:02,020
+Eles são mais do que apenas um pedaço de papel, alguns bytes e
+
+17
+00:01:02,020 --> 00:01:04,980
+pedaços que parecem flutuar magicamente em valor.
+
+18
+00:01:04,980 --> 00:01:08,520
+As ações são, na verdade, pequenas ações de propriedade de uma empresa.
+
+19
+00:01:08,520 --> 00:01:13,400
+Então, por exemplo, se você quiser comprar ações de uma empresa americana como a Apple,
+
+20
+00:01:13,400 --> 00:01:18,030
+seu símbolo de ações é AAPL e está listado na bolsa NASDAQ.
+
+21
+00:01:19,060 --> 00:01:22,570
+Depois de comprar algumas ações, você seria um proprietário de parte da própria Apple,
+
+22
+00:01:22,570 --> 00:01:24,700
+juntamente com os muitos outros que detêm ações.
+
+23
+00:01:25,890 --> 00:01:29,560
+Dependendo do tipo de ações, quantas ações você possui e
+
+24
+00:01:29,560 --> 00:01:34,120
+se ele é negociado publicamente para qualquer pessoa que queira comprar algumas em uma bolsa,
+
+25
+00:01:34,120 --> 00:01:38,280
+você pode ter direito a dividendos, a oportunidade de participar de
+
+26
+00:01:38,280 --> 00:01:43,340
+reuniões de acionistas, e às vezes participar de votos sobre decisões da empresa.
+
+27
+00:01:43,340 --> 00:01:47,990
+Quanto a como você realmente ganha dinheiro, o conceito chave aqui é o de retorno total.
+
+28
+00:01:49,200 --> 00:01:54,710
+A idéia de retorno total de um estoque é que seus ganhos consistem em dois componentes.
+
+29
+00:01:54,710 --> 00:01:58,250
+O primeiro componente é o dividendo anual que uma ação pode pagar a você como
+
+30
+00:01:58,250 --> 00:01:59,710
+acionista.
+
+31
+00:01:59,710 --> 00:02:03,040
+Para isso, você deve adicionar qualquer apreciação de preço sobre o estoque
+
+32
+00:02:03,040 --> 00:02:04,110
+ao longo de um ano.
+
+33
+00:02:05,390 --> 00:02:10,060
+Suponha, então, que você compre uma ação de US $100 em 1 de janeiro,
+
+34
+00:02:10,060 --> 00:02:14,500
+na fictícia United Conglomerate Industries, símbolo de ações UCI.
+
+35
+00:02:15,640 --> 00:02:18,860
+Ao longo do ano, o preço aumenta para US $105,
+
+36
+00:02:18,860 --> 00:02:23,340
+enquanto a UCI lhe paga um pequeno dividendo agradável de US $5.
+
+37
+00:02:23,340 --> 00:02:26,460
+Então, qual é o seu retorno total para o ano?
+
+38
+00:02:26,460 --> 00:02:29,590
+Bem, você certamente não precisa de nenhum cálculo para responder a isso.
+
+39
+00:02:29,590 --> 00:02:32,140
+Seu retorno total para o ano é de apenas 10%.
+
+40
+00:02:32,140 --> 00:02:36,210
+Cinco dólares de apreciação do preço mais cinco dólares de dividendo
+
+41
+00:02:36,210 --> 00:02:38,390
+dividido pelo seu preço de compra original.
+
+42
+00:02:40,730 --> 00:02:42,110
+Agora, aqui está o nosso próximo ponto importante.
+
+43
+00:02:43,180 --> 00:02:48,110
+Não são apenas as empresas que são negociadas no mercado de ações nos dias de hoje.
+
+44
+00:02:48,110 --> 00:02:52,870
+Em 1993 nasceu um novo tipo de instrumento de negociação chamado Fundo de Troca Traded.
+
+45
+00:02:53,920 --> 00:02:57,280
+O nome curto para estes instrumentos é ETF.
+
+46
+00:02:57,280 --> 00:03:02,880
+E hoje, usando ETFs, você pode negociar setores inteiros de mercado, como energia
+
+47
+00:03:02,880 --> 00:03:08,810
+, tecnologia ou cuidados de saúde usando ETFs como XLE, XLK e XLV.
+
+48
+00:03:12,345 --> 00:03:16,425
+A vantagem de negociar um setor em vez de apenas uma empresa dentro desse setor
+
+49
+00:03:16,425 --> 00:03:19,315
+é que você elimina o que é chamado de risco da empresa.
+
+50
+00:03:20,405 --> 00:03:23,085
+A idéia aqui é que um setor como habitação ou
+
+51
+00:03:23,085 --> 00:03:26,230
+produtos farmacêuticos pode estar indo muito bem, mas
+
+52
+00:03:26,230 --> 00:03:30,530
+uma empresa em particular dentro desse setor pode cair em algum azar.
+
+53
+00:03:30,530 --> 00:03:33,130
+Se você investir nessa
+
+54
+00:03:33,130 --> 00:03:37,870
+empresa particularmente estrelada para tirar proveito de uma tendência de setor favorável, você estará sem sorte.
+
+55
+00:03:37,870 --> 00:03:42,310
+Mas se você usar um ETF para investir no setor em si, você vai fazer muito melhor.
+
+56
+00:03:42,310 --> 00:03:47,870
+A mesma idéia por trás do setor de investimento ETF também está por trás dessa classe de ETFs que
+
+57
+00:03:47,870 --> 00:03:50,630
+permitem que você compre o amplo mercado de um país
+
+58
+00:03:50,630 --> 00:03:54,850
+em vez de qualquer um dos setores individuais ou empresas dentro desse mercado.
+
+59
+00:03:54,850 --> 00:03:58,880
+Por exemplo, suponha que você não queira se preocupar em tentar escolher
+
+60
+00:03:58,880 --> 00:04:00,130
+uma empresa ou um setor, mas
+
+61
+00:04:00,130 --> 00:04:04,889
+simplesmente queira especular em um mercado amplo como o S&P 500 nos Estados Unidos.
+
+62
+00:04:05,925 --> 00:04:10,070
+Este índice de mercado contém as 500 maiores empresas dos EUA
+
+63
+00:04:10,070 --> 00:04:13,495
+com um valor coletado de mais de US $5 trilhões.
+
+64
+00:04:13,495 --> 00:04:15,640
+Se você quer comprar um pedaço desta pedra,
+
+65
+00:04:15,640 --> 00:04:18,980
+tudo que você precisa fazer é investir no fundo comercial SPY.
+
+66
+00:04:20,430 --> 00:04:24,700
+A beleza de investir em um fundo de índice do mercado de ações como SPY
+
+67
+00:04:24,700 --> 00:04:27,780
+é que ele elimina tanto o risco da empresa quanto do setor.
+
+68
+00:04:30,719 --> 00:04:33,908
+Quanto à forma como você realmente vai sobre a compra e venda de ações,
+
+69
+00:04:33,908 --> 00:04:36,780
+isso requer que você crie uma conta de negociação de ações.
+
+70
+00:04:37,980 --> 00:04:42,250
+Assim como o mercado de ações investindo em si você também quer fazer sua lição de casa aqui,
+
+71
+00:04:42,250 --> 00:04:45,000
+pois há muitos fornecedores diferentes para escolher.
+
+72
+00:04:45,000 --> 00:04:47,420
+Aqui está apenas um top 10 lista de revisão para olhar sobre.
+
+73
+00:04:48,570 --> 00:04:52,853
+Inclui nomes familiares como E*Trade, Fidelity e Charles Schwab.
+
+74
+00:04:57,367 --> 00:05:01,236
+Alguns parâmetros-chave que você quer analisar na tomada de suas decisões incluem quanta
+
+75
+00:05:01,236 --> 00:05:03,810
+comissão você quer pagar por negociação.
+
+76
+00:05:03,810 --> 00:05:08,820
+E o mais importante para iniciantes, quão fácil é a plataforma de negociação de usar.
+
+77
+00:05:08,820 --> 00:05:11,800
+Observe aqui que, como regra geral, você tende a obter menos serviço,
+
+78
+00:05:11,800 --> 00:05:13,780
+a menor taxa de comissão por negociação.
+
+79
+00:05:13,780 --> 00:05:14,670
+Então escolha sabiamente.
+
+80
+00:05:15,870 --> 00:05:18,240
+Agora, antes de mergulhar na bolsa,
+
+81
+00:05:18,240 --> 00:05:22,550
+vou sugerir que passe um bom ano ou mais aprendendo a negociar e investir
+
+82
+00:05:22,550 --> 00:05:27,845
+usando um jogo simulado do mercado de ações, como Stock Check ou Wall Street Survivor.
+
+83
+00:05:27,845 --> 00:05:31,105
+Há uma razão muito simples para começar com negociação simulada.
+
+84
+00:05:31,105 --> 00:05:35,005
+A maioria das pessoas que entram diretamente na negociação de ações com dinheiro real, perdem a maioria ou
+
+85
+00:05:35,005 --> 00:05:36,435
+todo esse dinheiro.
+
+86
+00:05:36,435 --> 00:05:41,160
+Como dizem os cínicos de Wall Street, isso é pagar suas mensalidades ao mercado.
+
+87
+00:05:41,160 --> 00:05:44,330
+Então segure seus cavalos e pratique primeiro com dinheiro de jogo e
+
+88
+00:05:44,330 --> 00:05:48,240
+é isso que eu vou mostrar-lhe como fazer no último módulo desta lição.
+
+89
+00:05:48,240 --> 00:05:55,849
+[ MUSIC]

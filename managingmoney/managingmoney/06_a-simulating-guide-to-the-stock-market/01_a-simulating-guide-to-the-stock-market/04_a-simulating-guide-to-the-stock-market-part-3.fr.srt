@@ -1,0 +1,267 @@
+1
+00:00:00,550 --> 00:00:03,320
+Dans cette section, je veux passer en revue quelques-unes des bases de la
+
+2
+00:00:03,320 --> 00:00:05,570
+négociation d'actions que vous pouvez trouver utile.
+
+3
+00:00:05,570 --> 00:00:06,620
+Mais avant que je fasse ça.
+
+4
+00:00:06,620 --> 00:00:10,230
+Je tiens à souligner l'importance d'apprendre à négocier des actions
+
+5
+00:00:10,230 --> 00:00:12,630
+dans un environnement de jeu simulé.
+
+6
+00:00:12,630 --> 00:00:16,330
+C' est ce que beaucoup d'étudiants font à l'école de commerce de l'UCI, et vous devriez aussi.
+
+7
+00:00:17,740 --> 00:00:21,970
+L' idée derrière un simulateur boursier est qu'on vous donne une somme fixe,
+
+8
+00:00:21,970 --> 00:00:23,120
+comme un million de dollars.
+
+9
+00:00:23,120 --> 00:00:28,010
+Et vous êtes autorisé à échanger cet argent sur une période de temps déterminée.
+
+10
+00:00:28,010 --> 00:00:30,130
+La partie cool sur les simulateurs boursiers.
+
+11
+00:00:30,130 --> 00:00:34,860
+Est-ce qu'ils s'appuient sur des données réelles en temps réel provenant des marchés boursiers eux-mêmes.
+
+12
+00:00:34,860 --> 00:00:38,060
+Donc, ils seulement la différence réelle entre le trading sur un simulateur.
+
+13
+00:00:38,060 --> 00:00:41,790
+Et la négociation sur votre propre compte boursier, est que vous utilisez de l'argent de jeu.
+
+14
+00:00:43,890 --> 00:00:47,780
+Quant au simulateur de stock à utiliser, il y en a un tas là-bas.
+
+15
+00:00:47,780 --> 00:00:50,170
+Mais il est difficile de se tromper avec Wall Street Survivor.
+
+16
+00:00:51,320 --> 00:00:54,000
+Donc, notre suggestion dans ce cours, est que vous allez de l'avant et de
+
+17
+00:00:54,000 --> 00:00:57,090
+créer un compte dans ce simulateur ou un simulateur similaire.
+
+18
+00:00:57,090 --> 00:00:57,780
+Oui, c'est gratuit.
+
+19
+00:00:58,790 --> 00:01:02,060
+En ce qui concerne le trading boursier lui-même, voici quelques concepts clés.
+
+20
+00:01:03,260 --> 00:01:06,190
+Commençons par les ordres de marché ou de limite.
+
+21
+00:01:08,240 --> 00:01:10,350
+Avec un ordre de marché, le stock que vous voulez acheter.
+
+22
+00:01:10,350 --> 00:01:13,600
+Est acheté à n'importe quel prix est compensé sur le marché au moment où vous
+
+23
+00:01:13,600 --> 00:01:15,130
+faites votre commerce.
+
+24
+00:01:15,130 --> 00:01:19,010
+L' avantage d'un ordre de marché est que vous êtes assuré qu'il sera rempli.
+
+25
+00:01:19,010 --> 00:01:22,870
+Mais vous pouvez payer un prix trop élevé si vous arrivez à acheter sur un grand élan swing
+
+26
+00:01:22,870 --> 00:01:23,540
+pendant la journée.
+
+27
+00:01:24,640 --> 00:01:27,560
+En revanche, avec un ordre limite, vous pouvez définir votre prix de
+
+28
+00:01:27,560 --> 00:01:29,910
+manière à ne pas dépasser un certain montant.
+
+29
+00:01:29,910 --> 00:01:32,660
+Supposons par exemple que vous vouliez acheter une autre part d'UCI.
+
+30
+00:01:32,660 --> 00:01:36,020
+Et vous pensez que c'est une bonne affaire à n'importe quel prix inférieur à 105$.
+
+31
+00:01:36,020 --> 00:01:40,650
+Cependant, si vous devez payer un prix supérieur à 105$.
+
+32
+00:01:40,650 --> 00:01:45,920
+Vous ne pensez pas que la récompense que vous êtes susceptible de gagner, vaudra le risque.
+
+33
+00:01:45,920 --> 00:01:46,920
+Donc, avec une commande limite,
+
+34
+00:01:46,920 --> 00:01:50,700
+tout ce que vous devez faire est de fixer votre limite au prix de 105$ dans ce cas.
+
+35
+00:01:51,780 --> 00:01:55,570
+Bien sûr, le côté inférieur d'un ordre limite est que l'ordre peut ne pas être rempli si
+
+36
+00:01:55,570 --> 00:01:58,721
+le prix reste supérieur à 105$.
+
+37
+00:01:58,721 --> 00:02:02,930
+Maintenant, un deuxième concept clé est celui des pertes stop.
+
+38
+00:02:02,930 --> 00:02:04,950
+Un point clé ici est que lorsque vous achetez une action,
+
+39
+00:02:04,950 --> 00:02:06,790
+vous devez gérer soigneusement votre risque.
+
+40
+00:02:07,930 --> 00:02:09,300
+Qu' est-ce que je veux dire par là ?
+
+41
+00:02:09,300 --> 00:02:13,360
+Bien sûr, vous achetez cette action sur la spéculation qu'elle va augmenter.
+
+42
+00:02:13,360 --> 00:02:17,200
+Mais malgré toutes vos recherches minutieuses, le stock pourrait en fait tomber.
+
+43
+00:02:17,200 --> 00:02:21,070
+Et si cela tombe beaucoup, vous pouvez perdre beaucoup d'argent, et parfois très rapidement.
+
+44
+00:02:22,240 --> 00:02:25,120
+L' idée d'un stop loss est de mettre dans un ordre de vente.
+
+45
+00:02:25,120 --> 00:02:28,370
+Alors que si votre stock tombe en dessous d'un certain montant.
+
+46
+00:02:28,370 --> 00:02:30,990
+Ensuite, le stock est automatiquement vendu.
+
+47
+00:02:30,990 --> 00:02:34,720
+Une bonne règle ici est de ne jamais perdre plus de 10% dans un stock.
+
+48
+00:02:34,720 --> 00:02:37,825
+Donc, par exemple, si vous achetez une action d'UCI à 100$,
+
+49
+00:02:37,825 --> 00:02:40,990
+vous pourriez vouloir mettre un ordre d'arrêt pour 90$.
+
+50
+00:02:40,990 --> 00:02:47,010
+Et voici un concept connexe cool, celui de la perte d'arrêt.
+
+51
+00:02:47,010 --> 00:02:50,180
+L' idée ici est de ne jamais transformer un gagnant en un perdant.
+
+52
+00:02:50,180 --> 00:02:55,310
+Donc, par exemple, si vous achetez UCI à 100$ et cela va à 110$.
+
+53
+00:02:55,310 --> 00:02:59,760
+La chose sage à faire ici pourrait être d'augmenter votre ordre de stop loss à 100$
+
+54
+00:02:59,760 --> 00:03:01,930
+plutôt que le 90 original.
+
+55
+00:03:01,930 --> 00:03:06,130
+Donc si UCI tombe en panne, au moins vous n'avez pas perdu d'argent et
+
+56
+00:03:06,130 --> 00:03:09,090
+n'avez donc pas transformé un gagnant en un perdant.
+
+57
+00:03:09,090 --> 00:03:11,840
+Ce ne sont là que quelques-unes des nombreuses astuces du marché boursier.
+
+58
+00:03:11,840 --> 00:03:16,250
+Que vous aurez besoin d'apprendre à gagner de l'argent sur vos placements boursiers.
+
+59
+00:03:16,250 --> 00:03:20,210
+Alors que vous n'avez peut-être pas beaucoup d'argent à investir tout à l'heure dans le marché boursier.
+
+60
+00:03:20,210 --> 00:03:23,580
+Avec le temps, au fur et à mesure que vous obtenez de meilleurs emplois et de meilleurs
+
+61
+00:03:23,580 --> 00:03:27,030
+salaires, c'est au moins ce que nous espérons tous.
+
+62
+00:03:27,030 --> 00:03:30,079
+Vous commencerez à accumuler du capital que vous aurez besoin d'investir.
+
+63
+00:03:31,440 --> 00:03:35,840
+Donc, si vous payez vos frais de scolarité à la bourse maintenant en utilisant l'argent de jeu.
+
+64
+00:03:35,840 --> 00:03:38,190
+Et apprenez comment fonctionne le négoce boursier.
+
+65
+00:03:38,190 --> 00:03:41,090
+Tu vivras une vie beaucoup plus prospère.
+
+66
+00:03:41,090 --> 00:03:43,260
+Et c'est ça qu'est la gestion de votre argent.
+
+67
+00:03:43,260 --> 00:03:46,429
+[ MUSIQUE]

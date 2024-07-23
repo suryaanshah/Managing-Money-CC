@@ -1,0 +1,439 @@
+1
+00:00:00,450 --> 00:00:05,270
+In diesem Teil der Lektion werden wir sowohl Kreditberichte als auch
+
+2
+00:00:05,270 --> 00:00:09,150
+Kredit-Scores untersuchen, und ich werde Ihnen insbesondere zeigen, wie Kreditwürdigkeiten
+
+3
+00:00:09,150 --> 00:00:12,060
+tatsächlich aus Kreditberichten abgeleitet werden.
+
+4
+00:00:12,060 --> 00:00:14,450
+Beginnen wir also mit dem Kreditbericht.
+
+5
+00:00:14,450 --> 00:00:18,480
+Ihr Kreditbericht ist eine detaillierte Aufzeichnung Ihrer Kredithistorie.
+
+6
+00:00:18,480 --> 00:00:23,800
+Und es konzentriert sich speziell auf Ihre Fähigkeit, Geld zurückzuzahlen, das Sie leihen können.
+
+7
+00:00:23,800 --> 00:00:26,420
+Was Sie also fragen können, ist in Ihrem Kreditbericht?
+
+8
+00:00:27,760 --> 00:00:33,450
+Nun, zuerst, es enthält persönliche Daten wie Ihre aktuellen und früheren Adressen.
+
+9
+00:00:33,450 --> 00:00:36,820
+Ihre Sozialversicherungs- oder nationale Identifikationsnummer.
+
+10
+00:00:36,820 --> 00:00:38,090
+Und Ihre Beschäftigungsgeschichte.
+
+11
+00:00:39,250 --> 00:00:44,500
+Zweitens enthält Ihr Kreditbericht Ihre Kredithistorie und zielt insbesondere darauf ab,
+
+12
+00:00:44,500 --> 00:00:50,480
+die Anzahl und Art der Konten zu ermitteln, die Sie überfällig im Vergleich zu einem guten Status haben.
+
+13
+00:00:51,830 --> 00:00:56,500
+Drittens dokumentiert Ihr aktueller Kreditbericht vergangene Kreditanfragen in Ihren
+
+14
+00:00:56,500 --> 00:00:57,530
+Kreditbericht.
+
+15
+00:00:57,530 --> 00:01:00,140
+Also, worum geht es denn?
+
+16
+00:01:00,140 --> 00:01:04,370
+Nun, es ist ein Mittel, um sowohl Ihre Kreditaktivität als auch
+
+17
+00:01:04,370 --> 00:01:05,770
+Ihre mögliche Zahlungsfähigkeit zu messen.
+
+18
+00:01:06,780 --> 00:01:11,310
+Die große Statistik hier ist, dass, zumindest nach einer glaubwürdigen Quelle,
+
+19
+00:01:11,310 --> 00:01:15,070
+Personen, die im
+
+20
+00:01:15,070 --> 00:01:19,140
+vergangenen Jahr sechs oder mehr Untersuchungen in ihre Berichte aufgenommen haben, bis zu
+
+21
+00:01:19,140 --> 00:01:23,310
+achtmal häufiger Konkurs einlegen können als solche mit Kreditberichten, die überhaupt keine Anfragen haben.
+
+22
+00:01:24,390 --> 00:01:27,970
+Schließlich enthält der Bericht wichtige Details
+
+23
+00:01:27,970 --> 00:01:31,890
+zu Ihren Konten, die möglicherweise an eine Inkassoagentur übergeben wurden.
+
+24
+00:01:32,900 --> 00:01:37,490
+Und beachten Sie, dass diese Details alle Informationen über Klagen oder
+
+25
+00:01:37,490 --> 00:01:39,900
+Ansprüche auf Ihr Eigentum oder die Garnierung oder
+
+26
+00:01:39,900 --> 00:01:44,100
+Einnahme Ihrer Löhne als Folge einer Art von Klage oder einer anderen Handlung enthalten.
+
+27
+00:01:45,370 --> 00:01:48,310
+Mit anderen Worten, wenn Sie zu spät auf Ihre Kreditkarten gekommen sind oder
+
+28
+00:01:48,310 --> 00:01:51,960
+in Schwierigkeiten mit dem Gesetz für die Nichtbezahlung Ihrer Schulden oder
+
+29
+00:01:51,960 --> 00:01:57,220
+Sachen wie Kindergeld für Ihre Kinder laufen, wird Ihr Kreditbericht es offenbaren.
+
+30
+00:01:57,220 --> 00:02:01,910
+Aber solche Opfern sind nicht wirklich die wichtigste Funktion des Kreditberichts.
+
+31
+00:02:01,910 --> 00:02:03,210
+Also, was ist?
+
+32
+00:02:04,710 --> 00:02:07,840
+Geben Sie Stufe links, Ihre Kredit-Score.
+
+33
+00:02:07,840 --> 00:02:12,350
+Ihr Kredit-Score ist eine der wichtigsten numerischen Messungen
+
+34
+00:02:12,350 --> 00:02:14,650
+von Ihnen als Finanzunternehmen.
+
+35
+00:02:14,650 --> 00:02:16,340
+Und es ist eine Zahl, die in erster
+
+36
+00:02:16,340 --> 00:02:20,989
+Linie eine sehr detaillierte statistische Analyse Ihrer Kreditberichtdaten basiert.
+
+37
+00:02:22,150 --> 00:02:25,830
+Und abhängig von der Kreditbehörde, die die Kredit-Score berechnet,
+
+38
+00:02:25,830 --> 00:02:27,700
+können sie auch andere Informationen verwenden.
+
+39
+00:02:28,980 --> 00:02:30,610
+Nun, hier ist ein paar gute Sachen zu wissen.
+
+40
+00:02:31,750 --> 00:02:35,200
+Der Standardbereich der Kredit-Scores liegt zwischen 300 und 850.
+
+41
+00:02:35,200 --> 00:02:40,080
+Und das sollte intuitiv sein, je höher Ihre Punktzahl, desto weniger
+
+42
+00:02:40,080 --> 00:02:44,810
+Risiko Kreditgeber sehen Sie als mit, wenn es darum geht, Ihre Schulden auszufallen.
+
+43
+00:02:44,810 --> 00:02:48,410
+Ein höherer Kreditwert bedeutet also sowohl niedrigere Zinssätze für die
+
+44
+00:02:48,410 --> 00:02:51,200
+Kreditaufnahme als auch oft bessere Kreditbedingungen.
+
+45
+00:02:52,320 --> 00:02:56,770
+In der Praxis betrachten die meisten Banken und Kreditgeber alles über 750
+
+46
+00:02:56,770 --> 00:03:01,550
+als ausgezeichnet und Punktwerte von 800 und darüber als Kredit-Perfektion.
+
+47
+00:03:03,040 --> 00:03:07,620
+Was sind die Details dieser Punktzahl und was misst sie eigentlich?
+
+48
+00:03:07,620 --> 00:03:12,490
+Nun, der bekannteste Kredit-Score und Industriestandard ist der FICO-Score.
+
+49
+00:03:13,580 --> 00:03:19,602
+Diese FICO-Score ist nach ihrem Erfinder, der Fair-Isaac Corporation, benannt.
+
+50
+00:03:19,602 --> 00:03:23,980
+In der Tat ist Fair-Isaac der König der Kredit-Scores auf dem Markt. Was
+
+51
+00:03:25,610 --> 00:03:30,370
+die spezifische Funktion des FICO-Score betrifft, so
+
+52
+00:03:30,370 --> 00:03:35,230
+besteht sein statistisches Ziel darin, die Wahrscheinlichkeit vorherzusagen, dass ein Kreditnehmer 90 Tage überfällig oder
+
+53
+00:03:35,230 --> 00:03:39,018
+schlechter geht, in den 24 Monaten nach der Berechnung des Punktes.
+
+54
+00:03:39,018 --> 00:03:44,060
+Nun gibt es neben Fair-Isaac drei weitere
+
+55
+00:03:44,060 --> 00:03:49,830
+Hauptauskunfteien, die mit eigenen proprietären Modellen FICO-ähnliche Partituren produzieren. Zu
+
+56
+00:03:49,830 --> 00:03:54,670
+diesen Büros gehören Equifax, Experian und Transunion.
+
+57
+00:03:54,670 --> 00:03:59,340
+Warum Ihr Kredit-Score in diesen Büros unterschiedlich sein kann, liegt das meiste
+
+58
+00:03:59,340 --> 00:04:04,160
+daran, dass die gewichteten Systeme in ihren proprietären Modellen verwendet werden.
+
+59
+00:04:05,530 --> 00:04:07,040
+Nun, hier ist ein wichtiger Punkt.
+
+60
+00:04:07,040 --> 00:04:11,940
+In Amerika hat jeder Bürger jedes Jahr Anspruch auf eine kostenlose Gutschrift
+
+61
+00:04:11,940 --> 00:04:14,130
+von jeder der drei großen Kreditauskunfteien.
+
+62
+00:04:15,140 --> 00:04:16,440
+Und hier ist ein wichtiger Tipp.
+
+63
+00:04:16,440 --> 00:04:22,190
+Um Ihre kostenlose Gutschrift zu erhalten, können Sie auf die Webseite AnnualCreditReport.com gehen.
+
+64
+00:04:22,190 --> 00:04:27,760
+Dies ist eine Website, die gemeinsam von Equifax, Experian und TransUnion betrieben wird.
+
+65
+00:04:27,760 --> 00:04:31,260
+Und beachten Sie hier, dass, wenn Sie auch Ihre Kredit-Score erhalten möchten,
+
+66
+00:04:31,260 --> 00:04:34,940
+zusammen mit Ihrer Kredit-Bericht, es wird eine kleine Gebühr,
+
+67
+00:04:34,940 --> 00:04:38,670
+was einer der offensichtlichen Gründe ist, warum diese Kredit-Büros diese Website sponsern.
+
+68
+00:04:40,100 --> 00:04:43,990
+Was die Gestaltung von Kreditberichten anbelangt, so werden sie erheblich variieren,
+
+69
+00:04:43,990 --> 00:04:48,190
+da die verschiedenen Kreditstellen tatsächlich unterschiedliche Praktiken haben.
+
+70
+00:04:48,190 --> 00:04:51,730
+Das heißt, es gibt erhebliche Gemeinsamkeiten.
+
+71
+00:04:51,730 --> 00:04:55,150
+Die meisten Berichte enthalten beispielsweise eine kurze Zusammenfassung
+
+72
+00:04:55,150 --> 00:04:58,690
+aller Problembereiche, die sie in Ihrem Fall bemerken.
+
+73
+00:04:58,690 --> 00:05:01,340
+Eine Stichprobenzeile könnte hier gelesen werden,
+
+74
+00:05:01,340 --> 00:05:05,640
+der Anteil der Salden im Vergleich zum Kreditlimit zu hoch.
+
+75
+00:05:05,640 --> 00:05:08,390
+Zusätzlich zu solchen Vorsichts-Flags
+
+76
+00:05:08,390 --> 00:05:13,510
+enthält Ihr Kreditbericht auch spezifische Zahlungsdaten aus den Kreditlinien, die Sie haben.
+
+77
+00:05:13,510 --> 00:05:17,620
+Wir setzen auch rote Fahnen auf Dinge, wie alle Monate, in denen Sie zu spät bezahlt haben oder
+
+78
+00:05:17,620 --> 00:05:19,000
+nicht genug.
+
+79
+00:05:19,000 --> 00:05:21,250
+Nun, hier ist ein wirklich wichtiger Kopf oben.
+
+80
+00:05:21,250 --> 00:05:23,810
+Die Kredit-Reporting-Unternehmen sind bei weitem nicht perfekt,
+
+81
+00:05:23,810 --> 00:05:26,570
+und sie werden manchmal Fehler machen.
+
+82
+00:05:26,570 --> 00:05:31,090
+Leider liegt es in Ihrer Verantwortung, diese Fehler zu korrigieren.
+
+83
+00:05:31,090 --> 00:05:34,230
+In der Regel bedeutet dies, eine Art von Protestformular einzureichen,
+
+84
+00:05:34,230 --> 00:05:39,270
+eine Untersuchung anzufordern und um die Korrektur des Fehlers zu bitten.
+
+85
+00:05:39,270 --> 00:05:45,110
+Hier haben Büros 45 Tage Zeit, um sich mit der Sache zu befassen und den Fehler anzugehen.
+
+86
+00:05:45,110 --> 00:05:47,500
+Jetzt ist hier noch eine wichtige Vorwarnung.
+
+87
+00:05:47,500 --> 00:05:49,990
+Sie haben Anspruch auf eine kostenlose Gutschrift
+
+88
+00:05:49,990 --> 00:05:52,790
+innerhalb von 60 Tagen nach einer schlechten Kreditentscheidung.
+
+89
+00:05:53,840 --> 00:05:57,160
+Eine solche Entscheidung könnte beinhalten, Kredit verweigert zu werden.
+
+90
+00:05:57,160 --> 00:06:00,510
+Alternativ kann der Kreditgeber versuchen, Sie mit
+
+91
+00:06:00,510 --> 00:06:05,390
+einem übermarktüblichen Zinssatz zu satteln, der auf Ihrem angeblichen höheren Kreditrisiko basiert.
+
+92
+00:06:05,390 --> 00:06:08,770
+In solchen Fällen können Kreditgeber Sie nicht einfach abblasen.
+
+93
+00:06:08,770 --> 00:06:13,080
+Stattdessen sind diese Kreditgeber oder Gläubiger gesetzlich verpflichtet, Ihnen
+
+94
+00:06:13,080 --> 00:06:16,740
+genau mitzuteilen, warum sie Ihnen minderwertige Bedingungen anbieten.
+
+95
+00:06:16,740 --> 00:06:17,730
+In diesem Prozess
+
+96
+00:06:17,730 --> 00:06:22,640
+müssen sie die spezifischen Elemente identifizieren, die sich negativ auf Ihre Anwendung auswirkten.
+
+97
+00:06:22,640 --> 00:06:25,820
+Auf diese Weise, wenn Sie über Ihren Kreditbericht gehen, um es zu überprüfen,
+
+98
+00:06:25,820 --> 00:06:28,139
+werden Sie genau wissen, was Sie suchen müssen.
+
+99
+00:06:29,260 --> 00:06:31,850
+Sie können dann sehen, wie Ihr Kreditbericht und
+
+100
+00:06:31,850 --> 00:06:35,810
+Ihr Kredit-Score kritische Teile Ihres finanziellen Lebens sind.
+
+101
+00:06:35,810 --> 00:06:39,710
+Was wir als Nächstes tun müssen, ist tiefer in die
+
+102
+00:06:39,710 --> 00:06:41,290
+Kredit-Score-Nummer selbst zu graben.
+
+103
+00:06:41,290 --> 00:06:44,820
+Das Ziel hier wird es sein, Ihnen Wege zu zeigen, dass diese Phase in Ihrem Leben
+
+104
+00:06:44,820 --> 00:06:47,980
+strategisch bauen und steigern Sie Ihre Kredit-Score.
+
+105
+00:06:47,980 --> 00:06:52,020
+Wenn Sie also das Auto oder ein Haus kaufen oder sich für
+
+106
+00:06:52,020 --> 00:06:56,190
+ein neues Geschäftsunternehmen ausleihen möchten, wird Ihr Darlehen zum niedrigsten möglichen Preis und
+
+107
+00:06:56,190 --> 00:06:58,370
+mit den bestmöglichen Bedingungen genehmigt.
+
+108
+00:06:58,370 --> 00:06:59,739
+Kein schlechtes Ziel, nach dem man streben sollte.
+
+109
+00:06:59,739 --> 00:07:03,593
+Lassen Sie uns also in Teil drei dieser Lektion darauf eingehen, wenn Sie bereit sind.
+
+110
+00:07:03,593 --> 00:07:11,449
+( MUSIK)

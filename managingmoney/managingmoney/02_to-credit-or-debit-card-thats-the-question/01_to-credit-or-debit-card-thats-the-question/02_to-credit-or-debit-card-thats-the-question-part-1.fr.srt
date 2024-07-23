@@ -1,0 +1,235 @@
+1
+00:00:01,260 --> 00:00:03,080
+Jetez un coup d'oeil à ceux-ci.
+
+2
+00:00:03,080 --> 00:00:07,160
+Bien sûr, ils ont la même apparence, mais celle-ci est une carte de crédit, celle-ci est une carte de débit.
+
+3
+00:00:07,160 --> 00:00:08,650
+Alors, quelle est la différence ?
+
+4
+00:00:08,650 --> 00:00:09,990
+>> Eh bien, les cartes de débit fonctionnent.
+
+5
+00:00:09,990 --> 00:00:12,580
+En tirant de l'argent directement à partir d'un
+
+6
+00:00:12,580 --> 00:00:15,325
+compte de chèques ou d'épargne associé pour payer les transactions. Il
+
+7
+00:00:15,325 --> 00:00:17,095
+n'y a pas de facture mensuelle à payer.
+
+8
+00:00:17,095 --> 00:00:19,805
+Au lieu de cela, l'argent de votre compte est soustrait ou
+
+9
+00:00:19,805 --> 00:00:22,605
+débité chaque fois que vous effectuez un achat.
+
+10
+00:00:22,605 --> 00:00:25,345
+Cette façon de dépenser rend les transactions très faciles à suivre.
+
+11
+00:00:26,385 --> 00:00:30,575
+Plutôt que de comptabiliser à la main et d'essayer de faire correspondre cela à un relevé mensuel.
+
+12
+00:00:30,575 --> 00:00:34,805
+La plupart des banques offrent des fonctionnalités en ligne pour surveiller directement la quantité d'argent
+
+13
+00:00:34,805 --> 00:00:36,300
+disponible dans votre compte.
+
+14
+00:00:36,300 --> 00:00:38,240
+Et quelles transactions ont eu lieu.
+
+15
+00:00:39,330 --> 00:00:42,410
+Par exemple, il s'agit de ma page de compte avec Chase.
+
+16
+00:00:44,340 --> 00:00:47,900
+Ici, je peux vérifier le solde de mon compte bancaire lié à ma carte de débit.
+
+17
+00:00:47,900 --> 00:00:49,910
+Et suivez les dépenses qui y sont associées.
+
+18
+00:00:51,680 --> 00:00:54,230
+C' est comme un relevé bancaire en direct.
+
+19
+00:00:54,230 --> 00:00:56,920
+Je peux voir instantanément combien d'argent j'ai à travailler pour
+
+20
+00:00:56,920 --> 00:00:58,380
+créer un budget pour moi-même.
+
+21
+00:01:00,820 --> 00:01:03,690
+Je peux également aller dans les paramètres et demander à la banque de m'envoyer un e-mail.
+
+22
+00:01:03,690 --> 00:01:05,750
+S' il y a une transaction importante ou
+
+23
+00:01:05,750 --> 00:01:07,900
+si le solde du compte est inférieur à un certain point.
+
+24
+00:01:11,720 --> 00:01:15,170
+Avec une carte de crédit, la banque vous prête de l'argent pour chaque transaction.
+
+25
+00:01:15,170 --> 00:01:18,100
+Ensuite, vous leur payez le solde impayé à la fin de chaque mois.
+
+26
+00:01:18,100 --> 00:01:20,330
+Si vous ne pouvez pas payer la totalité,
+
+27
+00:01:20,330 --> 00:01:23,150
+le solde restant est reporté au relevé suivant.
+
+28
+00:01:23,150 --> 00:01:24,490
+Et vous êtes facturé des intérêts pour
+
+29
+00:01:24,490 --> 00:01:27,410
+le reste de l'argent que la banque vous a prêté.
+
+30
+00:01:27,410 --> 00:01:32,500
+Souvent, le taux qui vous est facturé est appelé TAP, ou Taux annuel Pourcentage.
+
+31
+00:01:32,500 --> 00:01:34,500
+Le TAP correspond aux intérêts et aux
+
+32
+00:01:34,500 --> 00:01:37,700
+frais combinés que vous attendez à voir sur une période d'un an d'un prêt.
+
+33
+00:01:38,720 --> 00:01:41,190
+Comme le montre ce graphique pratique de Wikipédia,
+
+34
+00:01:41,190 --> 00:01:44,420
+si vous deviez emprunter 100$ au cours d'un an.
+
+35
+00:01:44,420 --> 00:01:48,130
+Vous additionnez les frais et les intérêts composés associés au remboursement du prêt et
+
+36
+00:01:48,130 --> 00:01:49,610
+vous obtiendrez le TAP.
+
+37
+00:01:49,610 --> 00:01:52,360
+Dans ce cas, c'est 49%.
+
+38
+00:01:52,360 --> 00:01:55,970
+Maintenant, un bref mot sur le concept de crédit.
+
+39
+00:01:55,970 --> 00:01:59,810
+C' est ce qu'on appelle le crédit parce qu'il ajoute au solde de ce que vous devez à la banque.
+
+40
+00:01:59,810 --> 00:02:03,610
+Plutôt que de soustraire ou de débiter directement de votre compte.
+
+41
+00:02:03,610 --> 00:02:07,470
+Les institutions gardent une trace de votre histoire en payant ces soldes.
+
+42
+00:02:07,470 --> 00:02:11,490
+Et compilez-le dans un rapport de crédit qui a un score associé à lui.
+
+43
+00:02:12,890 --> 00:02:15,530
+Il quantifie essentiellement votre histoire passée en
+
+44
+00:02:15,530 --> 00:02:17,300
+ce qui concerne le paiement des dettes à temps.
+
+45
+00:02:17,300 --> 00:02:20,330
+Et comment vous êtes capable de prendre de nouvelles dettes.
+
+46
+00:02:20,330 --> 00:02:25,300
+Prendre de plus grandes lignes de crédit, c'est-à-dire des prêts, et les rembourser plus tôt et
+
+47
+00:02:25,300 --> 00:02:28,240
+à temps donnent plus de points.
+
+48
+00:02:28,240 --> 00:02:31,730
+Votre cote de crédit est vraiment importante, car elle est utilisée lorsque vous demandez
+
+49
+00:02:31,730 --> 00:02:33,370
+la plupart des marges de crédit.
+
+50
+00:02:33,370 --> 00:02:38,380
+En règle générale, plus votre cote de crédit est élevée, moins la banque considère que vous risquez.
+
+51
+00:02:38,380 --> 00:02:40,990
+Et le TAP que vous payez sera inférieur. De
+
+52
+00:02:40,990 --> 00:02:43,830
+l'autre côté, une personne ayant une cote de crédit inférieure
+
+53
+00:02:43,830 --> 00:02:47,070
+est perçue comme un risque plus élevé à prêter par les institutions.
+
+54
+00:02:47,070 --> 00:02:49,840
+Il obtiendrait donc un taux plus élevé pour compenser
+
+55
+00:02:49,840 --> 00:02:51,950
+le risque perçu de défaut de paiement.
+
+56
+00:02:51,950 --> 00:02:55,500
+Lorsque le défaut signifie que vous ne payez pas le prêt à temps, ou du tout.
+
+57
+00:02:56,700 --> 00:02:59,263
+Nous parlerons plus des rapports de crédit plus tard dans le cours.
+
+58
+00:02:59,263 --> 00:03:02,427
+Mais je voulais vous montrer comment ils affectent les paiements pour une carte de crédit.
+
+59
+00:03:02,427 --> 00:03:09,519
+[ MUSIQUE]

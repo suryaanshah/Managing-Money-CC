@@ -1,0 +1,595 @@
+1
+00:00:00,840 --> 00:00:05,070
+In diesem Teil der Lektion möchte ich Ihnen zeigen, wie jeder der fünf Teile unseres
+
+2
+00:00:05,070 --> 00:00:10,280
+MBA konzeptionellen Frameworks in das eigentliche Management eines Unternehmens passt.
+
+3
+00:00:10,280 --> 00:00:15,040
+Und ich will das tun, indem ich dich buchstäblich vom Boden auf den Katzenvogelsitz
+
+4
+00:00:15,040 --> 00:00:19,910
+eines der Top-Unternehmen der Welt natürlich hypothetisch bringe.
+
+5
+00:00:19,910 --> 00:00:23,730
+Angenommen, Sie sind ein junger Bill Gates mit einem heißen Stück Software.
+
+6
+00:00:23,730 --> 00:00:28,000
+Oder noch besser, ein junger Steve Jobs mit einem noch heißeren Stück Software.
+
+7
+00:00:29,060 --> 00:00:31,460
+Durch die Verwendung dieser Software oder Hardware
+
+8
+00:00:31,460 --> 00:00:36,260
+haben Sie und Ihre Schulkameraden mit dem, was Sie glauben, dass die nächste Killer-Anwendung
+
+9
+00:00:36,260 --> 00:00:38,300
+in der Welt der Hochtechnologie ist.
+
+10
+00:00:38,300 --> 00:00:42,330
+Und diese Killer-App, die Sie bereits patentiert haben, ist so
+
+11
+00:00:42,330 --> 00:00:49,880
+erstaunlich, dass Sie, na ja, füllen Sie den leeren hier, weil ich keine Ahnung habe.
+
+12
+00:00:51,240 --> 00:00:55,470
+>> Auf jeden Fall, wenn Sie vorhaben, dieses Produkt richtig zu entwickeln,
+
+13
+00:00:55,470 --> 00:00:59,560
+ist der erste Schritt, den Sie machen möchten, einen Business-Plan zu erstellen.
+
+14
+00:00:59,560 --> 00:01:04,442
+Wie wir von Professor Archy lernen, wird ein solcher Plan genau Ihr
+
+15
+00:01:04,442 --> 00:01:09,724
+Geschäft definieren und Ziele identifizieren und solche Finanzbuchhaltungsinstrumente
+
+16
+00:01:09,724 --> 00:01:14,942
+wie eine Pro-forma-Bilanz, Gewinn- und Verlustrechnung und Cashflow-Analyse enthalten.
+
+17
+00:01:17,205 --> 00:01:22,546
+Dieser Plan beschreibt auch, welche Dienstleistungen oder Produkte Ihr Unternehmen erreichen wird und
+
+18
+00:01:22,546 --> 00:01:27,336
+welche Anforderungen es auf dem Marktplatz erfüllt, wer Ihre potenziellen
+
+19
+00:01:27,336 --> 00:01:33,190
+Kunden sind, wie Sie sie erreichen und warum sie es bei Ihnen kaufen.
+
+20
+00:01:33,190 --> 00:01:37,680
+Bewaffnet mit einem solchen Businessplan, können Sie und Ihre Partner
+
+21
+00:01:37,680 --> 00:01:41,640
+versuchen, genug Risikokapital zu beschaffen, um das Projekt in Betrieb zu bringen.
+
+22
+00:01:42,780 --> 00:01:47,280
+Wenn Ihr Unternehmen erfolgreich ist, werden Sie ständig zusätzliche
+
+23
+00:01:47,280 --> 00:01:52,220
+Mittel sammeln, um neue Einrichtungen zu bauen, alte zu modernisieren und
+
+24
+00:01:52,220 --> 00:01:57,570
+vielleicht sogar einige Ihrer Konkurrenten zu erwerben, um Ihre Position in der Branche zu festigen.
+
+25
+00:01:57,570 --> 00:02:01,470
+All dies wird Geld nehmen, und es wird Ihr Corporate Finance Team sein
+
+26
+00:02:01,470 --> 00:02:06,180
+, das Ihnen helfen wird, festzustellen, ob Sie Wachstum finanzieren werden, indem Sie Aktien oder
+
+27
+00:02:06,180 --> 00:02:09,990
+Anleihen ausgeben oder auf Gewinnrücklagen zurückgreifen.
+
+28
+00:02:09,990 --> 00:02:14,180
+Oder, am realistischsten, eine optimale Kombination
+
+29
+00:02:14,180 --> 00:02:18,250
+aller drei Formen der sogenannten Kapitalfinanzierung zu verwenden.
+
+30
+00:02:18,250 --> 00:02:22,350
+Angenommen, alles geht gut mit dieser Spendenphase des Geschäfts, und
+
+31
+00:02:22,350 --> 00:02:25,660
+dass Sie genug Kapital haben, um Ihr Vorhaben vom Boden zu bekommen,
+
+32
+00:02:25,660 --> 00:02:29,460
+hier sind nur einige der Fragen, die Sie Ihren anderen Teams von
+
+33
+00:02:29,460 --> 00:02:34,210
+MBA ausgerüsteten Experten stellen werden, die Sie notwendigerweise zusammenstellen werden, um Ihrem Unternehmen zu helfen.
+
+34
+00:02:34,210 --> 00:02:38,600
+Zunächst einmal möchten Sie, selbst wenn Ihr Produkt ein sicherer Gewinner
+
+35
+00:02:38,600 --> 00:02:43,510
+zu sein scheint, dennoch, dass Ihr Managementstrategie-Team Fragen wie diese untersucht.
+
+36
+00:02:43,510 --> 00:02:45,530
+Sollten Sie überhaupt den Markt betreten?
+
+37
+00:02:45,530 --> 00:02:48,110
+Und, gibt es Platz für einen anderen Konkurrenten?
+
+38
+00:02:48,110 --> 00:02:49,160
+Vielleicht nicht.
+
+39
+00:02:49,160 --> 00:02:53,920
+Gibt es Rivalen da draußen, die Sie mit tiefen finanziellen Taschen,
+
+40
+00:02:53,920 --> 00:02:58,760
+Reputationskapital und etablierten Marketing- und Vertriebsketten begraben könnten?
+
+41
+00:02:58,760 --> 00:02:59,800
+Vielleicht so.
+
+42
+00:02:59,800 --> 00:03:03,700
+Wenn Sie grünes Licht von Ihrem Strategieteam bekommen und den Markt betreten,
+
+43
+00:03:03,700 --> 00:03:08,090
+wollen Sie auch wissen, welchen Teil des Marktes Sie angreifen möchten.
+
+44
+00:03:08,090 --> 00:03:13,000
+Zum Beispiel das High-End, hochwertige High-Marge-Ende
+
+45
+00:03:13,000 --> 00:03:16,240
+im Vergleich zum unteren Ende, niedrigere Qualität, enge Marge Ende.
+
+46
+00:03:17,580 --> 00:03:21,030
+In Absprache mit Ihrem Operations Management Team,
+
+47
+00:03:21,030 --> 00:03:25,860
+Führungskräften und Ihrem Marketing-Team
+
+48
+00:03:25,860 --> 00:03:30,430
+möchte Ihr Strategieteam darüber nachdenken, ob das Unternehmen tatsächlich das Produkt produzieren oder die
+
+49
+00:03:30,430 --> 00:03:32,930
+Produktion auslagern und einfach verteilen soll.
+
+50
+00:03:32,930 --> 00:03:35,940
+Und wenn Ihr Unternehmen das Produkt produzieren
+
+51
+00:03:35,940 --> 00:03:38,550
+will, wo sollten sich die Anlagen befinden?
+
+52
+00:03:38,550 --> 00:03:42,370
+Sollen Sie es lokal oder vielleicht in einem Staat wie Tennessee oder
+
+53
+00:03:42,370 --> 00:03:45,700
+Texas mit einem geschäftsfreundlicheren Klima produzieren?
+
+54
+00:03:45,700 --> 00:03:50,330
+Oder sollten Sie einen internationalen Standort wie Indien, Indonesien oder
+
+55
+00:03:50,330 --> 00:03:56,120
+Malaysia suchen, wo die Löhne billig sind, aber politische Umwälzungen eher ein Risiko darstellen.
+
+56
+00:03:56,120 --> 00:04:01,030
+Nehmen wir als nächstes an, dass Sie, nachdem Sie alle Informationen überprüft haben,
+
+57
+00:04:01,030 --> 00:04:06,215
+tatsächlich entscheiden, dass Sie Ihr eigenes Produkt an dieser Stelle lokal produzieren.
+
+58
+00:04:06,215 --> 00:04:10,175
+Sie möchten mit Ihrem Operations Management Team besprechen,
+
+59
+00:04:10,175 --> 00:04:14,375
+wie Sie einen Produktionsprozess entwerfen, der am effizientesten ist.
+
+60
+00:04:14,375 --> 00:04:17,785
+Dies führt natürlich zu einer eingehenden Prüfung Ihrer
+
+61
+00:04:17,785 --> 00:04:19,485
+sogenannten Supply Chain.
+
+62
+00:04:19,485 --> 00:04:23,015
+Die Kette verschiedener Inputs wie Energie und
+
+63
+00:04:23,015 --> 00:04:26,195
+Rohstoffe in Ihrem Produktionsprozess.
+
+64
+00:04:27,255 --> 00:04:32,460
+Sobald Sie Ihr Produkt hergestellt haben, wird der nächste Schritt sein, es zu verkaufen.
+
+65
+00:04:32,460 --> 00:04:35,610
+Dies liegt in der Verantwortung Ihres Marketing-Teams.
+
+66
+00:04:35,610 --> 00:04:38,100
+Es wird die Aufgabe dieses Teams sein,
+
+67
+00:04:38,100 --> 00:04:40,750
+die am besten geeigneten Vertriebskanäle herauszufinden.
+
+68
+00:04:41,840 --> 00:04:47,350
+Sollten Sie Großhändler an große Ketten wie Walmart oder Costco verkaufen, oder Ihre
+
+69
+00:04:47,350 --> 00:04:53,560
+eigene Linie von Einzelhandelsgeschäften öffnen oder einfach nur das Produkt Amazon-Stil über das Internet verkaufen?
+
+70
+00:04:53,560 --> 00:04:58,720
+Ihr Marketing- und Vertriebsteam muss außerdem eine Werbestrategie und
+
+71
+00:04:58,720 --> 00:05:02,610
+die am besten geeignete Botschaft finden, um diese Strategie zu entwickeln.
+
+72
+00:05:02,610 --> 00:05:07,480
+Natürlich wird das
+
+73
+00:05:07,480 --> 00:05:11,650
+Marketing- und Vertriebsteam mit erheblichem Input von den Führungskräften Ihrer Firma auch eine Preisstruktur bestimmen.
+
+74
+00:05:11,650 --> 00:05:15,740
+Jetzt bin ich persönlich davon überzeugt, dass Ihr Produkt wild erfolgreich sein
+
+75
+00:05:15,740 --> 00:05:18,170
+wird und das Geld einströmt.
+
+76
+00:05:18,170 --> 00:05:21,180
+Dabei wird es Aufgabe der Finanz- und
+
+77
+00:05:21,180 --> 00:05:27,440
+Führungsbuchungsteams sein, sowohl die Kosten- als auch die Umsatzströme sorgfältig zu verfolgen.
+
+78
+00:05:27,440 --> 00:05:31,200
+Im Wesentlichen wird dieses Team Ihre Punktehalter sein.
+
+79
+00:05:31,200 --> 00:05:34,530
+Es wird in der Lage sein, Ihnen zu sagen, ob Sie es machen oder
+
+80
+00:05:34,530 --> 00:05:37,190
+ob Ihre Firma bald Bauch nach oben gehen wird.
+
+81
+00:05:37,190 --> 00:05:41,400
+Dieses Team berücksichtigt die verschiedenen Kosten- und Umsatzströme,
+
+82
+00:05:41,400 --> 00:05:46,900
+berechnet Ihre Gewinne, Einnahmen an die Aktionäre und zahlt Ihre Steuern.
+
+83
+00:05:46,900 --> 00:05:51,830
+Und wichtig ist, intern solche Informationen zu verwenden, um die Entscheidungsfindung zu verbessern.
+
+84
+00:05:53,170 --> 00:05:58,310
+Und wie sind Organisationsverhalten und Führung entscheidend für unsere Geschichte?
+
+85
+00:05:58,310 --> 00:06:00,920
+Nun, in den frühen Phasen des Unternehmens
+
+86
+00:06:00,920 --> 00:06:06,300
+werden Sie und Ihre unternehmerischen Partner wahrscheinlich alle oder die meisten Mitarbeiter kennen.
+
+87
+00:06:06,300 --> 00:06:09,490
+Und Sie zusammen werden die meisten Entscheidungen treffen.
+
+88
+00:06:09,490 --> 00:06:14,330
+Und wie viele Unternehmer können Sie Ihr Unternehmen hauptsächlich aus Ihrem Bauch führen,
+
+89
+00:06:14,330 --> 00:06:17,389
+anstatt in einer Weise, die in den Management-Lehrbüchern gelehrt wird.
+
+90
+00:06:18,590 --> 00:06:23,880
+Beachten Sie jedoch, dass Sie, wenn Ihr Unternehmen wächst und gedeiht, wahrscheinlich feststellen
+
+91
+00:06:23,880 --> 00:06:28,960
+werden, dass es nicht nur immer schwieriger wird, alle im Auge zu behalten, sondern
+
+92
+00:06:28,960 --> 00:06:33,930
+auch, dass etwaige Fehler in Ihrem persönlichen Management-Stil verstärkt werden.
+
+93
+00:06:33,930 --> 00:06:39,070
+Dementsprechend, sobald Ihr jüngstes Unternehmen eine bestimmte kritische Masse erreicht
+
+94
+00:06:39,070 --> 00:06:42,490
+Es wird absolut wichtig, dass Sie mehr und
+
+95
+00:06:42,490 --> 00:06:46,360
+mehr darauf achten, wie Ihr Unternehmen tatsächlich organisiert ist.
+
+96
+00:06:46,360 --> 00:06:51,280
+Und welche Anreizstrukturen Sie haben, um sicherzustellen, dass es effizient
+
+97
+00:06:51,280 --> 00:06:52,870
+und voll funktioniert.
+
+98
+00:06:52,870 --> 00:06:55,370
+An einem solchen Punkt werden Sie sich mehr und
+
+99
+00:06:55,370 --> 00:06:57,840
+mehr auf Ihr organisatorisches Verhalten verlassen.
+
+100
+00:06:57,840 --> 00:07:03,360
+Und Ihre Personalmanagement-Teams, um das Unternehmen angemessen zu personalisieren.
+
+101
+00:07:03,360 --> 00:07:07,790
+über Verfahren verfügen, um bewährte Verwaltungspraktiken zu gewährleisten.
+
+102
+00:07:07,790 --> 00:07:13,310
+Und vielleicht vor allem eine Managementkultur schaffen, in der die Moral
+
+103
+00:07:13,310 --> 00:07:18,700
+immer hoch ist, die Produktivität maximiert wird und Effizienzregeln regeln.
+
+104
+00:07:19,800 --> 00:07:23,180
+In diesem Stadium der Entwicklung Ihres Unternehmens wird es
+
+105
+00:07:23,180 --> 00:07:27,300
+ebenso wichtig sein, dass Sie sich immer mehr des politischen und
+
+106
+00:07:27,300 --> 00:07:32,140
+regulatorischen Umfelds bewusst werden, in dem ein Unternehmen tätig ist.
+
+107
+00:07:32,140 --> 00:07:35,730
+Dies ist, wo Ihre Geschäfts- und Regierungsteams mit Streben ihre Sachen.
+
+108
+00:07:35,730 --> 00:07:38,850
+Möchten Sie eine neue Anlage in einem bestimmten Zustand lokalisieren?
+
+109
+00:07:38,850 --> 00:07:42,960
+Möglicherweise müssen Sie den lokalen Stadtrat oder den staatlichen Gesetzgeber für
+
+110
+00:07:42,960 --> 00:07:45,150
+die entsprechenden Genehmigungen in Anspruch nehmen.
+
+111
+00:07:45,150 --> 00:07:47,870
+Machen Sie Ihr Geld in erster Linie aus dem Internet?
+
+112
+00:07:47,870 --> 00:07:51,300
+Einige Staaten, und sogar die Bundesregierung, versuchen vielleicht,
+
+113
+00:07:51,300 --> 00:07:55,780
+neue Steuern im Internet aufzuerlegen, die Ihre Branche bekämpfen will.
+
+114
+00:07:56,810 --> 00:08:00,920
+Möchten Sie eine größere Kapitalinvestition Steuergutschrift, die es Ihnen ermöglicht,
+
+115
+00:08:00,920 --> 00:08:05,840
+eine neue Anlage vor Ort zu bauen, und es durch Hilfe Arbeitsplätze im Land zu halten?
+
+116
+00:08:05,840 --> 00:08:09,500
+Das könnte ein nettes Argument sein, dass Ihr Corporate Lobbying-Team
+
+117
+00:08:09,500 --> 00:08:12,150
+einem Kongressabgeordneten oder Schlüsselkomitee stellen kann.
+
+118
+00:08:12,150 --> 00:08:16,730
+Während dieses ganzen Prozesses, in dem Ihr Unternehmen von einem kleinen
+
+119
+00:08:16,730 --> 00:08:22,615
+Samen in Ihrem Bewusstsein zu einem großen Cap Stock an der New Yorker Börse wächst,
+
+120
+00:08:22,615 --> 00:08:27,065
+werden Sie und alle Ihre Mitarbeiter sich in einer Weise verhalten wollen,
+
+121
+00:08:27,065 --> 00:08:29,665
+die sowohl mit dem Gesetz als auch mit bestimmten ethischen Kanonen übereinstimmt.
+
+122
+00:08:30,865 --> 00:08:36,242
+Doch während dieses andauernden Prozesses, die Verbraucher einerseits und
+
+123
+00:08:36,242 --> 00:08:38,372
+gegen Konkurrenten auf der anderen Seite zu werben.
+
+124
+00:08:38,372 --> 00:08:43,232
+Sie werden bald erfahren, dass, zumindest in einigen Fällen, das Gesetz wird es Ihnen erlauben,
+
+125
+00:08:43,232 --> 00:08:47,960
+Dinge zu tun, die in der Tat nicht, bis zu Ihren eigenen ethischen Standards.
+
+126
+00:08:47,960 --> 00:08:50,840
+Oder Sie sind vielleicht sogar versucht, eine ethische oder
+
+127
+00:08:50,840 --> 00:08:53,900
+rechtliche Linie zu überschreiten, um den Erfolg Ihrer Kanzlei zu gewährleisten.
+
+128
+00:08:53,900 --> 00:08:57,300
+Werden Sie in solchen Fällen Ihren Aktionären dienen?
+
+129
+00:08:57,300 --> 00:08:59,650
+Oder dein eigenes moralisches Bewusstsein?
+
+130
+00:08:59,650 --> 00:09:03,240
+Und wie
+
+131
+00:09:03,240 --> 00:09:05,960
+werden Sie, gepuffert von diesen ethischen Seitenwinden, das Richtige bestimmen?
+
+132
+00:09:05,960 --> 00:09:08,430
+Hoffentlich werden
+
+133
+00:09:08,430 --> 00:09:11,430
+Sie das mit Hilfe Ihrer Anwälte und anderer Berater herausfinden.
+
+134
+00:09:11,430 --> 00:09:13,660
+Und eine solide Erdung in den Konzepten und
+
+135
+00:09:13,660 --> 00:09:16,210
+Lehren der Unternehmensethik wird sicherlich helfen.
+
+136
+00:09:17,320 --> 00:09:22,030
+Jedenfalls können Sie an diesem Beispiel sehen, wie alle verschiedenen Teile
+
+137
+00:09:22,030 --> 00:09:27,140
+des MBA-Kerncurriculums zusammenpassen, um ein profitables Unternehmen zu machen.
+
+138
+00:09:27,140 --> 00:09:31,430
+Nun, Sie können nie der Unternehmer sein, der das ganze Projekt
+
+139
+00:09:31,430 --> 00:09:37,090
+anfängt, dieser Überblick wird Ihnen zumindest eine Vorstellung davon geben, wie die Dinge funktionieren.
+
+140
+00:09:37,090 --> 00:09:41,560
+Aus Sicht der Karriere ist eines der schlimmsten Dinge, die Sie in dieser Welt tun können,
+
+141
+00:09:41,560 --> 00:09:47,670
+zufrieden zu sein, ein Zahnrad in der Maschine zu sein und nie zu wissen, wie die Maschine tatsächlich funktioniert.
+
+142
+00:09:47,670 --> 00:09:49,264
+Aber hier ist mein letzter Schlüssel-Tipp.
+
+143
+00:09:49,264 --> 00:09:53,631
+Wenn Sie auf dem Arbeitsmarkt sind, wenn Sie ein besseres Verständnis davon haben
+
+144
+00:09:53,631 --> 00:09:58,355
+, wie Unternehmen arbeiten, egal in welchem Teil dieses Unternehmens Sie möglicherweise in Sie
+
+145
+00:09:58,355 --> 00:10:01,434
+werden wahrscheinlich viel besser in Ihrem Vorstellungsgespräch zu tun,
+
+146
+00:10:01,434 --> 00:10:06,610
+wenn Sie sich als jemand mit einem großen Bild Perspektive des Unternehmens präsentieren.
+
+147
+00:10:06,610 --> 00:10:10,172
+In Ordnung, das ist es für Teil zwei, wenn Sie bereit sind,
+
+148
+00:10:10,172 --> 00:10:13,017
+gehen Sie zu Teil drei und unsere Schlussbemerkungen.
+
+149
+00:10:13,017 --> 00:10:19,557
+( MUSIK)

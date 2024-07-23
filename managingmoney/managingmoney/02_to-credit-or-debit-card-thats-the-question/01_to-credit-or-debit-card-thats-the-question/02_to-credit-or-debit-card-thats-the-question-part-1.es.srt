@@ -1,0 +1,235 @@
+1
+00:00:01,260 --> 00:00:03,080
+Echa un vistazo a estos.
+
+2
+00:00:03,080 --> 00:00:07,160
+Claro, tienen el mismo aspecto pero esta es una tarjeta de crédito, esta es una tarjeta de débito.
+
+3
+00:00:07,160 --> 00:00:08,650
+Entonces, ¿cuál es la diferencia?
+
+4
+00:00:08,650 --> 00:00:09,990
+>> Bueno, las tarjetas de débito funcionan.
+
+5
+00:00:09,990 --> 00:00:12,580
+Dibujando dinero directamente de una
+
+6
+00:00:12,580 --> 00:00:15,325
+cuenta de cheques o ahorros asociada para pagar las transacciones.
+
+7
+00:00:15,325 --> 00:00:17,095
+No hay factura mensual para pagar.
+
+8
+00:00:17,095 --> 00:00:19,805
+En su lugar, el dinero de su cuenta se restará o
+
+9
+00:00:19,805 --> 00:00:22,605
+se cargará cada vez que realice una compra.
+
+10
+00:00:22,605 --> 00:00:25,345
+Esta forma de gasto hace que las transacciones sean muy fáciles de rastrear.
+
+11
+00:00:26,385 --> 00:00:30,575
+En lugar de contabilizar a mano y tratar de hacer coincidir eso con un estado de cuenta mensual.
+
+12
+00:00:30,575 --> 00:00:34,805
+La mayoría de los bancos ofrecen funciones en línea para monitorear directamente cuánto dinero hay
+
+13
+00:00:34,805 --> 00:00:36,300
+disponible en su cuenta.
+
+14
+00:00:36,300 --> 00:00:38,240
+Y qué transacciones han tenido lugar.
+
+15
+00:00:39,330 --> 00:00:42,410
+Por ejemplo, esta es la página de mi cuenta con Chase.
+
+16
+00:00:44,340 --> 00:00:47,900
+Aquí puedo comprobar el saldo de mi cuenta corriente vinculada a mi tarjeta de débito.
+
+17
+00:00:47,900 --> 00:00:49,910
+Y rastrear los gastos asociados con él.
+
+18
+00:00:51,680 --> 00:00:54,230
+Es como un extracto bancario actualizado en vivo.
+
+19
+00:00:54,230 --> 00:00:56,920
+Puedo ver instantáneamente con cuánto dinero tengo que trabajar
+
+20
+00:00:56,920 --> 00:00:58,380
+al crear un presupuesto para mí.
+
+21
+00:01:00,820 --> 00:01:03,690
+También puedo entrar en la configuración y hacer que el banco me envíe un correo electrónico.
+
+22
+00:01:03,690 --> 00:01:05,750
+Si hay una transacción grande o
+
+23
+00:01:05,750 --> 00:01:07,900
+si el saldo de la cuenta se encuentra por debajo de cierto punto.
+
+24
+00:01:11,720 --> 00:01:15,170
+Con una tarjeta de crédito, el banco le presta dinero para cada transacción.
+
+25
+00:01:15,170 --> 00:01:18,100
+Luego les pagas el saldo pendiente al final de cada mes.
+
+26
+00:01:18,100 --> 00:01:20,330
+Si no puede pagar todo,
+
+27
+00:01:20,330 --> 00:01:23,150
+el saldo restante se transfiere al siguiente estado de cuenta.
+
+28
+00:01:23,150 --> 00:01:24,490
+Y se le cobran intereses por
+
+29
+00:01:24,490 --> 00:01:27,410
+el dinero restante que el banco le ha prestado.
+
+30
+00:01:27,410 --> 00:01:32,500
+A menudo, la tarifa que se le cobra se denomina tasa APR o porcentaje anual.
+
+31
+00:01:32,500 --> 00:01:34,500
+El APR es el interés combinado y
+
+32
+00:01:34,500 --> 00:01:37,700
+las comisiones que esperaría ver durante un período de un año de un préstamo.
+
+33
+00:01:38,720 --> 00:01:41,190
+Como muestra este práctico gráfico de Wikipedia,
+
+34
+00:01:41,190 --> 00:01:44,420
+si usted fuera a pedir prestado $100 en el transcurso de un año.
+
+35
+00:01:44,420 --> 00:01:48,130
+Usted sumaría los honorarios y el interés compuesto de pagar el préstamo y
+
+36
+00:01:48,130 --> 00:01:49,610
+obtendría el APR.
+
+37
+00:01:49,610 --> 00:01:52,360
+En este caso, es 49%.
+
+38
+00:01:52,360 --> 00:01:55,970
+Ahora, una palabra rápida sobre el concepto de crédito.
+
+39
+00:01:55,970 --> 00:01:59,810
+Se llama crédito porque se suma a un saldo de lo que debes al banco.
+
+40
+00:01:59,810 --> 00:02:03,610
+En lugar de restar o cargar directamente de su cuenta.
+
+41
+00:02:03,610 --> 00:02:07,470
+Las instituciones realizan un seguimiento de su historial con el pago de estos saldos.
+
+42
+00:02:07,470 --> 00:02:11,490
+Y compilarlo en un informe de crédito que tiene una puntuación asociada con él.
+
+43
+00:02:12,890 --> 00:02:15,530
+Esencialmente cuantifica tu historial pasado con
+
+44
+00:02:15,530 --> 00:02:17,300
+respecto al pago de deudas a tiempo.
+
+45
+00:02:17,300 --> 00:02:20,330
+Y cuán capaz eres de asumir nuevas deudas.
+
+46
+00:02:20,330 --> 00:02:25,300
+Sacar líneas de crédito más grandes, es decir, préstamos, y pagarlos pronto y
+
+47
+00:02:25,300 --> 00:02:28,240
+a tiempo dan más puntos.
+
+48
+00:02:28,240 --> 00:02:31,730
+Su puntaje de crédito es muy importante, ya que se utiliza cuando solicita la
+
+49
+00:02:31,730 --> 00:02:33,370
+mayoría de las líneas de crédito.
+
+50
+00:02:33,370 --> 00:02:38,380
+Como regla general, cuanto mayor sea el puntaje de crédito, menor riesgo será el banco.
+
+51
+00:02:38,380 --> 00:02:40,990
+Y el APR que pagas será más bajo.
+
+52
+00:02:40,990 --> 00:02:43,830
+En el otro extremo de las cosas, una persona con un puntaje crediticio más bajo
+
+53
+00:02:43,830 --> 00:02:47,070
+es vista como un mayor riesgo para prestar por las instituciones.
+
+54
+00:02:47,070 --> 00:02:49,840
+Así que él o ella obtendría una tasa más alta para compensar
+
+55
+00:02:49,840 --> 00:02:51,950
+el riesgo percibido de impago.
+
+56
+00:02:51,950 --> 00:02:55,500
+Donde el impago significa que usted no paga el préstamo a tiempo, o en absoluto.
+
+57
+00:02:56,700 --> 00:02:59,263
+Hablaremos más sobre los informes de crédito más adelante en el curso.
+
+58
+00:02:59,263 --> 00:03:02,427
+Pero quería mostrarte cómo afectan los pagos de una tarjeta de crédito.
+
+59
+00:03:02,427 --> 00:03:09,519
+[ MÚSICA]

@@ -1,0 +1,595 @@
+1
+00:00:00,840 --> 00:00:05,070
+Trong phần này của bài học, tôi muốn chỉ cho bạn cách mỗi phần trong năm phần của
+
+2
+00:00:05,070 --> 00:00:10,280
+khung khái niệm MBA của chúng tôi phù hợp với việc quản lý thực tế của một doanh nghiệp.
+
+3
+00:00:10,280 --> 00:00:15,040
+Và tôi muốn làm điều này bằng cách đưa bạn từ mặt đất lên ghế catbird
+
+4
+00:00:15,040 --> 00:00:19,910
+của một trong những tập đoàn hàng đầu thế giới theo giả thuyết tất nhiên.
+
+5
+00:00:19,910 --> 00:00:23,730
+Giả sử sau đó bạn là một Bill Gates trẻ với một mảnh nóng của phần mềm.
+
+6
+00:00:23,730 --> 00:00:28,000
+Hoặc, tốt hơn, một Steve Jobs trẻ tuổi với một phần mềm thậm chí còn nóng hơn.
+
+7
+00:00:29,060 --> 00:00:31,460
+Bằng cách sử dụng phần mềm hoặc phần cứng này,
+
+8
+00:00:31,460 --> 00:00:36,260
+bạn và bạn học của bạn đã đưa ra những gì bạn tin là ứng dụng sát thủ tiếp theo
+
+9
+00:00:36,260 --> 00:00:38,300
+trong thế giới công nghệ cao.
+
+10
+00:00:38,300 --> 00:00:42,330
+Và ứng dụng sát thủ này, mà bạn đã cấp bằng sáng chế thật
+
+11
+00:00:42,330 --> 00:00:49,880
+đáng kinh ngạc đến nỗi bạn, bạn điền vào chỗ trống ở đây bởi vì tôi không hề biết.
+
+12
+00:00:51,240 --> 00:00:55,470
+>> Nếu bạn đang phát triển sản phẩm này đúng cách,
+
+13
+00:00:55,470 --> 00:00:59,560
+bước đầu tiên bạn muốn thực hiện là lập kế hoạch kinh doanh.
+
+14
+00:00:59,560 --> 00:01:04,442
+Khi chúng ta học hỏi từ Giáo sư Archy, một kế hoạch như vậy sẽ xác định chính xác
+
+15
+00:01:04,442 --> 00:01:09,724
+doanh nghiệp của bạn và xác định mục tiêu và bao gồm các công cụ kế toán tài chính
+
+16
+00:01:09,724 --> 00:01:14,942
+như bảng cân đối kế toán, báo cáo thu nhập và phân tích dòng tiền.
+
+17
+00:01:17,205 --> 00:01:22,546
+Kế hoạch này cũng sẽ mô tả dịch vụ hoặc sản phẩm doanh nghiệp của bạn sẽ đạt được và
+
+18
+00:01:22,546 --> 00:01:27,336
+nhu cầu nào trên thị trường nó sẽ lấp đầy, cũng như
+
+19
+00:01:27,336 --> 00:01:33,190
+khách hàng tiềm năng của bạn là ai, làm thế nào bạn sẽ tiếp cận họ và tại sao họ sẽ mua nó từ bạn.
+
+20
+00:01:33,190 --> 00:01:37,680
+Được trang bị một kế hoạch kinh doanh như vậy, bạn và các đối tác của bạn có thể đi về kinh doanh
+
+21
+00:01:37,680 --> 00:01:41,640
+của cố gắng để huy động đủ vốn mạo hiểm để có được dự án lên và chạy.
+
+22
+00:01:42,780 --> 00:01:47,280
+Bây giờ nếu công ty của bạn thành công, bạn sẽ liên tục gây
+
+23
+00:01:47,280 --> 00:01:52,220
+quỹ bổ sung để xây dựng các cơ sở mới, hiện đại hóa các cơ sở cũ và
+
+24
+00:01:52,220 --> 00:01:57,570
+thậm chí có thể có được một số đối thủ của bạn để củng cố vị trí của bạn trong ngành công nghiệp.
+
+25
+00:01:57,570 --> 00:02:01,470
+Tất cả những điều này sẽ mất tiền và nó sẽ là đội ngũ tài chính doanh nghiệp của bạn
+
+26
+00:02:01,470 --> 00:02:06,180
+sẽ giúp bạn xác định xem bạn sẽ tài trợ cho tăng trưởng bằng cách phát hành cổ phiếu hoặc
+
+27
+00:02:06,180 --> 00:02:09,990
+trái phiếu hoặc rút ra thu nhập giữ lại.
+
+28
+00:02:09,990 --> 00:02:14,180
+Hoặc, thực tế nhất, sử dụng một số kết hợp tối ưu
+
+29
+00:02:14,180 --> 00:02:18,250
+của cả ba hình thức này được gọi là tài chính vốn.
+
+30
+00:02:18,250 --> 00:02:22,350
+Giả sử tất cả diễn ra tốt đẹp với giai đoạn gây quỹ này của doanh nghiệp, và
+
+31
+00:02:22,350 --> 00:02:25,660
+rằng bạn có đủ vốn để có được liên doanh
+
+32
+00:02:25,660 --> 00:02:29,460
+của bạn ra khỏi mặt đất, đây chỉ là một số câu hỏi bạn sẽ hỏi các đội khác của các
+
+33
+00:02:29,460 --> 00:02:34,210
+chuyên gia được trang bị MBA mà bạn nhất thiết sẽ tập hợp để giúp công ty của bạn.
+
+34
+00:02:34,210 --> 00:02:38,600
+Đối với người mới bắt đầu, ngay cả khi sản phẩm của bạn có vẻ như người chiến thắng chắc chắn, bạn vẫn có thể
+
+35
+00:02:38,600 --> 00:02:43,510
+muốn nhóm chiến lược quản lý của bạn kiểm tra các câu hỏi như thế này.
+
+36
+00:02:43,510 --> 00:02:45,530
+Bạn thậm chí có nên tham gia vào thị trường không?
+
+37
+00:02:45,530 --> 00:02:48,110
+Và, có chỗ cho đối thủ cạnh tranh khác không?
+
+38
+00:02:48,110 --> 00:02:49,160
+Có lẽ không.
+
+39
+00:02:49,160 --> 00:02:53,920
+Có đối thủ ngoài kia có thể chôn vùi bạn với túi tài chính sâu,
+
+40
+00:02:53,920 --> 00:02:58,760
+vốn danh tiếng, và các chuỗi tiếp thị và phân phối được thiết lập?
+
+41
+00:02:58,760 --> 00:02:59,800
+Có lẽ vậy.
+
+42
+00:02:59,800 --> 00:03:03,700
+Nếu bạn nhận được ánh sáng xanh từ nhóm chiến lược của bạn và tham gia vào thị trường,
+
+43
+00:03:03,700 --> 00:03:08,090
+bạn cũng sẽ muốn biết phần nào của thị trường bạn muốn tấn công.
+
+44
+00:03:08,090 --> 00:03:13,000
+Ví dụ, kết thúc cao, chất lượng cao kết thúc lợi nhuận cao
+
+45
+00:03:13,000 --> 00:03:16,240
+so với kết thúc thấp, chất lượng thấp hơn, kết thúc lợi nhuận chặt chẽ. Khi
+
+46
+00:03:17,580 --> 00:03:21,030
+tham vấn với đội ngũ quản lý hoạt động của bạn,
+
+47
+00:03:21,030 --> 00:03:25,860
+nhà kinh tế quản lý, và đội ngũ tiếp thị của bạn, đội ngũ chiến lược của bạn
+
+48
+00:03:25,860 --> 00:03:30,430
+cũng sẽ muốn xem xét liệu công ty có nên thực sự sản xuất sản phẩm hoặc
+
+49
+00:03:30,430 --> 00:03:32,930
+thuê ngoài sản xuất và chỉ đơn giản là phân phối.
+
+50
+00:03:32,930 --> 00:03:35,940
+Và nếu công ty của bạn sẽ sản xuất sản phẩm,
+
+51
+00:03:35,940 --> 00:03:38,550
+chỉ cần các cơ sở nên được đặt ở đâu?
+
+52
+00:03:38,550 --> 00:03:42,370
+Bạn nên sản xuất nó tại địa phương hoặc có lẽ trong một bang như Tennessee hoặc
+
+53
+00:03:42,370 --> 00:03:45,700
+Texas với một môi trường kinh doanh thân thiện hơn?
+
+54
+00:03:45,700 --> 00:03:50,330
+Hoặc bạn nên tìm kiếm một địa điểm quốc tế như Ấn Độ, Indonesia hoặc
+
+55
+00:03:50,330 --> 00:03:56,120
+Malaysia nơi tiền lương rẻ nhưng biến động chính trị lại có nhiều rủi ro hơn.
+
+56
+00:03:56,120 --> 00:04:01,030
+Hãy tiếp theo giả sử rằng, sau khi xem xét tất cả các thông tin, bạn
+
+57
+00:04:01,030 --> 00:04:06,215
+thực sự quyết định rằng bạn sẽ sản xuất sản phẩm của riêng bạn tại địa phương tại thời điểm này,
+
+58
+00:04:06,215 --> 00:04:10,175
+bạn sẽ muốn thảo luận với nhóm quản lý hoạt động của bạn
+
+59
+00:04:10,175 --> 00:04:14,375
+cách thiết kế một quy trình sản xuất hiệu quả nhất.
+
+60
+00:04:14,375 --> 00:04:17,785
+Điều này, tất nhiên, sẽ đòi hỏi một cuộc kiểm tra chi tiết của bạn như vậy
+
+61
+00:04:17,785 --> 00:04:19,485
+được gọi là chuỗi cung ứng.
+
+62
+00:04:19,485 --> 00:04:23,015
+Chuỗi đầu vào khác nhau như năng lượng và
+
+63
+00:04:23,015 --> 00:04:26,195
+nguyên liệu thô trong quy trình sản xuất của bạn.
+
+64
+00:04:27,255 --> 00:04:32,460
+Bây giờ, một khi bạn đã sản xuất sản phẩm của bạn, bước tiếp theo sẽ là bán nó.
+
+65
+00:04:32,460 --> 00:04:35,610
+Đây sẽ là trách nhiệm của đội ngũ tiếp thị của bạn.
+
+66
+00:04:35,610 --> 00:04:38,100
+Nó sẽ là vai trò của nhóm này để
+
+67
+00:04:38,100 --> 00:04:40,750
+tìm ra các kênh phân phối thích hợp nhất.
+
+68
+00:04:41,840 --> 00:04:47,350
+Bạn có nên bán buôn cho các chuỗi lớn như Walmart hoặc Costco, hoặc mở
+
+69
+00:04:47,350 --> 00:04:53,560
+dòng cửa hàng bán lẻ của riêng bạn hoặc chỉ bán sản phẩm theo phong cách Amazon qua Internet?
+
+70
+00:04:53,560 --> 00:04:58,720
+Nhóm tiếp thị và bán hàng của bạn cũng phải tìm ra một chiến lược quảng cáo, và
+
+71
+00:04:58,720 --> 00:05:02,610
+thông điệp thích hợp nhất xung quanh để xây dựng chiến lược này.
+
+72
+00:05:02,610 --> 00:05:07,480
+Tất nhiên với đầu vào đáng kể từ các nhà kinh tế quản lý của công ty bạn,
+
+73
+00:05:07,480 --> 00:05:11,650
+đội ngũ tiếp thị và bán hàng cũng sẽ xác định một cấu trúc giá cả.
+
+74
+00:05:11,650 --> 00:05:15,740
+Bây giờ tôi cá nhân tin rằng sản phẩm của bạn sẽ thành công một cách dữ dội và
+
+75
+00:05:15,740 --> 00:05:18,170
+tiền sẽ bắt đầu đổ vào. Vì
+
+76
+00:05:18,170 --> 00:05:21,180
+nó làm như vậy, nó sẽ là công việc của các
+
+77
+00:05:21,180 --> 00:05:27,440
+nhóm kế toán tài chính và quản lý để theo dõi cẩn thận cả dòng chi phí và doanh thu.
+
+78
+00:05:27,440 --> 00:05:31,200
+Về cơ bản, đội này sẽ là người ghi bàn của bạn.
+
+79
+00:05:31,200 --> 00:05:34,530
+Nó sẽ có thể cho bạn biết liệu bạn đang làm cho nó hoặc
+
+80
+00:05:34,530 --> 00:05:37,190
+liệu công ty của bạn sẽ sớm đi bụng lên.
+
+81
+00:05:37,190 --> 00:05:41,400
+Nhóm này sẽ tính đến các dòng chi phí và doanh thu khác nhau,
+
+82
+00:05:41,400 --> 00:05:46,900
+tính toán lợi nhuận, thu nhập của bạn cho cổ đông và nộp thuế của bạn.
+
+83
+00:05:46,900 --> 00:05:51,830
+Và quan trọng là, nội bộ sử dụng thông tin đó để cải thiện việc ra quyết định.
+
+84
+00:05:53,170 --> 00:05:58,310
+Và hành vi tổ chức và lãnh đạo quan trọng như thế nào đối với câu chuyện của chúng ta?
+
+85
+00:05:58,310 --> 00:06:00,920
+Vâng trong giai đoạn đầu của công ty, bạn và các
+
+86
+00:06:00,920 --> 00:06:06,300
+đối tác kinh doanh của bạn có thể sẽ biết tất cả hoặc hầu hết các nhân viên.
+
+87
+00:06:06,300 --> 00:06:09,490
+Và bạn cùng nhau sẽ đưa ra hầu hết các quyết định.
+
+88
+00:06:09,490 --> 00:06:14,330
+Và giống như rất nhiều doanh nhân, bạn có thể quản lý công ty của bạn chủ yếu từ ruột của bạn
+
+89
+00:06:14,330 --> 00:06:17,389
+hơn là theo cách được dạy trong sách giáo khoa quản lý.
+
+90
+00:06:18,590 --> 00:06:23,880
+Tuy nhiên, lưu ý rằng khi công ty của bạn phát triển và thịnh vượng, bạn có thể sẽ nhận thấy
+
+91
+00:06:23,880 --> 00:06:28,960
+rằng không chỉ nó trở nên ngày càng khó khăn để theo dõi tất cả mọi người,
+
+92
+00:06:28,960 --> 00:06:33,930
+mà còn rằng bất kỳ sai sót nào trong phong cách quản lý cá nhân của bạn sẽ được khuếch đại.
+
+93
+00:06:33,930 --> 00:06:39,070
+Theo đó, một khi công ty non trẻ của bạn đạt đến một khối lượng quan trọng nhất định
+
+94
+00:06:39,070 --> 00:06:42,490
+Nó sẽ trở nên hoàn toàn cần thiết để bạn
+
+95
+00:06:42,490 --> 00:06:46,360
+chú ý nhiều hơn đến cách công ty của bạn thực sự được tổ chức.
+
+96
+00:06:46,360 --> 00:06:51,280
+Và những cấu trúc khuyến khích bạn có sẵn để đảm bảo nó hoạt động hiệu quả
+
+97
+00:06:51,280 --> 00:06:52,870
+và đầy đủ tiềm năng của nó.
+
+98
+00:06:52,870 --> 00:06:55,370
+Tại một thời điểm như vậy, bạn sẽ đến để dựa nhiều hơn và nhiều hơn
+
+99
+00:06:55,370 --> 00:06:57,840
+nữa vào hành vi tổ chức của bạn.
+
+100
+00:06:57,840 --> 00:07:03,360
+Và đội ngũ quản lý nguồn nhân lực của bạn để nhân viên thích hợp cho tập đoàn.
+
+101
+00:07:03,360 --> 00:07:07,790
+Có thủ tục tại chỗ để đảm bảo thực hành quản lý tốt nhất.
+
+102
+00:07:07,790 --> 00:07:13,310
+Và có lẽ quan trọng nhất của tất cả tạo ra một nền văn hóa quản lý nơi mà tinh thần
+
+103
+00:07:13,310 --> 00:07:18,700
+luôn luôn cao, năng suất được tối đa hóa và các quy tắc hiệu quả.
+
+104
+00:07:19,800 --> 00:07:23,180
+Ở giai đoạn này trong sự phát triển của công ty bạn, nó sẽ trở nên
+
+105
+00:07:23,180 --> 00:07:27,300
+quan trọng không kém là bạn ngày càng nhận thức được về
+
+106
+00:07:27,300 --> 00:07:32,140
+môi trường chính trị và quy định trong đó một công ty hoạt động.
+
+107
+00:07:32,140 --> 00:07:35,730
+Đây là nơi các nhóm doanh nghiệp và chính phủ của bạn với strut công cụ của họ.
+
+108
+00:07:35,730 --> 00:07:38,850
+Bạn muốn xác định vị trí một nhà máy mới trong một tiểu bang cụ thể?
+
+109
+00:07:38,850 --> 00:07:42,960
+Bạn có thể phải vận động hội đồng thành phố địa phương hoặc cơ quan lập pháp tiểu bang cho
+
+110
+00:07:42,960 --> 00:07:45,150
+các giấy phép thích hợp.
+
+111
+00:07:45,150 --> 00:07:47,870
+Kiếm tiền của bạn chủ yếu từ Internet?
+
+112
+00:07:47,870 --> 00:07:51,300
+Một số tiểu bang, và thậm chí cả chính phủ liên bang, có thể đang cố gắng
+
+113
+00:07:51,300 --> 00:07:55,780
+áp đặt các loại thuế mới trên Internet mà ngành công nghiệp của bạn có thể muốn chiến đấu. Bạn
+
+114
+00:07:56,810 --> 00:08:00,920
+muốn có một khoản tín dụng thuế vốn đầu tư lớn hơn mà sẽ cho phép bạn xây dựng
+
+115
+00:08:00,920 --> 00:08:05,840
+một nhà máy mới tại địa phương, và có bằng cách giúp giữ việc làm trong nước?
+
+116
+00:08:05,840 --> 00:08:09,500
+Đó có thể là một cuộc tranh cãi hay khi đội vận động hành lang của công ty có thể
+
+117
+00:08:09,500 --> 00:08:12,150
+tung ra một nghị sĩ hay một ủy ban chủ chốt.
+
+118
+00:08:12,150 --> 00:08:16,730
+Tất nhiên, trong toàn bộ quá trình này, trong đó công ty của bạn phát triển từ một
+
+119
+00:08:16,730 --> 00:08:22,615
+hạt giống nhỏ trong ý thức của bạn đến một cổ phiếu lớn trên thị trường chứng khoán New York,
+
+120
+00:08:22,615 --> 00:08:27,065
+bạn và tất cả nhân viên của bạn sẽ muốn tiến hành bản thân một cách phù hợp
+
+121
+00:08:27,065 --> 00:08:29,665
+với cả pháp luật và các khẩu pháo đạo đức nhất định.
+
+122
+00:08:30,865 --> 00:08:36,242
+Tuy nhiên, trong quá trình này đang diễn ra của wooing người tiêu dùng trên một mặt và
+
+123
+00:08:36,242 --> 00:08:38,372
+chiến đấu đối thủ cạnh tranh mặt khác.
+
+124
+00:08:38,372 --> 00:08:43,232
+Bạn sẽ sớm biết rằng, ít nhất trong một số trường hợp, pháp luật sẽ cho phép bạn làm
+
+125
+00:08:43,232 --> 00:08:47,960
+những điều có thể không Trong thực tế, được lên đến tiêu chuẩn đạo đức của riêng bạn.
+
+126
+00:08:47,960 --> 00:08:50,840
+Hoặc bạn thậm chí có thể bị cám dỗ để vượt qua một
+
+127
+00:08:50,840 --> 00:08:53,900
+ranh giới đạo đức hoặc pháp lý để đảm bảo sự thành công của công ty bạn.
+
+128
+00:08:53,900 --> 00:08:57,300
+Trong những trường hợp như vậy, bạn sẽ phục vụ cổ đông của bạn?
+
+129
+00:08:57,300 --> 00:08:59,650
+Hay ý thức đạo đức của chính bạn?
+
+130
+00:08:59,650 --> 00:09:03,240
+Và làm thế nào, bị chê bai bởi những đường chéo đạo đức này,
+
+131
+00:09:03,240 --> 00:09:05,960
+bạn sẽ quyết định điều đúng đắn để làm?
+
+132
+00:09:05,960 --> 00:09:08,430
+Hy vọng với sự giúp đỡ của cả luật sư và
+
+133
+00:09:08,430 --> 00:09:11,430
+các cố vấn khác, bạn sẽ tìm ra điều đó.
+
+134
+00:09:11,430 --> 00:09:13,660
+Và một nền tảng vững chắc trong các khái niệm và
+
+135
+00:09:13,660 --> 00:09:16,210
+bài học về đạo đức doanh nghiệp chắc chắn sẽ giúp ích.
+
+136
+00:09:17,320 --> 00:09:22,030
+Ở bất kỳ mức độ nào, bạn có thể thấy từ ví dụ này tất cả các phần khác nhau của
+
+137
+00:09:22,030 --> 00:09:27,140
+chương trình giảng dạy cốt lõi MBA phù hợp với nhau để tạo ra một doanh nghiệp có lợi nhuận.
+
+138
+00:09:27,140 --> 00:09:31,430
+Vâng, bạn có thể không bao giờ là doanh nhân mà bắt đầu toàn bộ dự án để
+
+139
+00:09:31,430 --> 00:09:37,090
+bắt đầu với, tổng quan này ít nhất sẽ cung cấp cho bạn một ý tưởng về cách mọi thứ hoạt động.
+
+140
+00:09:37,090 --> 00:09:41,560
+Từ quan điểm nghề nghiệp, một trong những điều tồi tệ nhất mà bạn có thể làm trong thế giới này là
+
+141
+00:09:41,560 --> 00:09:47,670
+hài lòng để trở thành một chiếc bánh răng trong máy móc, và không bao giờ biết được chiếc máy thực sự hoạt động như thế nào.
+
+142
+00:09:47,670 --> 00:09:49,264
+Nhưng đây là mẹo chính cuối cùng của tôi.
+
+143
+00:09:49,264 --> 00:09:53,631
+Khi bạn đang
+
+144
+00:09:53,631 --> 00:09:58,355
+ở trên thị trường việc làm, nếu bạn hiểu rõ hơn về cách làm việc của các doanh nghiệp, bất kể phần nào của doanh nghiệp đó bạn có thể
+
+145
+00:09:58,355 --> 00:10:01,434
+sẽ làm tốt hơn nhiều trong cuộc phỏng vấn xin việc của bạn,
+
+146
+00:10:01,434 --> 00:10:06,610
+nếu bạn thể hiện mình là một người có quan điểm lớn của doanh nghiệp.
+
+147
+00:10:06,610 --> 00:10:10,172
+Được rồi, đó là phần hai, khi bạn đã sẵn sàng,
+
+148
+00:10:10,172 --> 00:10:13,017
+chuyển sang phần ba và nhận xét kết thúc của chúng tôi.
+
+149
+00:10:13,017 --> 00:10:19,557
+[ NHẠC]

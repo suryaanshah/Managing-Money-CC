@@ -1,0 +1,287 @@
+1
+00:00:00,920 --> 00:00:04,855
+Nếu bạn đang học đại học, có lẽ bạn đã phải nộp tờ khai thuế thu nhập cho
+
+2
+00:00:04,855 --> 00:00:06,596
+một công việc mùa hè hoặc thực tập, nhưng
+
+3
+00:00:06,596 --> 00:00:10,878
+tỷ lệ cược là bạn không thực sự cần phải lo lắng nhiều về thuế thu nhập.
+
+4
+00:00:12,236 --> 00:00:15,397
+Nhưng ngay khi bạn nhận được công việc tuyệt vời đó sau khi tốt nghiệp và
+
+5
+00:00:15,397 --> 00:00:18,007
+bắt đầu nhìn thấy mức lương lớn đó, bạn và
+
+6
+00:00:18,007 --> 00:00:21,459
+người đàn ông thuế sẽ phát triển một mối quan hệ rất gần gũi.
+
+7
+00:00:22,740 --> 00:00:27,300
+Vì vậy, không bao giờ là quá sớm để tìm hiểu làm thế nào để nộp tờ khai thuế thu nhập
+
+8
+00:00:27,300 --> 00:00:31,200
+của bạn và giảm thiểu hóa đơn thuế của bạn cho dù bạn sống ở quốc gia nào.
+
+9
+00:00:31,200 --> 00:00:32,710
+Vì vậy, hãy bắt đầu với một số điều cơ bản.
+
+10
+00:00:33,790 --> 00:00:38,340
+Trong hầu hết các hệ thống, thuế thu nhập của bạn được xác định bởi bốn điều.
+
+11
+00:00:38,340 --> 00:00:40,290
+Số tiền thu nhập bạn kiếm được,
+
+12
+00:00:40,290 --> 00:00:44,260
+bất kỳ chi phí nào mà bạn có thể khấu trừ một cách hợp pháp từ thu nhập đó,
+
+13
+00:00:44,260 --> 00:00:48,690
+bất kỳ miễn thuế nào bạn được phép và thuế suất bạn sẽ bị tính.
+
+14
+00:00:50,140 --> 00:00:54,900
+Về toán học cơ bản, nó đi xuống đến thu nhập của bạn trừ đi bất kỳ khoản khấu
+
+15
+00:00:54,900 --> 00:00:56,200
+trừ và miễn trừ nào.
+
+16
+00:00:56,200 --> 00:00:59,480
+Đó là cái gọi là thu nhập chịu thuế của anh.
+
+17
+00:00:59,480 --> 00:01:03,810
+Thu nhập chịu thuế này sau đó được nhân với thuế suất biên của bạn
+
+18
+00:01:03,810 --> 00:01:06,440
+để xác định các khoản thuế của bạn nợ.
+
+19
+00:01:06,440 --> 00:01:08,740
+Bây giờ chúng ta hãy phá vỡ nó một chút.
+
+20
+00:01:08,740 --> 00:01:12,920
+Thuế suất biên của bạn sẽ giống nhau nếu quốc gia của bạn sử dụng
+
+21
+00:01:12,920 --> 00:01:14,790
+thuế bằng phẳng hoặc tỷ lệ thuận.
+
+22
+00:01:14,790 --> 00:01:18,000
+Tuy nhiên ở các quốc gia có hệ thống thuế tiến bộ,
+
+23
+00:01:18,000 --> 00:01:22,780
+thuế suất biên của bạn sẽ tăng lên với số tiền thu nhập chịu thuế của bạn.
+
+24
+00:01:22,780 --> 00:01:25,000
+Đối với bất kỳ miễn thuế nào,
+
+25
+00:01:25,000 --> 00:01:28,680
+nếu bạn có con bạn có thể yêu cầu họ là người phụ thuộc.
+
+26
+00:01:28,680 --> 00:01:33,500
+Cũng giống như cha mẹ cô đã tuyên bố cô là một sự miễn trừ trong phần lớn cuộc đời của cô.
+
+27
+00:01:33,500 --> 00:01:37,290
+Và cũng có những miễn trừ khác tùy thuộc vào hệ thống.
+
+28
+00:01:37,290 --> 00:01:43,680
+Bây giờ chúng ta hãy đi đến hai yếu tố lớn nhất thu nhập của bạn và các khoản khấu trừ khác của bạn.
+
+29
+00:01:43,680 --> 00:01:48,860
+Số tiền thu nhập bạn báo cáo là tổng thu nhập hoặc tổng thu nhập của bạn.
+
+30
+00:01:48,860 --> 00:01:52,740
+Đó là một tập hợp thu nhập từ tất cả các nguồn có thể.
+
+31
+00:01:52,740 --> 00:01:57,640
+Hai trong số các nguồn phổ biến nhất ở đây là tiền lương bạn kiếm được và cổ tức và
+
+32
+00:01:57,640 --> 00:02:00,939
+lãi suất mà bạn có thể nhận được từ việc nắm giữ cổ phiếu và trái phiếu.
+
+33
+00:02:02,080 --> 00:02:06,900
+Ngoài ra, có lợi nhuận vốn liên quan đến việc bán cổ phiếu hoặc tài sản
+
+34
+00:02:06,900 --> 00:02:12,450
+cho một lợi nhuận, và thậm chí có thể thu nhập cho thuê bạn nhận được trên một tài sản bạn sở hữu.
+
+35
+00:02:12,450 --> 00:02:14,400
+Bây giờ, từ tổng thu nhập đó,
+
+36
+00:02:14,400 --> 00:02:19,920
+bạn được phép khấu trừ bất kỳ chi phí hợp pháp nào do cơ quan thuế quy định.
+
+37
+00:02:19,920 --> 00:02:22,780
+Và đây là nơi bạn thực sự muốn trở thành một chuyên gia.
+
+38
+00:02:22,780 --> 00:02:27,130
+Ví dụ, một trong những khoản khấu trừ lớn nhất trong hệ thống thuế của Mỹ
+
+39
+00:02:27,130 --> 00:02:30,550
+là khấu trừ cho bất kỳ khoản lãi nào trả trên thế chấp của bạn.
+
+40
+00:02:30,550 --> 00:02:34,330
+Trong thực tế, đây là một động lực rất lớn để bạn sở hữu ngôi nhà của riêng bạn.
+
+41
+00:02:34,330 --> 00:02:38,020
+Bởi vì chính phủ có hiệu quả giúp bạn trả tiền cho nó bằng cách cho bạn
+
+42
+00:02:38,020 --> 00:02:43,040
+một khoản nghỉ thuế, và nó hầu như không phải là khoản khấu trừ duy nhất liên quan đến sở hữu nhà.
+
+43
+00:02:43,040 --> 00:02:47,290
+Các khoản khấu trừ khác liên quan đến sở hữu nhà bao gồm mất nhân quả,
+
+44
+00:02:47,290 --> 00:02:49,740
+nếu nhà của bạn bị hư hỏng hoặc bị phá hủy.
+
+45
+00:02:49,740 --> 00:02:51,030
+Tín dụng năng lượng.
+
+46
+00:02:51,030 --> 00:02:52,610
+Thuế bất động sản.
+
+47
+00:02:52,610 --> 00:02:55,500
+Và ngay cả lần đầu tiên tín dụng mua nhà.
+
+48
+00:02:55,500 --> 00:03:01,630
+Nói rộng hơn, có những khoản khấu trừ cho tổ chức từ thiện, chi phí di chuyển, v.v.
+
+49
+00:03:01,630 --> 00:03:04,360
+Và nếu bạn làm việc cho chính mình, bạn sẽ có thể khấu trừ
+
+50
+00:03:04,360 --> 00:03:09,050
+toàn bộ các chi phí liên quan đến việc điều hành doanh nghiệp của bạn.
+
+51
+00:03:09,050 --> 00:03:12,270
+Điểm rộng hơn ở đây là, bất cứ nơi nào bạn có thể sống,
+
+52
+00:03:12,270 --> 00:03:16,580
+bạn cần phải biết hệ thống thuế của bạn và các khoản khấu trừ của nó.
+
+53
+00:03:16,580 --> 00:03:21,980
+Và đây là một mẹo quan trọng, trong khi hình thức thuế thu nhập của bạn có thể khá đơn giản và
+
+54
+00:03:21,980 --> 00:03:25,310
+sẽ không cần bất kỳ phần mềm tinh vi nào,
+
+55
+00:03:25,310 --> 00:03:29,470
+tôi vẫn khuyên bạn nên cân nhắc mua phần mềm chuẩn bị thuế của riêng bạn.
+
+56
+00:03:29,470 --> 00:03:34,370
+Trên lưu ý này, tại Hoa Kỳ, Dịch vụ Doanh thu Nội bộ có một chương trình
+
+57
+00:03:34,370 --> 00:03:41,740
+gọi là file miễn phí tại irs.gov/freefile nơi họ cung cấp phần mềm và
+
+58
+00:03:41,740 --> 00:03:47,770
+công cụ để giúp bạn nộp thuế nếu thu nhập của bạn dưới 58.000 USD.
+
+59
+00:03:47,770 --> 00:03:51,010
+Đối với hầu hết chúng ta trong thời gian gần đó sẽ là vé.
+
+60
+00:03:51,010 --> 00:03:56,080
+Điều đó nói rằng, một phần mềm chuẩn bị thuế thương mại có khả năng mang tính thông tin hơn.
+
+61
+00:03:56,080 --> 00:03:59,680
+Phần mềm như vậy sẽ không chỉ hướng dẫn bạn qua quá trình
+
+62
+00:03:59,680 --> 00:04:03,910
+nó cũng sẽ cung cấp cho bạn danh sách giặt quần áo đầy đủ các khoản khấu trừ có thể.
+
+63
+00:04:05,020 --> 00:04:09,440
+Mặc dù bạn có thể không đủ điều kiện cho các khoản khấu trừ này vào thời điểm này trong cuộc sống của bạn,
+
+64
+00:04:09,440 --> 00:04:13,370
+bạn sẽ ít nhất tìm hiểu về chúng, và do đó, tìm hiểu làm thế nào bạn có thể kết hợp
+
+65
+00:04:13,370 --> 00:04:17,150
+các khoản khấu trừ đó vào các quyết định và kế hoạch tài chính trong tương lai của bạn.
+
+66
+00:04:18,510 --> 00:04:23,030
+Một số công cụ quan trọng ở đây bao gồm các khoản đầu tư,
+
+67
+00:04:23,030 --> 00:04:26,860
+tài khoản hưu trí và tài khoản để tiết kiệm cho giáo dục của con bạn.
+
+68
+00:04:26,860 --> 00:04:30,350
+Trong thực tế, cha mẹ tôi đang trả tiền cho đại học với một tài khoản như vậy và
+
+69
+00:04:30,350 --> 00:04:34,190
+họ tiết kiệm hàng ngàn đô la tiền thuế bằng cách lên kế hoạch trước.
+
+70
+00:04:34,190 --> 00:04:35,010
+Cám ơn bố mẹ.
+
+71
+00:04:36,210 --> 00:04:41,326
+Ở bất kỳ mức độ nào, chúng ta hãy chuyển sang các vấn đề cuối cùng và các mẹo chính trong phần ba của bài học này.
+
+72
+00:04:41,326 --> 00:04:49,549
+[ NHẠC]

@@ -1,0 +1,439 @@
+1
+00:00:00,450 --> 00:00:05,270
+Dans cette partie de la leçon, nous allons explorer les rapports de crédit et les
+
+2
+00:00:05,270 --> 00:00:09,150
+scores de crédit, et je vais vous montrer en particulier comment les scores de crédit
+
+3
+00:00:09,150 --> 00:00:12,060
+sont effectivement dérivés des rapports de crédit.
+
+4
+00:00:12,060 --> 00:00:14,450
+Commençons par le rapport de crédit.
+
+5
+00:00:14,450 --> 00:00:18,480
+Votre rapport de crédit est un enregistrement détaillé de vos antécédents de crédit.
+
+6
+00:00:18,480 --> 00:00:23,800
+Et il se concentre spécifiquement sur votre capacité à rembourser l'argent que vous pourriez emprunter.
+
+7
+00:00:23,800 --> 00:00:26,420
+Donc, ce que vous pouvez demander est dans votre rapport de crédit ?
+
+8
+00:00:27,760 --> 00:00:33,450
+Eh bien d'abord, il inclut des données personnelles comme vos adresses actuelles et précédentes.
+
+9
+00:00:33,450 --> 00:00:36,820
+Votre numéro de sécurité sociale ou d'identification nationale.
+
+10
+00:00:36,820 --> 00:00:38,090
+Et vos antécédents d'emploi.
+
+11
+00:00:39,250 --> 00:00:44,500
+Deuxièmement, votre rapport de crédit inclut vos antécédents de crédit et vise en particulier à
+
+12
+00:00:44,500 --> 00:00:50,480
+identifier le nombre et le type de comptes que vous avez en souffrance ou en règle.
+
+13
+00:00:51,830 --> 00:00:56,500
+Troisièmement, votre dernier rapport de crédit documentera les demandes de crédit antérieures dans votre
+
+14
+00:00:56,500 --> 00:00:57,530
+rapport de crédit.
+
+15
+00:00:57,530 --> 00:01:00,140
+Alors, c'est quoi tout ça ?
+
+16
+00:01:00,140 --> 00:01:04,370
+Eh bien, c'est un moyen d'évaluer à la fois votre activité d'emprunt et
+
+17
+00:01:04,370 --> 00:01:05,770
+votre solvabilité possible.
+
+18
+00:01:06,780 --> 00:01:11,310
+La grande statistique ici est que, au moins selon une source crédible,
+
+19
+00:01:11,310 --> 00:01:15,070
+les personnes qui ont ajouté six demandes de renseignements ou plus dans leurs rapports au cours de
+
+20
+00:01:15,070 --> 00:01:19,140
+la dernière année peuvent être jusqu'à huit fois plus susceptibles de déposer une demande de
+
+21
+00:01:19,140 --> 00:01:23,310
+faillite que celles dont les rapports de crédit ne montrent aucune enquête.
+
+22
+00:01:24,390 --> 00:01:27,970
+Enfin, le rapport fournit des détails importants sur
+
+23
+00:01:27,970 --> 00:01:31,890
+tous vos comptes qui ont pu être remis à une agence de recouvrement.
+
+24
+00:01:32,900 --> 00:01:37,490
+Et notez que ces détails comprennent toute information sur les poursuites judiciaires ou les
+
+25
+00:01:37,490 --> 00:01:39,900
+réclamations sur votre propriété, ou la saisie ou
+
+26
+00:01:39,900 --> 00:01:44,100
+la prise de votre salaire à la suite d'une poursuite ou d'une autre action.
+
+27
+00:01:45,370 --> 00:01:48,310
+Autrement dit, si vous avez été
+
+28
+00:01:48,310 --> 00:01:51,960
+en retard sur vos cartes de crédit ou que vous avez des problèmes avec la loi pour avoir omis de payer vos dettes ou des
+
+29
+00:01:51,960 --> 00:01:57,220
+choses comme la pension alimentaire pour enfants, votre rapport de crédit va le révéler.
+
+30
+00:01:57,220 --> 00:02:01,910
+Mais de telles oblations ne sont pas vraiment la fonction la plus importante du rapport de crédit.
+
+31
+00:02:01,910 --> 00:02:03,210
+Alors qu'est-ce que c'est ?
+
+32
+00:02:04,710 --> 00:02:07,840
+Entrez étape gauche, votre pointage de crédit.
+
+33
+00:02:07,840 --> 00:02:12,350
+Votre cote de crédit est l'une des mesures numériques les plus importantes
+
+34
+00:02:12,350 --> 00:02:14,650
+de vous en tant qu'entité financière.
+
+35
+00:02:14,650 --> 00:02:16,340
+Et c'est un nombre basé d'
+
+36
+00:02:16,340 --> 00:02:20,989
+abord et avant tout sur une analyse statistique très détaillée des données de votre rapport de crédit.
+
+37
+00:02:22,150 --> 00:02:25,830
+Et selon le bureau de crédit qui calcule le score de crédit,
+
+38
+00:02:25,830 --> 00:02:27,700
+ils peuvent également utiliser d'autres informations.
+
+39
+00:02:28,980 --> 00:02:30,610
+Maintenant, voici de bonnes choses à savoir.
+
+40
+00:02:31,750 --> 00:02:35,200
+La fourchette standard de scores de crédit se situe entre 300 et 850.
+
+41
+00:02:35,200 --> 00:02:40,080
+Et cela devrait être intuitif, plus votre score est élevé, moins les
+
+42
+00:02:40,080 --> 00:02:44,810
+prêteurs de risque vous verront avoir quand il s'agit de défaut de paiement de vos dettes.
+
+43
+00:02:44,810 --> 00:02:48,410
+Ainsi, une cote de crédit plus élevée signifiera à la fois des taux d'intérêt plus bas pour les
+
+44
+00:02:48,410 --> 00:02:51,200
+emprunts et, souvent, de meilleures conditions de prêt.
+
+45
+00:02:52,320 --> 00:02:56,770
+Dans la pratique, la plupart des banques et des prêteurs considèrent que tout ce qui dépasse 750
+
+46
+00:02:56,770 --> 00:03:01,550
+est excellent, et que les scores de 800 et plus sont la perfection du crédit.
+
+47
+00:03:03,040 --> 00:03:07,620
+Alors, quels sont les détails de ce score et qu'est-ce qu'il mesure réellement ?
+
+48
+00:03:07,620 --> 00:03:12,490
+Eh bien, le score de crédit et la norme de l'industrie les plus connus est le score FICO.
+
+49
+00:03:13,580 --> 00:03:19,602
+Cette partition FICO porte le nom de son inventeur, la Fair-Isaac Corporation.
+
+50
+00:03:19,602 --> 00:03:23,980
+En fait, Fair-Isaac est le roi des scores de crédit sur le marché.
+
+51
+00:03:25,610 --> 00:03:30,370
+En ce qui concerne la fonction spécifique du score FICO, son objectif statistique
+
+52
+00:03:30,370 --> 00:03:35,230
+est de prédire la probabilité qu'un emprunteur passe 90 jours en retard ou
+
+53
+00:03:35,230 --> 00:03:39,018
+pire, dans les 24 mois suivant le calcul du score.
+
+54
+00:03:39,018 --> 00:03:44,060
+Maintenant, en plus de Fair-Isaac, il y a trois autres grandes
+
+55
+00:03:44,060 --> 00:03:49,830
+agences de crédit qui produisent des scores de type Fico en utilisant leurs propres modèles propriétaires.
+
+56
+00:03:49,830 --> 00:03:54,670
+Ces bureaux comprennent Equifax, Experian et Transunion.
+
+57
+00:03:54,670 --> 00:03:59,340
+Pour ce qui est des raisons pour lesquelles votre cote de crédit peut différer d'un bureau à l'autre, cela est dû en grande partie
+
+58
+00:03:59,340 --> 00:04:04,160
+aux schémas pondérés légèrement différents que chacun utilise dans ses modèles propriétaires.
+
+59
+00:04:05,530 --> 00:04:07,040
+Maintenant, voici un point clé.
+
+60
+00:04:07,040 --> 00:04:11,940
+En Amérique, chaque citoyen a droit à un rapport de crédit gratuit chaque année
+
+61
+00:04:11,940 --> 00:04:14,130
+de chacune des trois grandes agences de crédit.
+
+62
+00:04:15,140 --> 00:04:16,440
+Et voici une astuce clé.
+
+63
+00:04:16,440 --> 00:04:22,190
+Pour obtenir votre rapport de crédit gratuit, vous pouvez vous rendre sur le site Annualcreditreport.com.
+
+64
+00:04:22,190 --> 00:04:27,760
+Il s'agit d'un site Web géré collectivement par Equifax, Experian et TransUnion.
+
+65
+00:04:27,760 --> 00:04:31,260
+Et notez ici que si vous voulez également obtenir votre cote de crédit,
+
+66
+00:04:31,260 --> 00:04:34,940
+ainsi que votre rapport de crédit, il y aura des frais modiques,
+
+67
+00:04:34,940 --> 00:04:38,670
+ce qui est l'une des raisons évidentes pour lesquelles ces agences de crédit parrainent ce site Web.
+
+68
+00:04:40,100 --> 00:04:43,990
+Quant à la façon dont les rapports de crédit sont présentés, ils varient considérablement,
+
+69
+00:04:43,990 --> 00:04:48,190
+car les différentes agences de crédit ont effectivement des pratiques différentes.
+
+70
+00:04:48,190 --> 00:04:51,730
+Cela dit, il y a des points communs importants.
+
+71
+00:04:51,730 --> 00:04:55,150
+Par exemple, la plupart des rapports comprendront un bref résumé
+
+72
+00:04:55,150 --> 00:04:58,690
+des problèmes qu'ils remarquent dans votre cas.
+
+73
+00:04:58,690 --> 00:05:01,340
+Un exemple de ligne de balise ici pourrait lire,
+
+74
+00:05:01,340 --> 00:05:05,640
+proportion de soldes par rapport à la limite de crédit trop élevée.
+
+75
+00:05:05,640 --> 00:05:08,390
+En plus de ces indicateurs de mise en garde, votre
+
+76
+00:05:08,390 --> 00:05:13,510
+rapport de crédit contiendra également des données de paiement spécifiques provenant des marges de crédit dont vous disposez.
+
+77
+00:05:13,510 --> 00:05:17,620
+Nous allons également mettre des drapeaux rouges sur des choses comme tous les mois où vous avez payé en retard ou
+
+78
+00:05:17,620 --> 00:05:19,000
+pas assez.
+
+79
+00:05:19,000 --> 00:05:21,250
+Maintenant, voici une tête très importante est en place.
+
+80
+00:05:21,250 --> 00:05:23,810
+Les sociétés de rapport de crédit sont loin d'être parfaites,
+
+81
+00:05:23,810 --> 00:05:26,570
+et elles font parfois des erreurs.
+
+82
+00:05:26,570 --> 00:05:31,090
+Malheureusement, il sera de votre responsabilité de corriger ces erreurs.
+
+83
+00:05:31,090 --> 00:05:34,230
+Généralement, cela signifie déposer un formulaire de protestation,
+
+84
+00:05:34,230 --> 00:05:39,270
+demander une enquête et demander que l'erreur soit corrigée.
+
+85
+00:05:39,270 --> 00:05:45,110
+Ici, les bureaux ont 45 jours pour examiner la question et corriger l'erreur.
+
+86
+00:05:45,110 --> 00:05:47,500
+Maintenant, il y a encore une autre tête haute importante.
+
+87
+00:05:47,500 --> 00:05:49,990
+Vous avez droit à un rapport de crédit gratuit
+
+88
+00:05:49,990 --> 00:05:52,790
+dans les 60 jours suivant une mauvaise décision de crédit.
+
+89
+00:05:53,840 --> 00:05:57,160
+Une telle décision pourrait inclure le refus de crédit.
+
+90
+00:05:57,160 --> 00:06:00,510
+Sinon, le prêteur pourrait essayer de vous imposer
+
+91
+00:06:00,510 --> 00:06:05,390
+un taux d'intérêt supérieur au marché en fonction de votre risque de crédit présumé plus élevé.
+
+92
+00:06:05,390 --> 00:06:08,770
+Dans de tels cas, les prêteurs ne peuvent pas simplement vous faire exploser.
+
+93
+00:06:08,770 --> 00:06:13,080
+Au lieu de cela, ces prêteurs ou créanciers sont légalement tenus de vous dire
+
+94
+00:06:13,080 --> 00:06:16,740
+exactement pourquoi ils vous offrent des conditions de qualité inférieure.
+
+95
+00:06:16,740 --> 00:06:17,730
+Dans le cadre de ce processus,
+
+96
+00:06:17,730 --> 00:06:22,640
+ils doivent identifier les éléments spécifiques qui ont eu une incidence négative sur votre demande.
+
+97
+00:06:22,640 --> 00:06:25,820
+Ainsi, lorsque vous examinerez votre dossier de crédit pour le vérifier,
+
+98
+00:06:25,820 --> 00:06:28,139
+vous saurez exactement ce qu'il faut chercher.
+
+99
+00:06:29,260 --> 00:06:31,850
+Vous pouvez alors voir comment votre rapport de crédit et
+
+100
+00:06:31,850 --> 00:06:35,810
+votre cote de crédit sont des éléments essentiels de votre vie financière.
+
+101
+00:06:35,810 --> 00:06:39,710
+Ce que nous devons faire ensuite, c'est de creuser plus profondément dans le
+
+102
+00:06:39,710 --> 00:06:41,290
+numéro de cote de crédit lui-même.
+
+103
+00:06:41,290 --> 00:06:44,820
+Le but ici sera de vous montrer comment cette étape de votre vie
+
+104
+00:06:44,820 --> 00:06:47,980
+à construire stratégique et augmenter votre score de crédit.
+
+105
+00:06:47,980 --> 00:06:52,020
+Donc, quand vous voulez acheter cette voiture ou cette maison, ou emprunter pour
+
+106
+00:06:52,020 --> 00:06:56,190
+une nouvelle entreprise, votre prêt sera approuvé au taux le plus bas possible et
+
+107
+00:06:56,190 --> 00:06:58,370
+avec les meilleures conditions possibles.
+
+108
+00:06:58,370 --> 00:06:59,739
+Pas un mauvais objectif à atteindre.
+
+109
+00:06:59,739 --> 00:07:03,593
+Allons-y dans la troisième partie de cette leçon quand tu seras prêt.
+
+110
+00:07:03,593 --> 00:07:11,449
+[ MUSIQUE]

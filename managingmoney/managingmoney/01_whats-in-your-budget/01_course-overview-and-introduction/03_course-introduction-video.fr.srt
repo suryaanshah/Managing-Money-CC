@@ -1,0 +1,187 @@
+1
+00:00:00,770 --> 00:00:03,817
+Bonjour, je suis Peter Navarro et je serai votre professeur pour
+
+2
+00:00:03,817 --> 00:00:06,876
+ce cours sur la gestion de votre temps, de votre argent et de votre carrière.
+
+3
+00:00:06,876 --> 00:00:11,826
+Je suis professeur à l'école de commerce UC Irvine ici à Sunny California,
+
+4
+00:00:11,826 --> 00:00:16,326
+depuis plus de 25 ans, et je suis ravi de pouvoir partager avec vous quelques
+
+5
+00:00:16,326 --> 00:00:20,170
+informations sur les finances personnelles et la gestion.
+
+6
+00:00:20,170 --> 00:00:23,380
+Habituellement réserver pour mes étudiants en MBA.
+
+7
+00:00:23,380 --> 00:00:25,100
+>> Et je suis Alex LeBon.
+
+8
+00:00:25,100 --> 00:00:29,680
+Je suis un étudiant de premier cycle avec une spécialisation en physique qui a vécu
+
+9
+00:00:29,680 --> 00:00:34,300
+de première main la plupart des problèmes et problèmes dont nous allons parler dans ce cours.
+
+10
+00:00:34,300 --> 00:00:38,011
+Vous allez me voir et m'entendre tout au long des leçons vidéo, et
+
+11
+00:00:38,011 --> 00:00:41,071
+je vais vous aider à expliquer et à traduire les
+
+12
+00:00:41,071 --> 00:00:45,520
+concepts d'affaires et d'économie du professeur Navarro dans votre vie quotidienne en tant qu'étudiant.
+
+13
+00:00:45,520 --> 00:00:47,401
+>> Voici donc l'affaire.
+
+14
+00:00:47,401 --> 00:00:52,480
+Ce cours est conçu pour être à la fois pratique et amusant.
+
+15
+00:00:52,480 --> 00:00:54,973
+Et ce devrait être une expérience de stress très faible.
+
+16
+00:00:54,973 --> 00:00:59,779
+>> Si vous consultez simplement les conférences en ligne un couple de fois, prenez les quiz,
+
+17
+00:00:59,779 --> 00:01:04,450
+Vous devriez obtenir un taux de rendement très élevé sur cet investissement éducatif.
+
+18
+00:01:05,480 --> 00:01:10,280
+>> Quant aux sujets que vous étudierez, ils vont de la budgétisation, de la
+
+19
+00:01:10,280 --> 00:01:13,060
+gestion des emprunts et des scores de crédit à l'épargne et à l'
+
+20
+00:01:13,060 --> 00:01:17,400
+investissement, aux assurances, aux impôts et même à l'entrepreneuriat.
+
+21
+00:01:18,480 --> 00:01:20,920
+>> Et une note sur le contenu.
+
+22
+00:01:20,920 --> 00:01:25,860
+Dans la plupart de vos cours, les leçons seront structurées dans une progression claire où
+
+23
+00:01:25,860 --> 00:01:30,290
+chaque leçon s'appuie sur la suivante à mesure que le matériel devient de plus en plus difficile.
+
+24
+00:01:30,290 --> 00:01:33,040
+Mais ce n'est pas ce que nous allons faire ici.
+
+25
+00:01:33,040 --> 00:01:34,160
+>> C'est vrai, Alex.
+
+26
+00:01:34,160 --> 00:01:39,330
+Chacune des leçons de cette classe se tient plus ou moins seule.
+
+27
+00:01:39,330 --> 00:01:44,160
+Mais ils sont aussi très liés à au moins quelques-unes des autres leçons,
+
+28
+00:01:44,160 --> 00:01:46,190
+comme si dans un web.
+
+29
+00:01:46,190 --> 00:01:46,900
+>> Par exemple,
+
+30
+00:01:46,900 --> 00:01:51,390
+dans une leçon, nous enseignerons le concept d'avoir un plan pour votre argent.
+
+31
+00:01:51,390 --> 00:01:55,350
+Mais dans d'autres leçons, nous allons vous montrer des concepts connexes comme les
+
+32
+00:01:55,350 --> 00:01:57,270
+stratégies d'investissement et le crédit.
+
+33
+00:01:58,270 --> 00:02:01,780
+>> Alors gardez cela à l'esprit pendant que vous suivez les leçons, et
+
+34
+00:02:01,780 --> 00:02:05,910
+n'ayez pas peur de revenir aux leçons pour garder vos connaissances à jour
+
+35
+00:02:05,910 --> 00:02:09,780
+lorsque nous référons un sujet particulier en dehors de sa leçon.
+
+36
+00:02:10,930 --> 00:02:13,450
+>> Et voici mon premier conseil clé pour vous.
+
+37
+00:02:13,450 --> 00:02:16,870
+L' une des choses les plus puissantes d'un cours Coursera
+
+38
+00:02:16,870 --> 00:02:19,180
+est les forums de discussion communautaires.
+
+39
+00:02:19,180 --> 00:02:23,980
+>> C'est exact, n'oubliez pas de poster vos questions, vos idées personnelles ou
+
+40
+00:02:23,980 --> 00:02:26,510
+des ressources connexes supplémentaires.
+
+41
+00:02:26,510 --> 00:02:29,840
+Bien qu'Alex et moi ne puissions pas répondre à toutes vos questions,
+
+42
+00:02:29,840 --> 00:02:34,380
+la vaste communauté d'apprenants dans le cours peut aider à combler cette lacune.
+
+43
+00:02:34,380 --> 00:02:37,820
+Et vous bénéficierez grandement des connaissances collectives
+
+44
+00:02:37,820 --> 00:02:39,790
+de vos collègues.
+
+45
+00:02:39,790 --> 00:02:44,060
+>> Alors maintenant, nous allons nous préparer pour ce qui devrait être un tour très intéressant.
+
+46
+00:02:44,060 --> 00:02:46,815
+Sautez directement dans la première leçon et profitez du cours.
+
+47
+00:02:46,815 --> 00:02:47,315
+[ AUDIO BLANC

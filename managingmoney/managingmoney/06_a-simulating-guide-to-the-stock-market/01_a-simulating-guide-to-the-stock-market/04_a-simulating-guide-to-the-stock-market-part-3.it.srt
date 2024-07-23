@@ -1,0 +1,267 @@
+1
+00:00:00,550 --> 00:00:03,320
+In questa sezione voglio andare oltre alcune delle basi del
+
+2
+00:00:03,320 --> 00:00:05,570
+trading azionario che potresti trovare utile.
+
+3
+00:00:05,570 --> 00:00:06,620
+Ma prima di farlo.
+
+4
+00:00:06,620 --> 00:00:10,230
+Voglio sottolineare l'importanza di imparare a scambiare azioni
+
+5
+00:00:10,230 --> 00:00:12,630
+in un ambiente di gioco simulato.
+
+6
+00:00:12,630 --> 00:00:16,330
+Questo è quello che fanno molti studenti alla UCI Business School, e dovresti farlo anche tu.
+
+7
+00:00:17,740 --> 00:00:21,970
+L' idea alla base di un simulatore di mercato azionario è che ti viene data una somma fissa di denaro,
+
+8
+00:00:21,970 --> 00:00:23,120
+come 1 milione di dollari.
+
+9
+00:00:23,120 --> 00:00:28,010
+E ti è permesso scambiare quei soldi per un determinato periodo di tempo.
+
+10
+00:00:28,010 --> 00:00:30,130
+La parte interessante sui simulatori del mercato azionario.
+
+11
+00:00:30,130 --> 00:00:34,860
+È che si basano su dati reali in tempo reale dai mercati azionari stessi.
+
+12
+00:00:34,860 --> 00:00:38,060
+Quindi solo differenza reale tra il trading su un simulatore.
+
+13
+00:00:38,060 --> 00:00:41,790
+E il trading sul proprio conto del mercato azionario, è che si sta utilizzando il denaro del gioco.
+
+14
+00:00:43,890 --> 00:00:47,780
+Per quanto riguarda quale simulatore stock usare, ce ne sono un sacco là fuori.
+
+15
+00:00:47,780 --> 00:00:50,170
+Ma e' difficile sbagliare con Wall Street Survivor.
+
+16
+00:00:51,320 --> 00:00:54,000
+Quindi il nostro suggerimento in questo corso, è di andare avanti e
+
+17
+00:00:54,000 --> 00:00:57,090
+impostare un account in questo o un simulatore simile.
+
+18
+00:00:57,090 --> 00:00:57,780
+Sì, è gratis.
+
+19
+00:00:58,790 --> 00:01:02,060
+Per quanto riguarda il trading di azioni in sé, ecco solo alcuni concetti chiave.
+
+20
+00:01:03,260 --> 00:01:06,190
+Iniziamo con gli ordini di mercato rispetto al limite.
+
+21
+00:01:08,240 --> 00:01:10,350
+Con un ordine di mercato, il titolo che si desidera acquistare.
+
+22
+00:01:10,350 --> 00:01:13,600
+Viene acquistato a qualsiasi prezzo sta clearing nel mercato al momento in cui si
+
+23
+00:01:13,600 --> 00:01:15,130
+effettua il vostro commercio.
+
+24
+00:01:15,130 --> 00:01:19,010
+Il vantaggio di un ordine di mercato è che si è certi che sarà riempito.
+
+25
+00:01:19,010 --> 00:01:22,870
+Ma si può pagare un prezzo troppo alto se vi capita di acquistare su un grande swing momentum
+
+26
+00:01:22,870 --> 00:01:23,540
+durante il giorno.
+
+27
+00:01:24,640 --> 00:01:27,560
+Al contrario, con un ordine limite è possibile impostare il prezzo in
+
+28
+00:01:27,560 --> 00:01:29,910
+modo da non superare un certo importo.
+
+29
+00:01:29,910 --> 00:01:32,660
+Ad esempio, supponiamo di voler acquistare un'altra quota di UCI.
+
+30
+00:01:32,660 --> 00:01:36,020
+E tu pensi che sia un buon affare a qualsiasi prezzo inferiore a 105 dollari.
+
+31
+00:01:36,020 --> 00:01:40,650
+Tuttavia, se si deve pagare un prezzo superiore a $105.
+
+32
+00:01:40,650 --> 00:01:45,920
+Non pensi che la ricompensa che potresti guadagnare valga il rischio.
+
+33
+00:01:45,920 --> 00:01:46,920
+Quindi, con un ordine limite,
+
+34
+00:01:46,920 --> 00:01:50,700
+tutto quello che devi fare è impostare il limite al prezzo di $105 in questo caso.
+
+35
+00:01:51,780 --> 00:01:55,570
+Naturalmente, il lato negativo di un ordine limite è che l'ordine non può essere riempito se
+
+36
+00:01:55,570 --> 00:01:58,721
+il prezzo rimane superiore a $105.
+
+37
+00:01:58,721 --> 00:02:02,930
+Ora, un secondo concetto chiave è quello degli stop loss.
+
+38
+00:02:02,930 --> 00:02:04,950
+Un punto chiave qui è che quando acquisti uno stock,
+
+39
+00:02:04,950 --> 00:02:06,790
+devi gestire attentamente il tuo rischio.
+
+40
+00:02:07,930 --> 00:02:09,300
+Cosa intendo con questo?
+
+41
+00:02:09,300 --> 00:02:13,360
+Beh, certo che stai comprando quell'azione con la speculazione che aumentera'.
+
+42
+00:02:13,360 --> 00:02:17,200
+Ma nonostante tutta la tua attenta ricerca, le azioni potrebbero cadere.
+
+43
+00:02:17,200 --> 00:02:21,070
+E se cade molto, puoi perdere un sacco di soldi, e talvolta molto rapidamente.
+
+44
+00:02:22,240 --> 00:02:25,120
+L' idea di uno stop loss è di mettere in un ordine di vendita.
+
+45
+00:02:25,120 --> 00:02:28,370
+In modo che se il tuo stock scende al di sotto di una certa quantità.
+
+46
+00:02:28,370 --> 00:02:30,990
+Quindi lo stock viene venduto automaticamente.
+
+47
+00:02:30,990 --> 00:02:34,720
+Una buona regola qui è di non perdere mai più del 10% in uno stock.
+
+48
+00:02:34,720 --> 00:02:37,825
+Quindi, per esempio, se compri una quota di UCI a $100,
+
+49
+00:02:37,825 --> 00:02:40,990
+potresti voler mettere un ordine di stop loss per $90.
+
+50
+00:02:40,990 --> 00:02:47,010
+Ed ecco un concetto interessante correlato, quello del trailing stop loss.
+
+51
+00:02:47,010 --> 00:02:50,180
+L' idea qui è di non trasformare mai un vincitore in un perdente.
+
+52
+00:02:50,180 --> 00:02:55,310
+Quindi, per esempio, se si acquista UCI a $100 e va a $110.
+
+53
+00:02:55,310 --> 00:02:59,760
+La cosa saggia da fare qui potrebbe essere quello di aumentare il vostro ordine di stop loss a $100
+
+54
+00:02:59,760 --> 00:03:01,930
+piuttosto che l'originale 90.
+
+55
+00:03:01,930 --> 00:03:06,130
+Quindi, se l'UCI cade indietro, almeno non hai perso soldi e
+
+56
+00:03:06,130 --> 00:03:09,090
+quindi non hai trasformato un vincitore in un perdente.
+
+57
+00:03:09,090 --> 00:03:11,840
+Questi sono solo alcuni dei tanti trucchi del commercio azionario.
+
+58
+00:03:11,840 --> 00:03:16,250
+Che avrete bisogno di imparare a fare soldi sui vostri investimenti in borsa.
+
+59
+00:03:16,250 --> 00:03:20,210
+Mentre non si può avere un sacco di soldi per investire proprio ora nel mercato azionario.
+
+60
+00:03:20,210 --> 00:03:23,580
+Nel corso del tempo, come si ottiene posti di lavoro migliori e migliori a
+
+61
+00:03:23,580 --> 00:03:27,030
+salari sempre più alti, almeno questo è quello che tutti speriamo.
+
+62
+00:03:27,030 --> 00:03:30,079
+Inizierai ad accumulare capitale che dovrai investire.
+
+63
+00:03:31,440 --> 00:03:35,840
+Quindi, se paghi le tasse universitarie al mercato azionario ora usando i soldi del gioco.
+
+64
+00:03:35,840 --> 00:03:38,190
+E impara come funziona il trading azionario.
+
+65
+00:03:38,190 --> 00:03:41,090
+Vivrai una vita molto più prospera.
+
+66
+00:03:41,090 --> 00:03:43,260
+Ed è questo che significa gestire i tuoi soldi.
+
+67
+00:03:43,260 --> 00:03:46,429
+[ MUSIC]

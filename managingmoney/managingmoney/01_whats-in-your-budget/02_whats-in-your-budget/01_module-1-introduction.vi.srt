@@ -1,0 +1,123 @@
+1
+00:00:10,904 --> 00:00:12,542
+Chào giáo sư Navarro đây.
+
+2
+00:00:12,542 --> 00:00:14,900
+>> Và tôi là Alex LeBon.
+
+3
+00:00:14,900 --> 00:00:16,669
+Được rồi Alex, nhiệm vụ trong bài giảng đầu tiên này là gì?
+
+4
+00:00:17,750 --> 00:00:21,310
+>> Vâng, tôi muốn bắt đầu với một cái nhìn tổng quan ngắn gọn về cách mười
+
+5
+00:00:21,310 --> 00:00:25,500
+phần của khóa học của chúng ta sẽ hợp với nhau như một toàn thể.
+
+6
+00:00:25,500 --> 00:00:27,540
+Ok, cái gì lớn thế?
+
+7
+00:00:27,540 --> 00:00:30,940
+Vâng, đơn giản là đây không phải là một khóa học có sự tiến triển tuyến tính
+
+8
+00:00:30,940 --> 00:00:33,230
+như nhiều khóa học đại học.
+
+9
+00:00:33,230 --> 00:00:38,480
+Thay vào đó, mỗi chủ đề chúng tôi sẽ bao gồm nhiều hơn của một mạng lưới liên quan với nhau,
+
+10
+00:00:38,480 --> 00:00:41,710
+một mạng nhện tài chính cá nhân, nếu bạn muốn.
+
+11
+00:00:41,710 --> 00:00:42,600
+>> Mạng nhện?
+
+12
+00:00:42,600 --> 00:00:45,100
+Nói như một chuyên ngành vật lý thực sự.
+
+13
+00:00:45,100 --> 00:00:46,400
+Vâng, đó là việc của tôi.
+
+14
+00:00:46,400 --> 00:00:51,360
+>> Được rồi, sau cái nhìn tổng quan rộng rãi, những điểm chính khác sẽ là gì?
+
+15
+00:00:51,360 --> 00:00:54,100
+>> Vâng, sau khi bạn trả tiền cho nhu yếu phẩm của
+
+16
+00:00:54,100 --> 00:00:57,980
+bạn, ít nhất bạn hy vọng sẽ có một số tiền tùy ý còn lại trong mỗi tháng.
+
+17
+00:00:57,980 --> 00:01:01,080
+Và đó là nơi bạn cần một kế hoạch thông minh.
+
+18
+00:01:01,080 --> 00:01:01,860
+Ok, thế nghĩa là gì?
+
+19
+00:01:01,860 --> 00:01:03,050
+Kế hoạch thông minh là gì?
+
+20
+00:01:04,400 --> 00:01:07,990
+Thông thường, một kế hoạch thông minh có nghĩa là cân nhắc những niềm vui mà bạn có thể có
+
+21
+00:01:07,990 --> 00:01:11,670
+ngày hôm nay chống lại sự đầu tư mà bạn có thể làm để phát triển sự giàu
+
+22
+00:01:11,670 --> 00:01:13,000
+có của bạn cho những ngày mai sắp tới.
+
+23
+00:01:14,170 --> 00:01:15,640
+>> Nghe có vẻ không vui lắm.
+
+24
+00:01:16,660 --> 00:01:21,750
+Tôi chưa bao giờ hứa với bạn một khu vườn hoa hồng, chỉ là một con đường dẫn đến sự thịnh vượng lớn hơn.
+
+25
+00:01:21,750 --> 00:01:22,590
+>> Chúng tôi ổn. Có
+
+26
+00:01:22,590 --> 00:01:24,960
+điểm chính nào khác trước khi chúng ta bắt đầu không?
+
+27
+00:01:24,960 --> 00:01:26,120
+>> Vâng, đối với một số người,
+
+28
+00:01:26,120 --> 00:01:31,060
+nó sẽ dễ dàng hơn rất nhiều so với thực sự gắn bó với nó.
+
+29
+00:01:31,060 --> 00:01:33,945
+Vì vậy, hãy thực tế và được kỷ luật, châu chấu.
+
+30
+00:01:33,945 --> 00:01:37,297
+>> [Cười] Được rồi, thiền sư, chúng ta hãy bắt đầu.
+
+31
+00:01:37,297 --> 00:01:45,789
+[ NHẠC]

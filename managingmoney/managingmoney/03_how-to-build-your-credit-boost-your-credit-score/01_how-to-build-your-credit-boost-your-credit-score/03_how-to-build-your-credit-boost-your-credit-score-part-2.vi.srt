@@ -1,0 +1,439 @@
+1
+00:00:00,450 --> 00:00:05,270
+Trong phần này của bài học, chúng tôi sẽ tìm hiểu về cả báo cáo tín dụng và
+
+2
+00:00:05,270 --> 00:00:09,150
+điểm tín dụng, và tôi sẽ chỉ cho các bạn cụ thể cách điểm tín dụng
+
+3
+00:00:09,150 --> 00:00:12,060
+thực sự bắt nguồn từ các báo cáo tín dụng.
+
+4
+00:00:12,060 --> 00:00:14,450
+Vì vậy, hãy bắt đầu với báo cáo tín dụng. Bản
+
+5
+00:00:14,450 --> 00:00:18,480
+báo cáo tín dụng của bạn là bản ghi chi tiết về lịch sử tín dụng của bạn.
+
+6
+00:00:18,480 --> 00:00:23,800
+Và nó đặc biệt tập trung vào khả năng của bạn để trả bất kỳ khoản tiền bạn có thể vay.
+
+7
+00:00:23,800 --> 00:00:26,420
+Vậy những gì bạn có thể hỏi là trong bản báo cáo tín dụng của bạn?
+
+8
+00:00:27,760 --> 00:00:33,450
+Đầu tiên, nó bao gồm dữ liệu cá nhân như địa chỉ hiện tại và trước đó của bạn.
+
+9
+00:00:33,450 --> 00:00:36,820
+An sinh xã hội hoặc số nhận dạng quốc gia của bạn.
+
+10
+00:00:36,820 --> 00:00:38,090
+Và lịch sử việc làm của anh.
+
+11
+00:00:39,250 --> 00:00:44,500
+Thứ hai, báo cáo tín dụng của bạn bao gồm lịch sử tín dụng
+
+12
+00:00:44,500 --> 00:00:50,480
+của bạn và đặc biệt tìm cách xác định số lượng và loại tài khoản bạn đã quá hạn so với tình trạng tốt.
+
+13
+00:00:51,830 --> 00:00:56,500
+Thứ ba, báo cáo tín dụng mới nhất của quý vị sẽ ghi lại các yêu cầu tín dụng trước đây vào
+
+14
+00:00:56,500 --> 00:00:57,530
+báo cáo tín dụng của quý vị.
+
+15
+00:00:57,530 --> 00:01:00,140
+Vậy, tất cả chuyện đó là sao?
+
+16
+00:01:00,140 --> 00:01:04,370
+Nó được thực hiện như một phương tiện để đánh giá cả hoạt động vay mượn của bạn, và
+
+17
+00:01:04,370 --> 00:01:05,770
+khả năng thanh toán của bạn.
+
+18
+00:01:06,780 --> 00:01:11,310
+Số liệu thống kê lớn ở đây là, ít nhất theo một nguồn tin đáng tin cậy,
+
+19
+00:01:11,310 --> 00:01:15,070
+những người đã thêm sáu yêu cầu trở
+
+20
+00:01:15,070 --> 00:01:19,140
+lên vào báo cáo của họ trong năm qua, có thể có khả năng
+
+21
+00:01:19,140 --> 00:01:23,310
+nộp đơn xin phá sản gấp tám lần so với những người có báo cáo tín dụng cho thấy không có yêu cầu gì cả.
+
+22
+00:01:24,390 --> 00:01:27,970
+Cuối cùng, báo cáo cung cấp các chi tiết quan trọng
+
+23
+00:01:27,970 --> 00:01:31,890
+của bất kỳ tài khoản nào của bạn có thể đã được chuyển giao cho một cơ quan thu thập.
+
+24
+00:01:32,900 --> 00:01:37,490
+Và lưu ý rằng những chi tiết này bao gồm bất kỳ thông tin nào về
+
+25
+00:01:37,490 --> 00:01:39,900
+các vụ kiện hoặc khiếu nại về tài sản của bạn, hoặc
+
+26
+00:01:39,900 --> 00:01:44,100
+việc trang trí hoặc lấy tiền lương của bạn như là kết quả của một số loại kiện hoặc hành động khác.
+
+27
+00:01:45,370 --> 00:01:48,310
+Nói cách khác, nếu bạn bị trễ thẻ tín dụng hoặc
+
+28
+00:01:48,310 --> 00:01:51,960
+gặp rắc rối với luật pháp vì không trả nợ hoặc
+
+29
+00:01:51,960 --> 00:01:57,220
+những thứ như hỗ trợ nuôi con cho con bạn, báo cáo tín dụng của bạn sẽ tiết lộ nó.
+
+30
+00:01:57,220 --> 00:02:01,910
+Nhưng các khoản bồi thường như vậy không thực sự là chức năng quan trọng nhất của báo cáo tín dụng.
+
+31
+00:02:01,910 --> 00:02:03,210
+Vậy là cái gì?
+
+32
+00:02:04,710 --> 00:02:07,840
+Bước vào sân khấu bên trái, điểm tín dụng của bạn.
+
+33
+00:02:07,840 --> 00:02:12,350
+Điểm tín dụng của bạn là tay xuống một trong những phép đo số quan trọng nhất
+
+34
+00:02:12,350 --> 00:02:14,650
+của bạn như một thực thể tài chính.
+
+35
+00:02:14,650 --> 00:02:16,340
+Và nó là một con số dựa đầu tiên và
+
+36
+00:02:16,340 --> 00:02:20,989
+quan trọng nhất ra một phân tích thống kê rất chi tiết về dữ liệu báo cáo tín dụng của bạn.
+
+37
+00:02:22,150 --> 00:02:25,830
+Và tùy thuộc vào văn phòng tín dụng tính điểm tín dụng,
+
+38
+00:02:25,830 --> 00:02:27,700
+họ cũng có thể sử dụng các thông tin khác.
+
+39
+00:02:28,980 --> 00:02:30,610
+Bây giờ, đây là một vài điều tốt để biết.
+
+40
+00:02:31,750 --> 00:02:35,200
+Phạm vi tiêu chuẩn của điểm tín dụng là từ 300 đến 850.
+
+41
+00:02:35,200 --> 00:02:40,080
+Và điều này nên trực quan, điểm số của bạn càng cao, người cho
+
+42
+00:02:40,080 --> 00:02:44,810
+vay ít rủi ro sẽ thấy bạn là có khi nói đến mặc định nợ của bạn.
+
+43
+00:02:44,810 --> 00:02:48,410
+Vì vậy, một điểm tín dụng cao hơn sẽ có nghĩa là cả lãi suất thấp hơn cho
+
+44
+00:02:48,410 --> 00:02:51,200
+vay, và thường, các điều khoản vay tốt hơn.
+
+45
+00:02:52,320 --> 00:02:56,770
+Như một vấn đề thực tế, hầu hết các ngân hàng và người
+
+46
+00:02:56,770 --> 00:03:01,550
+cho vay coi bất cứ điều gì trên khoảng 750 là tuyệt vời, và điểm số từ 800 trở lên là hoàn hảo tín dụng.
+
+47
+00:03:03,040 --> 00:03:07,620
+Vì vậy, các chi tiết của điểm số này là gì và nó thực sự đo lường những gì?
+
+48
+00:03:07,620 --> 00:03:12,490
+Vâng điểm tín dụng nổi tiếng nhất và tiêu chuẩn ngành công nghiệp là điểm FICO.
+
+49
+00:03:13,580 --> 00:03:19,602
+Điểm FICO này thực sự được đặt tên theo nhà phát minh của nó, Tập đoàn Fair-Isaac.
+
+50
+00:03:19,602 --> 00:03:23,980
+Trên thực tế, Fair-Isaac là vị vua của điểm tín dụng trên thị trường.
+
+51
+00:03:25,610 --> 00:03:30,370
+Đối với chức năng cụ thể của điểm FICO, mục tiêu thống kê của nó
+
+52
+00:03:30,370 --> 00:03:35,230
+là dự đoán khả năng của một người vay đi 90 ngày qua hạn hoặc
+
+53
+00:03:35,230 --> 00:03:39,018
+tệ hơn, trong 24 tháng sau khi điểm số đã được tính toán.
+
+54
+00:03:39,018 --> 00:03:44,060
+Bây giờ, bên cạnh Fair-Isaac, có ba
+
+55
+00:03:44,060 --> 00:03:49,830
+văn phòng tín dụng chính khác sản xuất điểm số giống Fico bằng cách sử dụng các mô hình độc quyền của riêng họ.
+
+56
+00:03:49,830 --> 00:03:54,670
+Các văn phòng này bao gồm Equifax, Experian, và Transunion.
+
+57
+00:03:54,670 --> 00:03:59,340
+Về lý do tại sao điểm tín dụng của bạn có thể khác nhau trên các văn phòng này, hầu hết trong số đó là
+
+58
+00:03:59,340 --> 00:04:04,160
+do các chương trình có trọng số hơi khác nhau mỗi sử dụng trong các mô hình độc quyền của họ.
+
+59
+00:04:05,530 --> 00:04:07,040
+Bây giờ, đây là một điểm quan trọng.
+
+60
+00:04:07,040 --> 00:04:11,940
+Tại Mỹ, mỗi công dân được hưởng một bản báo cáo tín dụng miễn phí mỗi năm
+
+61
+00:04:11,940 --> 00:04:14,130
+từ mỗi trong ba văn phòng tín dụng lớn.
+
+62
+00:04:15,140 --> 00:04:16,440
+Và đây là một mẹo chính.
+
+63
+00:04:16,440 --> 00:04:22,190
+Để có được báo cáo tín dụng miễn phí của bạn, bạn có thể truy cập trang web AnnualCreditReport.com.
+
+64
+00:04:22,190 --> 00:04:27,760
+Đây là một trang web được điều hành chung bởi Equifax, Experian và TransUnion.
+
+65
+00:04:27,760 --> 00:04:31,260
+Và lưu ý ở đây rằng nếu bạn cũng muốn nhận được điểm tín dụng của bạn,
+
+66
+00:04:31,260 --> 00:04:34,940
+cùng với bản báo cáo tín dụng của bạn, sẽ có một khoản phí nhỏ,
+
+67
+00:04:34,940 --> 00:04:38,670
+đó là một trong những lý do rõ ràng các văn phòng tín dụng tài trợ cho trang web đó.
+
+68
+00:04:40,100 --> 00:04:43,990
+Đối với cách báo cáo tín dụng được đặt ra, họ sẽ thay đổi đáng kể,
+
+69
+00:04:43,990 --> 00:04:48,190
+bởi vì các văn phòng tín dụng khác nhau thực sự có các thực tiễn khác nhau.
+
+70
+00:04:48,190 --> 00:04:51,730
+Điều đó nói rằng, có những phổ biến đáng kể.
+
+71
+00:04:51,730 --> 00:04:55,150
+Ví dụ: hầu hết các báo cáo sẽ bao gồm một bản tóm tắt ngắn
+
+72
+00:04:55,150 --> 00:04:58,690
+về bất kỳ khu vực vấn đề nào mà họ nhận thấy trong trường hợp của bạn.
+
+73
+00:04:58,690 --> 00:05:01,340
+Một dòng thẻ mẫu ở đây có thể đọc,
+
+74
+00:05:01,340 --> 00:05:05,640
+tỷ lệ số dư so với giới hạn tín dụng quá cao.
+
+75
+00:05:05,640 --> 00:05:08,390
+Ngoài các lá cờ thận trọng như vậy,
+
+76
+00:05:08,390 --> 00:05:13,510
+báo cáo tín dụng của bạn cũng sẽ chứa dữ liệu thanh toán cụ thể từ các dòng tín dụng mà bạn có.
+
+77
+00:05:13,510 --> 00:05:17,620
+Chúng tôi cũng sẽ đặt cờ đỏ vào những thứ như bất kỳ tháng nào mà bạn trả trễ hoặc
+
+78
+00:05:17,620 --> 00:05:19,000
+không đủ.
+
+79
+00:05:19,000 --> 00:05:21,250
+Bây giờ, đây là một cái đầu rất quan trọng.
+
+80
+00:05:21,250 --> 00:05:23,810
+Các công ty báo cáo tín dụng là xa hoàn hảo,
+
+81
+00:05:23,810 --> 00:05:26,570
+và đôi khi họ sẽ làm cho lỗi.
+
+82
+00:05:26,570 --> 00:05:31,090
+Thật không may, nó sẽ là trách nhiệm của bạn để sửa chữa những lỗi đó.
+
+83
+00:05:31,090 --> 00:05:34,230
+Thông thường, điều này có nghĩa là nộp một số loại hình biểu tình,
+
+84
+00:05:34,230 --> 00:05:39,270
+yêu cầu điều tra và yêu cầu sửa lỗi.
+
+85
+00:05:39,270 --> 00:05:45,110
+Tại đây, các văn phòng có 45 ngày để xem xét vấn đề và giải quyết sai lầm.
+
+86
+00:05:45,110 --> 00:05:47,500
+Bây giờ vẫn còn một đề cập quan trọng nữa.
+
+87
+00:05:47,500 --> 00:05:49,990
+Bạn có quyền nhận bản báo cáo tín dụng miễn phí
+
+88
+00:05:49,990 --> 00:05:52,790
+trong vòng 60 ngày sau khi có quyết định tín dụng kém.
+
+89
+00:05:53,840 --> 00:05:57,160
+Một quyết định như vậy có thể bao gồm việc bị từ chối tín dụng.
+
+90
+00:05:57,160 --> 00:06:00,510
+Ngoài ra, người cho vay có thể đang cố gắng để yên bạn
+
+91
+00:06:00,510 --> 00:06:05,390
+với lãi suất trên thị trường dựa trên rủi ro tín dụng cao hơn của bạn.
+
+92
+00:06:05,390 --> 00:06:08,770
+Trong những trường hợp như vậy, người cho vay không thể chỉ thổi bay bạn.
+
+93
+00:06:08,770 --> 00:06:13,080
+Thay vào đó, những người cho vay, hoặc các chủ nợ được yêu cầu về mặt pháp lý để cho bạn biết
+
+94
+00:06:13,080 --> 00:06:16,740
+chính xác lý do tại sao họ cung cấp cho bạn các điều khoản không đạt tiêu chuẩn.
+
+95
+00:06:16,740 --> 00:06:17,730
+Trong quá trình này,
+
+96
+00:06:17,730 --> 00:06:22,640
+họ phải xác định các mục cụ thể ảnh hưởng tiêu cực đến ứng dụng của bạn.
+
+97
+00:06:22,640 --> 00:06:25,820
+Vì vậy, theo cách đó khi bạn xem qua bản báo cáo tín dụng của bạn để kiểm tra lại nó,
+
+98
+00:06:25,820 --> 00:06:28,139
+bạn sẽ biết chính xác những gì cần tìm.
+
+99
+00:06:29,260 --> 00:06:31,850
+Bạn có thể thấy báo cáo tín dụng của bạn và
+
+100
+00:06:31,850 --> 00:06:35,810
+điểm tín dụng của bạn là những phần quan trọng trong cuộc sống tài chính của bạn như thế nào.
+
+101
+00:06:35,810 --> 00:06:39,710
+Những gì chúng ta cần làm tiếp theo là đào sâu hơn vào
+
+102
+00:06:39,710 --> 00:06:41,290
+số điểm tín dụng chính nó.
+
+103
+00:06:41,290 --> 00:06:44,820
+Mục tiêu ở đây sẽ là để cho bạn thấy những cách mà giai đoạn này trong cuộc sống của bạn
+
+104
+00:06:44,820 --> 00:06:47,980
+để xây dựng chiến lược và tăng điểm tín dụng của bạn.
+
+105
+00:06:47,980 --> 00:06:52,020
+Vì vậy, xuống đường khi bạn muốn mua xe hoặc nhà
+
+106
+00:06:52,020 --> 00:06:56,190
+ở đó, hoặc mượn cho một doanh nghiệp mới, khoản vay của bạn sẽ được chấp thuận với mức thấp nhất có thể và
+
+107
+00:06:56,190 --> 00:06:58,370
+với các điều khoản tốt nhất có thể.
+
+108
+00:06:58,370 --> 00:06:59,739
+Không phải là một mục tiêu xấu để phấn đấu.
+
+109
+00:06:59,739 --> 00:07:03,593
+Vì vậy, chúng ta hãy thực hiện nó trong phần ba của bài học này khi bạn đã sẵn sàng.
+
+110
+00:07:03,593 --> 00:07:11,449
+[ NHẠC]

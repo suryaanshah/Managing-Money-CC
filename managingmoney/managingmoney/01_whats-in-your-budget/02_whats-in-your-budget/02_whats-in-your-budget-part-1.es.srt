@@ -1,0 +1,315 @@
+1
+00:00:01,000 --> 00:00:04,170
+Aquí, en la primera lección, quiero empezar con el panorama general
+
+2
+00:00:04,170 --> 00:00:07,310
+de cómo las diez lecciones de este curso van a encajar.
+
+3
+00:00:07,310 --> 00:00:13,200
+Al mismo tiempo, quiero darles una idea sólida del tema central detrás del curso.
+
+4
+00:00:13,200 --> 00:00:14,430
+En la primera pregunta,
+
+5
+00:00:14,430 --> 00:00:18,830
+en la mayoría de las clases, el contenido se construye en una progresión lineal.
+
+6
+00:00:18,830 --> 00:00:22,930
+Por ejemplo, en matemáticas primero aprende una suma y una resta.
+
+7
+00:00:22,930 --> 00:00:27,200
+Esto, a su vez, les permite aprender acerca de la multiplicación, y la división, y así
+
+8
+00:00:27,200 --> 00:00:32,390
+sucesivamente hasta llegar a los temidos, o para algunos como yo amados cálculos.
+
+9
+00:00:32,390 --> 00:00:37,870
+Para este curso, sin embargo, el contenido no es muy adecuado para una estructura tan lineal.
+
+10
+00:00:37,870 --> 00:00:41,590
+Por lo tanto, aunque hemos hecho todo lo posible para avanzar las cosas en un orden lógico,
+
+11
+00:00:41,590 --> 00:00:44,810
+verás que cada tema individual que tratamos
+
+12
+00:00:44,810 --> 00:00:48,250
+tiene múltiples conexiones con muchos de los otros temas.
+
+13
+00:00:48,250 --> 00:00:52,570
+Por ejemplo, nuestra primera lección aquí sobre presupuestación tiene múltiples conexiones con nuestras
+
+14
+00:00:52,570 --> 00:00:58,350
+lecciones sobre tarjetas de crédito, préstamos, impuestos, inversiones, etc.
+
+15
+00:00:58,350 --> 00:01:02,640
+Así que es como una telaraña de finanzas personales en lugar de una escalera.
+
+16
+00:01:03,740 --> 00:01:05,980
+Y aquí está el punto clave, y
+
+17
+00:01:05,980 --> 00:01:09,440
+la razón principal por la que me estoy molestando en compartir esta arquitectura del curso con ustedes. A
+
+18
+00:01:10,530 --> 00:01:14,180
+medida que avanza secuencialmente a través de las lecciones, cuando surge algo que
+
+19
+00:01:14,180 --> 00:01:18,660
+hace referencia a una lección anterior, los animo a volver a esa conferencia tópica y
+
+20
+00:01:18,660 --> 00:01:20,940
+refrescar su memoria si es necesario.
+
+21
+00:01:20,940 --> 00:01:22,860
+Ahora, aquí hay otro punto clave.
+
+22
+00:01:22,860 --> 00:01:25,790
+A pesar de la naturaleza algo distribuida de los temas, en
+
+23
+00:01:25,790 --> 00:01:29,590
+realidad sólo hay un tema principal en este curso. Las
+
+24
+00:01:29,590 --> 00:01:34,920
+finanzas personales no son como esa prueba de biografía 101 que estás bastante seguro de que puedes abrir
+
+25
+00:01:34,920 --> 00:01:36,830
+y aún así tal vez obtener una calificación decente.
+
+26
+00:01:37,830 --> 00:01:41,070
+Tener un plan inteligente para su dinero es muy importante, y
+
+27
+00:01:41,070 --> 00:01:45,050
+aprender a desarrollar un plan tan inteligente en esta etapa de su vida
+
+28
+00:01:45,050 --> 00:01:48,950
+sienta las bases para el resto de su vida personal y profesional.
+
+29
+00:01:48,950 --> 00:01:52,300
+Permítanme ilustrar este punto con mi propia fábula moderna, que
+
+30
+00:01:52,300 --> 00:01:56,490
+recuerda a la hormiga y el saltamontes que involucran a 2 30
+
+31
+00:01:56,490 --> 00:02:00,680
+ejecutivos de algo en una empresa de tamaño mediano que desarrolla edificios de oficinas.
+
+32
+00:02:00,680 --> 00:02:03,830
+Ninguno de estos ejecutivos, los llamaremos Juan y
+
+33
+00:02:03,830 --> 00:02:09,670
+Juanita, están en el 1% de los ricos, pero ambos ganan dinero bastante decente.
+
+34
+00:02:09,670 --> 00:02:12,930
+Así que cada mes, tienen un excedente de fondos discrecionales para
+
+35
+00:02:12,930 --> 00:02:17,620
+asignar después de haber cubierto sus gastos fijos como vivienda y seguro.
+
+36
+00:02:17,620 --> 00:02:20,768
+Por un lado, Juanita tiene un plan financiero muy inteligente.
+
+37
+00:02:20,768 --> 00:02:26,510
+Ahorra 5% de su sueldo cada mes, invierte sabiamente en el mercado de valores,
+
+38
+00:02:26,510 --> 00:02:30,340
+e incluso posee un pequeño negocio de internet que dirige en el lado.
+
+39
+00:02:30,340 --> 00:02:33,250
+Como resultado, tiene múltiples corrientes de ingresos,
+
+40
+00:02:33,250 --> 00:02:37,170
+así como una cantidad decente de capital en su negocio y otras inversiones.
+
+41
+00:02:38,180 --> 00:02:40,800
+Aunque no parece ser súper rica,
+
+42
+00:02:40,800 --> 00:02:45,460
+conduce un Toyota Camry de diez años con un préstamo de coche pagado hace mucho tiempo.
+
+43
+00:02:45,460 --> 00:02:49,770
+Ella puede mantener a su familia y seguir viviendo una vida razonablemente cómoda.
+
+44
+00:02:49,770 --> 00:02:53,995
+Juan, por otro lado, vive tan bien como puede de los salarios que recibe del trabajo,
+
+45
+00:02:53,995 --> 00:02:56,430
+su única fuente de ingresos.
+
+46
+00:02:56,430 --> 00:02:59,110
+Parte de su drenaje de flujo de efectivo es un gran pago de arrendamiento
+
+47
+00:02:59,110 --> 00:03:01,870
+cada mes en un Porsche rojo realmente fresco.
+
+48
+00:03:01,870 --> 00:03:04,800
+Además al tipo le encanta la fiesta, ¿qué puedo decir?
+
+49
+00:03:04,800 --> 00:03:07,900
+Entonces, ¿qué crees que pasa cuando un amigo mutuo de Juan y
+
+50
+00:03:07,900 --> 00:03:12,150
+Juanita les ofrece una gran oportunidad para invertir en un nuevo negocio
+
+51
+00:03:12,150 --> 00:03:15,030
+con una alta probabilidad de éxito?
+
+52
+00:03:15,030 --> 00:03:18,510
+Si bien Juanita puede aprovechar al máximo esta oportunidad,
+
+53
+00:03:18,510 --> 00:03:19,750
+Juan es simplemente aprovechado.
+
+54
+00:03:20,790 --> 00:03:24,790
+Avanzar cinco años, y la economía ha entrado en recesión.
+
+55
+00:03:24,790 --> 00:03:29,300
+La industria de la construcción está en las cuerdas y tanto Juan como Juanita son despedidos.
+
+56
+00:03:29,300 --> 00:03:32,370
+Mientras Juan termina en la línea de desempleo extendida,
+
+57
+00:03:32,370 --> 00:03:36,740
+viajando en autobús después de faltar varios pagos de arrendamiento en su último Porsche,
+
+58
+00:03:36,740 --> 00:03:39,560
+Juanita simplemente dedica más tiempo a su negocio secundario y
+
+59
+00:03:39,560 --> 00:03:42,480
+saca un poco de dinero de sus otras inversiones cuando lo necesita.
+
+60
+00:03:43,620 --> 00:03:48,440
+Avance 20 años más, y Juanita se va a una jubilación activa en Florida.
+
+61
+00:03:48,440 --> 00:03:52,300
+Juan, por otro lado, ha llegado a la incómoda conclusión de
+
+62
+00:03:52,300 --> 00:03:55,280
+que probablemente tendrá que trabajar bien en su supuesto retiro.
+
+63
+00:03:56,730 --> 00:03:58,309
+Entonces, ¿cuáles son los puntos clave?
+
+64
+00:03:59,340 --> 00:04:03,360
+Bueno, en primer lugar, tener un plan inteligente y equilibrado nos permite vivir
+
+65
+00:04:03,360 --> 00:04:08,140
+una vida más cómoda al mismo tiempo que nos prepara para emergencias,
+
+66
+00:04:08,140 --> 00:04:12,490
+malas tendencias económicas o oportunidades de inversión que puedan existir en el futuro.
+
+67
+00:04:13,680 --> 00:04:18,550
+En segundo lugar, planificar una emergencia inesperada, como perder su trabajo,
+
+68
+00:04:18,550 --> 00:04:22,720
+es una parte tan crítica de su plan financiero como su cartera de inversiones.
+
+69
+00:04:23,850 --> 00:04:24,860
+Y, por último,
+
+70
+00:04:24,860 --> 00:04:30,150
+una parte clave de cualquier plan financiero inteligente es diversificar sus fuentes de ingresos.
+
+71
+00:04:30,150 --> 00:04:33,010
+Mientras Juan estaba atrapado en una industria altamente cíclica y
+
+72
+00:04:33,010 --> 00:04:35,380
+pagó un alto precio cuando golpeó una recesión,
+
+73
+00:04:35,380 --> 00:04:39,650
+Juanita se diversificó apropiadamente tanto en cuanto al empleo como a través de sus inversiones.
+
+74
+00:04:41,290 --> 00:04:44,680
+No tienes que preocuparte por los detalles de la diversificación ahora mismo.
+
+75
+00:04:44,680 --> 00:04:47,610
+Hablaremos de eso en una conferencia posterior.
+
+76
+00:04:47,610 --> 00:04:51,274
+Por ahora, sólo quería contarles esta pequeña historia para ilustrar varias de
+
+77
+00:04:51,274 --> 00:04:52,820
+las ideas clave del curso, y
+
+78
+00:04:52,820 --> 00:04:56,275
+darles un pequeño ejemplo de cómo podría ser un plan financiero inteligente.
+
+79
+00:04:56,275 --> 00:05:05,299
+[ MÚSICA]

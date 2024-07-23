@@ -1,0 +1,287 @@
+1
+00:00:00,920 --> 00:00:04,855
+Si estás en la universidad, tal vez has tenido que presentar una declaración de impuestos sobre la renta para
+
+2
+00:00:04,855 --> 00:00:06,596
+un trabajo de verano o pasantía, pero
+
+3
+00:00:06,596 --> 00:00:10,878
+las probabilidades son que realmente no has necesitado preocuparte mucho por los impuestos sobre la renta.
+
+4
+00:00:12,236 --> 00:00:15,397
+Pero tan pronto como consigas ese gran trabajo al graduarte y
+
+5
+00:00:15,397 --> 00:00:18,007
+comienzas a ver ese gran sueldo, tú y
+
+6
+00:00:18,007 --> 00:00:21,459
+el fiscal van a desarrollar una relación muy estrecha.
+
+7
+00:00:22,740 --> 00:00:27,300
+Así que nunca es demasiado pronto para aprender cómo presentar su declaración de impuestos sobre la renta y
+
+8
+00:00:27,300 --> 00:00:31,200
+minimizar su factura de impuestos independientemente del país en el que vivas.
+
+9
+00:00:31,200 --> 00:00:32,710
+Así que empecemos con algunos conceptos básicos.
+
+10
+00:00:33,790 --> 00:00:38,340
+En la mayoría de los sistemas, su impuesto sobre la renta está determinado por cuatro cosas.
+
+11
+00:00:38,340 --> 00:00:40,290
+La cantidad de ingresos que ha ganado,
+
+12
+00:00:40,290 --> 00:00:44,260
+los gastos que pueda deducir legalmente de esos ingresos,
+
+13
+00:00:44,260 --> 00:00:48,690
+las exenciones fiscales que se le permitan y la tasa impositiva que se le cobrará.
+
+14
+00:00:50,140 --> 00:00:54,900
+En términos de las matemáticas básicas, se reduce a sus ingresos menos las deducciones y
+
+15
+00:00:54,900 --> 00:00:56,200
+exenciones.
+
+16
+00:00:56,200 --> 00:00:59,480
+Esa es tu llamada renta imponible.
+
+17
+00:00:59,480 --> 00:01:03,810
+Este ingreso imponible se multiplica por su tasa impositiva marginal
+
+18
+00:01:03,810 --> 00:01:06,440
+para determinar sus impuestos adeudados.
+
+19
+00:01:06,440 --> 00:01:08,740
+Ahora vamos a desglosar un poco esto.
+
+20
+00:01:08,740 --> 00:01:12,920
+Su tipo impositivo marginal será el mismo si su país utiliza un
+
+21
+00:01:12,920 --> 00:01:14,790
+impuesto fijo o proporcional.
+
+22
+00:01:14,790 --> 00:01:18,000
+Sin embargo, en países con un sistema tributario progresivo,
+
+23
+00:01:18,000 --> 00:01:22,780
+su tasa impositiva marginal aumentará con el monto de su ingreso imponible.
+
+24
+00:01:22,780 --> 00:01:25,000
+En cuanto a las exenciones fiscales,
+
+25
+00:01:25,000 --> 00:01:28,680
+si tienes hijos puedes reclamarlos como dependientes.
+
+26
+00:01:28,680 --> 00:01:33,500
+Al igual que tus padres te han estado reclamando como una exención la mayor parte de tu vida.
+
+27
+00:01:33,500 --> 00:01:37,290
+Y también hay otras exenciones dependiendo del sistema.
+
+28
+00:01:37,290 --> 00:01:43,680
+Ahora vamos a los dos elementos más grandes de sus ingresos y sus otras deducciones.
+
+29
+00:01:43,680 --> 00:01:48,860
+La cantidad de ingresos que informa es su ingreso bruto o total de ingresos.
+
+30
+00:01:48,860 --> 00:01:52,740
+Es una colección de ingresos de todas las fuentes posibles.
+
+31
+00:01:52,740 --> 00:01:57,640
+Dos de las fuentes más comunes aquí son los salarios que ha ganado y los dividendos e
+
+32
+00:01:57,640 --> 00:02:00,939
+intereses que puede haber recibido de la tenencia de acciones y bonos.
+
+33
+00:02:02,080 --> 00:02:06,900
+Además, hay ganancias de capital asociadas con la venta de acciones o propiedades con
+
+34
+00:02:06,900 --> 00:02:12,450
+un beneficio, y tal vez incluso los ingresos de alquiler que recibió en una propiedad que posee.
+
+35
+00:02:12,450 --> 00:02:14,400
+Ahora, de ese ingreso bruto,
+
+36
+00:02:14,400 --> 00:02:19,920
+se le permite deducir los gastos legítimos especificados por la autoridad tributaria.
+
+37
+00:02:19,920 --> 00:02:22,780
+Y aquí es donde realmente quieres convertirte en un experto.
+
+38
+00:02:22,780 --> 00:02:27,130
+Por ejemplo, una de las mayores deducciones en el sistema fiscal estadounidense
+
+39
+00:02:27,130 --> 00:02:30,550
+es la deducción por cualquier interés pagado en su hipoteca.
+
+40
+00:02:30,550 --> 00:02:34,330
+De hecho, este es un gran incentivo para que seas dueño de tu propia casa.
+
+41
+00:02:34,330 --> 00:02:38,020
+Porque el gobierno te está ayudando efectivamente a pagarlo dándote
+
+42
+00:02:38,020 --> 00:02:43,040
+una desgravación de impuestos, y no es la única deducción asociada con la propiedad de casa.
+
+43
+00:02:43,040 --> 00:02:47,290
+Otras deducciones asociadas con la propiedad de vivienda incluyen pérdida de causalidad,
+
+44
+00:02:47,290 --> 00:02:49,740
+si su casa está dañada o destruida.
+
+45
+00:02:49,740 --> 00:02:51,030
+Créditos energéticos.
+
+46
+00:02:51,030 --> 00:02:52,610
+Impuestos inmobiliarios.
+
+47
+00:02:52,610 --> 00:02:55,500
+E incluso créditos para compradores de casa por primera vez. En
+
+48
+00:02:55,500 --> 00:03:01,630
+términos más generales, hay deducciones por caridad, gastos de mudanza, etc.
+
+49
+00:03:01,630 --> 00:03:04,360
+Y si trabajas para ti mismo, podrás deducir
+
+50
+00:03:04,360 --> 00:03:09,050
+toda una gama de gastos asociados con la gestión de tu negocio.
+
+51
+00:03:09,050 --> 00:03:12,270
+El punto más amplio aquí es este, dondequiera que
+
+52
+00:03:12,270 --> 00:03:16,580
+vivas, necesitas conocer tu sistema fiscal y sus deducciones.
+
+53
+00:03:16,580 --> 00:03:21,980
+Y aquí hay un consejo clave, mientras que su formulario de impuesto sobre la renta es probable que sea bastante simple y
+
+54
+00:03:21,980 --> 00:03:25,310
+probablemente no requiera ningún software sofisticado,
+
+55
+00:03:25,310 --> 00:03:29,470
+le recomiendo que considere comprar su propio software de preparación de impuestos.
+
+56
+00:03:29,470 --> 00:03:34,370
+En esta nota, en los Estados Unidos, el Servicio de Impuestos Internos tiene un programa
+
+57
+00:03:34,370 --> 00:03:41,740
+llamado free file en irs.gov/freefile donde ofrecen software y
+
+58
+00:03:41,740 --> 00:03:47,770
+herramientas para ayudarle a presentar sus impuestos si sus ingresos son inferiores a $58,000.
+
+59
+00:03:47,770 --> 00:03:51,010
+Para la mayoría de nosotros en el corto plazo que será el boleto.
+
+60
+00:03:51,010 --> 00:03:56,080
+Dicho esto, es probable que un software de preparación de impuestos comerciales sea más informativo.
+
+61
+00:03:56,080 --> 00:03:59,680
+Dicho software no sólo le guiará a través del proceso, sino
+
+62
+00:03:59,680 --> 00:04:03,910
+que también le proporcionará la lista completa de posibles deducciones.
+
+63
+00:04:05,020 --> 00:04:09,440
+Si bien es posible que no sea elegible para estas deducciones en este punto de su vida,
+
+64
+00:04:09,440 --> 00:04:13,370
+al menos aprenderá acerca de ellas y, por lo tanto, aprenderá cómo podría incorporar
+
+65
+00:04:13,370 --> 00:04:17,150
+tales deducciones en sus futuras decisiones y planes financieros.
+
+66
+00:04:18,510 --> 00:04:23,030
+Algunas herramientas importantes aquí incluyen inversiones, cuentas de jubilación y
+
+67
+00:04:23,030 --> 00:04:26,860
+cuentas para guardar ahorros para la educación de sus hijos.
+
+68
+00:04:26,860 --> 00:04:30,350
+De hecho, mis padres están pagando la universidad con una cuenta así y
+
+69
+00:04:30,350 --> 00:04:34,190
+ahorran miles de dólares en impuestos planeando con anticipación.
+
+70
+00:04:34,190 --> 00:04:35,010
+Gracias, mamá y papá.
+
+71
+00:04:36,210 --> 00:04:41,326
+En cualquier caso, pasemos a los temas finales y consejos clave en la tercera parte de esta lección.
+
+72
+00:04:41,326 --> 00:04:49,549
+[ MÚSICA]

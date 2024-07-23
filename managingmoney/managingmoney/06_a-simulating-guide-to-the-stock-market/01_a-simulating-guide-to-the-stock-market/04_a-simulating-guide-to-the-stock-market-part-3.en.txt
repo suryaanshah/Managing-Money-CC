@@ -1,0 +1,51 @@
+In this section I wanna go over
+some of the basics of stock trading you may find helpful. But before I do that. I want to emphasize the importance
+of learning how to trade stocks in a simulated game environment. That's what a lot of students do at the
+UCI business school, and you should too. The idea behind a stock market simulator
+is that you're given a fixed sum of money, like $1 million. And you are allowed to trade that
+money over a fixed period of time. The cool part about
+stock market simulators. Is that they rely on actual real-time
+data from the stock markets themselves. So they only actual difference
+between trading on a simulator. And trading on your own stock market
+account, is that you are using play money. As for which stock simulator to use,
+there are bunch of them out there. But it is hard to go wrong
+with Wall Street Survivor. So our suggestion in this course,
+is that you go ahead and set up an account at this or
+a similar simulator. Yes it's free. As for stock trading itself,
+here's just a few key concepts. Let's start with market
+versus limit orders. With a market order,
+the stock you want to buy. Is purchased at whatever price is
+clearing in the market at the time you make your trade. The advantage of a market order is that
+you are assured that it will be filled. But you may pay too high a price if you
+happen to buy on a big momentum swing during the day. In contrast, with a limit order
+you can set your price so as to not exceed a certain amount. For example, suppose you wanna
+buy another share of UCI. And you think it's a good
+deal at any price below $105. However, if you have to
+pay a price above $105. You don't think that the reward you are
+likely to earn, will be worth the risk. So with a limit order, all you need to do is set your
+limit priced at $105 in this case. Of course, the down side of a limit order
+is that the order may not be filled if the price remains above $105. Now, a second key concept
+is that of stop losses. A key point here is that
+when you buy a stock, you need to carefully manage your risk. What do I mean by that? Well of course you're buying that stock
+on the speculation that it will rise. But despite all your careful research,
+the stock might actually fall. And if it falls a lot, you can lose a lot
+of money, and sometimes very quickly. The idea of a stop loss is
+to put in a sell order. So that if your stock falls
+below a certain amount. Then the stock is automatically sold. A good rule here is to never
+lose more than 10% in a stock. So for example,
+if you buy a share of UCI at $100, you might wanna put in
+a stop loss order for $90. And here's a cool related concept,
+that of the trailing stop loss. The idea here is to never
+turn a winner into a loser. So for example if you buy UCI at $100 and
+it goes to $110. The wise thing to do here might be to
+raise your stop loss order to $100 rather than the original 90. So if UCI falls back down,
+you at least didn't lose any money and therefore didn't turn
+a winner into a loser. These are just some of the many
+tricks of the stock market trade. That you'll need to learn to make money
+on your stock market investments. While you may not have a lot of money
+to invest just now in the stock market. Over time as you get better and
+better jobs at higher and higher pay,
+at least that's what we all hope for. You'll begin to accumulate capital
+that you'll need to invest. So if you pay your tuition to
+the stock market now using play money. And learn how stock trading works. You'll live a far more prosperous life. And that's what managing
+your money is all about. [MUSIC]

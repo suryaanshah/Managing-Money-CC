@@ -1,0 +1,215 @@
+1
+00:00:07,766 --> 00:00:09,228
+Salve, sono il prof Navarro.
+
+2
+00:00:09,228 --> 00:00:10,424
+>> E io sono Alex LeBon.
+
+3
+00:00:10,424 --> 00:00:11,049
+>> Va bene.
+
+4
+00:00:11,049 --> 00:00:11,582
+Allora, cosa c'e' per la lezione di oggi?
+
+5
+00:00:11,582 --> 00:00:15,803
+>> E 'tempo fiscale, tutti i tipi di tasse.
+
+6
+00:00:15,803 --> 00:00:17,373
+>> Va bene. Quanti ne puoi nominare dalla parte superiore della
+
+7
+00:00:17,373 --> 00:00:18,860
+tua testa.
+
+8
+00:00:18,860 --> 00:00:22,510
+>> Vediamo. Abbiamo reddito, proprietà, gas,
+
+9
+00:00:22,510 --> 00:00:26,820
+stato, valore aggiunto, libro paga, disoccupazione.
+
+10
+00:00:26,820 --> 00:00:29,540
+>> Hm? Devi davvero pagare una tassa quando
+
+11
+00:00:29,540 --> 00:00:30,150
+sei disoccupato?
+
+12
+00:00:31,330 --> 00:00:32,410
+>> Non del tutto.
+
+13
+00:00:32,410 --> 00:00:35,890
+E' una tassa che le persone con un lavoro devono pagare, quindi ci sono soldi in giro per
+
+14
+00:00:35,890 --> 00:00:38,520
+il governo per aiutare le persone senza lavoro.
+
+15
+00:00:38,520 --> 00:00:40,950
+Incluso te, se hai sfortuna.
+
+16
+00:00:40,950 --> 00:00:43,370
+>> A me sembra socialismo.
+
+17
+00:00:43,370 --> 00:00:45,910
+>> O forse solo una buona politica economica.
+
+18
+00:00:45,910 --> 00:00:47,610
+>> Questa è la cosa divertente delle tasse.
+
+19
+00:00:47,610 --> 00:00:51,740
+Le persone nell'arena politica discutono su di loro tutto il tempo.
+
+20
+00:00:51,740 --> 00:00:53,440
+>> Beh, forse con una buona ragione.
+
+21
+00:00:53,440 --> 00:00:54,030
+Dopotutto,
+
+22
+00:00:54,030 --> 00:00:59,400
+in alcuni paesi oltre la metà del vostro reddito va a pagare le tasse ogni anno.
+
+23
+00:00:59,400 --> 00:01:03,770
+Quindi oggi affronteremo un dibattito sulla tassazione?
+
+24
+00:01:03,770 --> 00:01:06,890
+>> No, sto solo andando a spiegare come funzionano le tasse,
+
+25
+00:01:06,890 --> 00:01:10,860
+parlare di alcuni degli argomenti che giustificano la tassazione, poi mostrare ai nostri
+
+26
+00:01:10,860 --> 00:01:14,890
+studenti alcuni suggerimenti interessanti su come gestire la loro bolletta fiscale ogni anno.
+
+27
+00:01:14,890 --> 00:01:16,170
+>> Va bene, sembra un piano,
+
+28
+00:01:16,170 --> 00:01:20,820
+ma prima di iniziare, giochiamo un piccolo gioco di chi ha detto cosa.
+
+29
+00:01:20,820 --> 00:01:22,170
+>> Va bene, vai per esso.
+
+30
+00:01:22,170 --> 00:01:23,000
+>> Va bene, primo.
+
+31
+00:01:23,000 --> 00:01:25,480
+Nessuna tassazione senza rappresentanza.
+
+32
+00:01:26,820 --> 00:01:31,380
+>> Questo è lo slogan anti King George che ha portato avanti la rivoluzione americana.
+
+33
+00:01:31,380 --> 00:01:32,080
+>> Hm, bello.
+
+34
+00:01:32,080 --> 00:01:32,790
+Che ne dici di questo?
+
+35
+00:01:32,790 --> 00:01:38,150
+Se ti alzi presto, lavori fino a tardi e paghi le tasse, sarai ricco.
+
+36
+00:01:38,150 --> 00:01:39,025
+Se colpisci il petrolio.
+
+37
+00:01:39,025 --> 00:01:41,850
+Sembra un magnate del petrolio J.
+
+38
+00:01:41,850 --> 00:01:43,030
+Paul Getty.
+
+39
+00:01:43,030 --> 00:01:44,550
+>> Sei su un rotolo. Che ne dici di questo?
+
+40
+00:01:44,550 --> 00:01:49,590
+L' imposta sul reddito ha creato più criminali di qualsiasi altro singolo atto di governo.
+
+41
+00:01:49,590 --> 00:01:53,640
+>> Sarebbe il senatore americano e conservatore Barry Goldwater.
+
+42
+00:01:53,640 --> 00:01:54,940
+>> Ok, signor maggiore di fisica.
+
+43
+00:01:54,940 --> 00:01:56,640
+Certo che prenderai questo.
+
+44
+00:01:56,640 --> 00:01:59,980
+La cosa più difficile al mondo da capire è l'imposta sul reddito.
+
+45
+00:01:59,980 --> 00:02:01,010
+>> Bel indizio.
+
+46
+00:02:01,010 --> 00:02:01,980
+Quella persona?
+
+47
+00:02:01,980 --> 00:02:02,620
+Albert Einstein.
+
+48
+00:02:02,620 --> 00:02:06,160
+Riusciva a capire la relatività, ma le tasse?
+
+49
+00:02:06,160 --> 00:02:07,380
+Forse troppo duro.
+
+50
+00:02:07,380 --> 00:02:09,090
+>> Infatti. Ok, ecco l'ultimo.
+
+51
+00:02:09,090 --> 00:02:13,110
+Solo due cose che sono certe nella vita sono la morte e le tasse.
+
+52
+00:02:13,110 --> 00:02:16,092
+>> Beh, dovrai andare alla prima lezione se vuoi quella risposta.
+
+53
+00:02:16,092 --> 00:02:19,261
+>> Va bene, vai quando sei pronto.
+
+54
+00:02:19,261 --> 00:02:26,979
+[ MUSIC]

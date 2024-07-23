@@ -1,0 +1,187 @@
+1
+00:00:00,770 --> 00:00:03,817
+Oi, eu sou Peter Navarro e eu serei seu professor para
+
+2
+00:00:03,817 --> 00:00:06,876
+este curso em gerindo o seu tempo, dinheiro e carreira.
+
+3
+00:00:06,876 --> 00:00:11,826
+Eu sou professor da escola de negócios UC Irvine aqui na ensolarada Califórnia,
+
+4
+00:00:11,826 --> 00:00:16,326
+por mais de 25 anos, e estou muito contente de poder compartilhar com vocês algumas
+
+5
+00:00:16,326 --> 00:00:20,170
+percepções sobre finanças pessoais e gestão.
+
+6
+00:00:20,170 --> 00:00:23,380
+Normalmente reservado para os meus alunos de MBA.
+
+7
+00:00:23,380 --> 00:00:25,100
+E eu sou Alex LeBon.
+
+8
+00:00:25,100 --> 00:00:29,680
+Eu sou estudante de graduação com especialização em física que experimentou em primeira mão 
+
+9
+00:00:29,680 --> 00:00:34,300
+a maioria das questões e problemas que vamos estar falando neste curso.
+
+10
+00:00:34,300 --> 00:00:38,011
+Você vai estar me vendo e me ouvindo ao longo das aulas em vídeo, e 
+
+11
+00:00:38,011 --> 00:00:41,071
+eu estarei ajudando explicar e traduzir o negócio e
+
+12
+00:00:41,071 --> 00:00:45,520
+conceitos de economia do Professor Navarro às suas vidas diárias como estudante.
+
+13
+00:00:45,520 --> 00:00:47,401
+Aqui, então, é o acordo.
+
+14
+00:00:47,401 --> 00:00:52,480
+Este curso é projetado para ser prático e divertido.
+
+15
+00:00:52,480 --> 00:00:54,973
+E deveria ser uma experiência de muito pouco estresse. 
+
+16
+00:00:54,973 --> 00:00:59,779
+Se você simplesmente ver as palestras on-line um par de vezes, responder aos questionários, 
+
+17
+00:00:59,779 --> 00:01:04,450
+Você deve obter uma taxa muito elevada de retorno sobre este investimento educacional.
+
+18
+00:01:05,480 --> 00:01:10,280
+Quanto aos tópicos que você irá estudar, eles variam de orçamento, empréstimos e
+
+19
+00:01:10,280 --> 00:01:13,060
+gestão de pontuação de crédito para a poupança e
+
+20
+00:01:13,060 --> 00:01:17,400
+investimento, seguros, impostos e até mesmo empreendedorismo. 
+
+21
+00:01:18,480 --> 00:01:20,920
+E uma nota sobre o conteúdo.
+
+22
+00:01:20,920 --> 00:01:25,860
+Na maioria de suas classes, as lições serão estruturados em uma clara progressão, onde 
+
+23
+00:01:25,860 --> 00:01:30,290
+cada lição baseia-se na seguinte, enquanto o material se torna mais e mais difícil. 
+
+24
+00:01:30,290 --> 00:01:33,040
+Mas não é isso que vamos fazer aqui. 
+
+25
+00:01:33,040 --> 00:01:34,160
+É isso mesmo, Alex.
+
+26
+00:01:34,160 --> 00:01:39,330
+Cada uma das lições nesta classe mais ou menos ficar por conta própria. 
+
+27
+00:01:39,330 --> 00:01:44,160
+Mas elas são também altamente relacionada com, pelo menos, algumas das outras aulas,
+
+28
+00:01:44,160 --> 00:01:46,190
+como se estivesse em uma teia
+
+29
+00:01:46,190 --> 00:01:46,900
+Por exemplo,
+
+30
+00:01:46,900 --> 00:01:51,390
+em uma lição vamos te ensinar o conceito de ter um plano para o seu dinheiro. 
+
+31
+00:01:51,390 --> 00:01:55,350
+Mas em outras lições vamos te mostrar conceitos relacionados como
+
+32
+00:01:55,350 --> 00:01:57,270
+estratégias de investimento e de crédito. 
+
+33
+00:01:58,270 --> 00:02:01,780
+Portanto, mantenha isso em mente enquanto você está passando pelas lições, e 
+
+34
+00:02:01,780 --> 00:02:05,910
+não tenha medo de voltar às lições para manter o seu conhecimento fresco
+
+35
+00:02:05,910 --> 00:02:09,780
+quando referenciarmos um determinado assunto fora de sua lição. 
+
+36
+00:02:10,930 --> 00:02:13,450
+E aqui está a minha primeira dica chave para você.
+
+37
+00:02:13,450 --> 00:02:16,870
+Uma das coisas mais poderosas sobre um curso da Coursera
+
+38
+00:02:16,870 --> 00:02:19,180
+é os fóruns de discussão da comunidade.
+
+39
+00:02:19,180 --> 00:02:23,980
+É isso mesmo, não se esqueça de postar suas perguntas, percepções pessoais ou
+
+40
+00:02:23,980 --> 00:02:26,510
+recursos relacionados adicionais.
+
+41
+00:02:26,510 --> 00:02:29,840
+Enquanto Alex e eu não podemos responder a todas suas perguntas, 
+
+42
+00:02:29,840 --> 00:02:34,380
+a vasta comunidade de alunos do curso pode ajudar a preencher essa lacuna.
+
+43
+00:02:34,380 --> 00:02:37,820
+E você vai se beneficiar muito das percepções coletivas 
+
+44
+00:02:37,820 --> 00:02:39,790
+de seus colegas.
+
+45
+00:02:39,790 --> 00:02:44,060
+Então agora, vamos nos preparar para o que deverá ser um passeio muito interessante. 
+
+46
+00:02:44,060 --> 00:02:46,815
+Pule direto para a primeira lição, e desfrute do curso.
+
+47
+00:02:46,815 --> 00:02:47,315
+[RUIDO DE FUNDO]

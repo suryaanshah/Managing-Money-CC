@@ -1,0 +1,522 @@
+1
+00:00:00,450 --> 00:00:05,270
+In this part of the lesson, we're going to
+drill down into both credit reports and
+
+2
+00:00:05,270 --> 00:00:09,150
+credit scores, and I'll show you
+in particular how credit scores
+
+3
+00:00:09,150 --> 00:00:12,060
+are actually derived from credit reports.
+
+4
+00:00:12,060 --> 00:00:14,450
+So let's start off with the credit report.
+
+5
+00:00:14,450 --> 00:00:18,480
+Your credit report is a detailed
+record of your credit history.
+
+6
+00:00:18,480 --> 00:00:23,800
+And it specifically focuses on your
+ability to repay any money you may borrow.
+
+7
+00:00:23,800 --> 00:00:26,420
+So what you may ask is
+in your credit report?
+
+8
+00:00:27,760 --> 00:00:33,450
+Well first, it includes personal data
+like your current and previous addresses.
+
+9
+00:00:33,450 --> 00:00:36,820
+Your social security or
+national identification number.
+
+10
+00:00:36,820 --> 00:00:38,090
+And your employment history.
+
+11
+00:00:39,250 --> 00:00:44,500
+Second, your credit report includes your
+credit history and particularly seeks to
+
+12
+00:00:44,500 --> 00:00:50,480
+identify the number and type of accounts
+you have past due versus in good standing.
+
+13
+00:00:51,830 --> 00:00:56,500
+Third, your latest credit report will
+document past credit inquiries into your
+
+14
+00:00:56,500 --> 00:00:57,530
+credit report.
+
+15
+00:00:57,530 --> 00:01:00,140
+So, what's that all about?
+
+16
+00:01:00,140 --> 00:01:04,370
+Well it's done as a means of gauging
+both your borrowing activity, and
+
+17
+00:01:04,370 --> 00:01:05,770
+your possible solvency.
+
+18
+00:01:06,780 --> 00:01:11,310
+The big statistic here is that,
+at least according to one credible source,
+
+19
+00:01:11,310 --> 00:01:15,070
+people who have added six or
+more inquiries into their reports during
+
+20
+00:01:15,070 --> 00:01:19,140
+the past year, can be up to eight
+times more likely to file for
+
+21
+00:01:19,140 --> 00:01:23,310
+bankruptcy than those with credit
+reports showing no inquiries at all.
+
+22
+00:01:24,390 --> 00:01:27,970
+Finally, the report provides
+important details of
+
+23
+00:01:27,970 --> 00:01:31,890
+any of your accounts that may have been
+turned over to a collections agency.
+
+24
+00:01:32,900 --> 00:01:37,490
+And note that these details include
+any information about lawsuits or
+
+25
+00:01:37,490 --> 00:01:39,900
+claims on your property,
+or the garnishing or
+
+26
+00:01:39,900 --> 00:01:44,100
+taking of your wages as a result of
+some type of lawsuit or other action.
+
+27
+00:01:45,370 --> 00:01:48,310
+In other words, if you have been
+late on your credit cards or
+
+28
+00:01:48,310 --> 00:01:51,960
+run into trouble with the law for
+failure to pay your debts or
+
+29
+00:01:51,960 --> 00:01:57,220
+stuff like child support for your kids,
+your credit report is going to reveal it.
+
+30
+00:01:57,220 --> 00:02:01,910
+But such oblations are not really the most
+important function of the credit report.
+
+31
+00:02:01,910 --> 00:02:03,210
+So what is?
+
+32
+00:02:04,710 --> 00:02:07,840
+Enter stage left, your credit score.
+
+33
+00:02:07,840 --> 00:02:12,350
+Your credit score is hands down one of
+the most important numerical measurements
+
+34
+00:02:12,350 --> 00:02:14,650
+of you as a financial entity.
+
+35
+00:02:14,650 --> 00:02:16,340
+And it is a number based first and
+
+36
+00:02:16,340 --> 00:02:20,989
+foremost off a very detailed statistical
+analysis of your credit report data.
+
+37
+00:02:22,150 --> 00:02:25,830
+And depending on the credit bureau
+calculating the credit score,
+
+38
+00:02:25,830 --> 00:02:27,700
+they may use other information too.
+
+39
+00:02:28,980 --> 00:02:30,610
+Now, here's some good stuff to know.
+
+40
+00:02:31,750 --> 00:02:35,200
+The standard range of credit
+scores is between 300 and 850.
+
+41
+00:02:35,200 --> 00:02:40,080
+And this should be intuitive,
+the higher your score, the less
+
+42
+00:02:40,080 --> 00:02:44,810
+risk lenders will see you as having when
+it comes to defaulting on your debts.
+
+43
+00:02:44,810 --> 00:02:48,410
+So a higher credit score will mean
+both lower interest rates for
+
+44
+00:02:48,410 --> 00:02:51,200
+borrowing, and often, better loan terms.
+
+45
+00:02:52,320 --> 00:02:56,770
+As a practical matter, most banks and
+lenders consider anything above about 750
+
+46
+00:02:56,770 --> 00:03:01,550
+to be excellent, and scores of 800 and
+above to be credit perfection.
+
+47
+00:03:03,040 --> 00:03:07,620
+So what are the details of this score and
+what does it actually measure?
+
+48
+00:03:07,620 --> 00:03:12,490
+Well the most well known credit score and
+industry standard is the FICO score.
+
+49
+00:03:13,580 --> 00:03:19,602
+This FICO score is actually named after
+its inventor, the Fair-Isaac Corporation.
+
+50
+00:03:19,602 --> 00:03:23,980
+In fact, Fair-Isaac is the king of
+credit scores in the marketplace.
+
+51
+00:03:25,610 --> 00:03:30,370
+As for the specific function of
+the FICO score, its statistical goal
+
+52
+00:03:30,370 --> 00:03:35,230
+is to predict the likelihood of
+a borrower going 90 days past due or
+
+53
+00:03:35,230 --> 00:03:39,018
+worse, in the 24 months after
+the score has been calculated.
+
+54
+00:03:39,018 --> 00:03:44,060
+Now, besides Fair-Isaac,
+there are three other main credit
+
+55
+00:03:44,060 --> 00:03:49,830
+bureaus that produce FICO-like scores
+using their own proprietary models.
+
+56
+00:03:49,830 --> 00:03:54,670
+These bureaus include Equifax,
+Experian, and Transunion.
+
+57
+00:03:54,670 --> 00:03:59,340
+As to why your credit score may differ
+across these bureaus, most of that is due
+
+58
+00:03:59,340 --> 00:04:04,160
+to the slightly different weighted schemes
+each use in their proprietary models.
+
+59
+00:04:05,530 --> 00:04:07,040
+Now, here's a key point.
+
+60
+00:04:07,040 --> 00:04:11,940
+In America, each citizen is entitled
+to one free credit report each year
+
+61
+00:04:11,940 --> 00:04:14,130
+from each of the big three credit bureaus.
+
+62
+00:04:15,140 --> 00:04:16,440
+And here's a key tip.
+
+63
+00:04:16,440 --> 00:04:22,190
+To get your free credit report, you can
+go to the website AnnualCreditReport.com.
+
+64
+00:04:22,190 --> 00:04:27,760
+This is a website run collectively by
+Equifax, Experian, and TransUnion.
+
+65
+00:04:27,760 --> 00:04:31,260
+And note here that if you also
+want to get your credit score,
+
+66
+00:04:31,260 --> 00:04:34,940
+along with your credit report,
+there will be a small fee,
+
+67
+00:04:34,940 --> 00:04:38,670
+which is one of the obvious reasons these
+credit bureaus sponsor that website.
+
+68
+00:04:40,100 --> 00:04:43,990
+As for how credit reports are laid out,
+they will vary considerably,
+
+69
+00:04:43,990 --> 00:04:48,190
+because the different credit bureaus
+do indeed have different practices.
+
+70
+00:04:48,190 --> 00:04:51,730
+That said,
+there are significant commonalities.
+
+71
+00:04:51,730 --> 00:04:55,150
+For example,
+most reports will include a short summary
+
+72
+00:04:55,150 --> 00:04:58,690
+of any problem areas
+they notice on your case.
+
+73
+00:04:58,690 --> 00:05:01,340
+A sample tag line here might read,
+
+74
+00:05:01,340 --> 00:05:05,640
+proportion of balances compared
+to the credit limit too high.
+
+75
+00:05:05,640 --> 00:05:08,390
+In addition to such caution flags,
+your credit
+
+76
+00:05:08,390 --> 00:05:13,510
+report will also contains specific payment
+data from the lines of credit you have.
+
+77
+00:05:13,510 --> 00:05:17,620
+We'll also put red flags on things
+like any months where you paid late or
+
+78
+00:05:17,620 --> 00:05:19,000
+not enough.
+
+79
+00:05:19,000 --> 00:05:21,250
+Now, here's a really important head's up.
+
+80
+00:05:21,250 --> 00:05:23,810
+The credit report companies
+are far from perfect,
+
+81
+00:05:23,810 --> 00:05:26,570
+and they will sometimes make errors.
+
+82
+00:05:26,570 --> 00:05:31,090
+Unfortunately, it will be your
+responsibility to correct those errors.
+
+83
+00:05:31,090 --> 00:05:34,230
+Typically, this means filing
+some type of protest form,
+
+84
+00:05:34,230 --> 00:05:39,270
+requesting an investigation and
+asking that the error be corrected.
+
+85
+00:05:39,270 --> 00:05:45,110
+Here, bureaus have 45 days to look into
+the matter and address the mistake.
+
+86
+00:05:45,110 --> 00:05:47,500
+Now here's still another
+important heads-up.
+
+87
+00:05:47,500 --> 00:05:49,990
+You are entitled to a free credit report
+
+88
+00:05:49,990 --> 00:05:52,790
+within 60 days after
+a poor credit decision.
+
+89
+00:05:53,840 --> 00:05:57,160
+Such a decision might
+include being denied credit.
+
+90
+00:05:57,160 --> 00:06:00,510
+Alternatively, the lender might
+be trying to saddle you with
+
+91
+00:06:00,510 --> 00:06:05,390
+an above-market interest rate based
+on your alleged higher credit risk.
+
+92
+00:06:05,390 --> 00:06:08,770
+In such cases,
+lenders can't just blow you off.
+
+93
+00:06:08,770 --> 00:06:13,080
+Instead these lenders, or
+creditors are legally required to tell you
+
+94
+00:06:13,080 --> 00:06:16,740
+exactly why they are offering
+you substandard terms.
+
+95
+00:06:16,740 --> 00:06:17,730
+In this process,
+
+96
+00:06:17,730 --> 00:06:22,640
+they must identify the specific items that
+negatively affected your application.
+
+97
+00:06:22,640 --> 00:06:25,820
+So that way when you go over your
+credit report to double check it,
+
+98
+00:06:25,820 --> 00:06:28,139
+you will know exactly what to look for.
+
+99
+00:06:29,260 --> 00:06:31,850
+You can see then,
+how your credit report and
+
+100
+00:06:31,850 --> 00:06:35,810
+your credit score are critical
+parts of your financial life.
+
+101
+00:06:35,810 --> 00:06:39,710
+What we need to do next is to dig
+more deeper into the credit score
+
+102
+00:06:39,710 --> 00:06:41,290
+number itself.
+
+103
+00:06:41,290 --> 00:06:44,820
+The goal here will be to show you
+ways that this stage in your life
+
+104
+00:06:44,820 --> 00:06:47,980
+to strategical build and
+boost your credit score.
+
+105
+00:06:47,980 --> 00:06:52,020
+So down the road when you wanna buy
+that car or house, or borrow for
+
+106
+00:06:52,020 --> 00:06:56,190
+a new business venture, your loan will get
+approved at the lowest possible rate and
+
+107
+00:06:56,190 --> 00:06:58,370
+with the best possible terms.
+
+108
+00:06:58,370 --> 00:06:59,739
+Not a bad goal to strive for.
+
+109
+00:06:59,739 --> 00:07:03,593
+So let's get on it in part three
+of this lesson when you're ready.
+
+110
+00:07:03,593 --> 00:07:11,449
+[MUSIC]

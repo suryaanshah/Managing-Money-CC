@@ -1,0 +1,187 @@
+1
+00:00:00,770 --> 00:00:03,817
+Xin chào, tôi là Peter Navarro và tôi sẽ là giáo sư của bạn cho
+
+2
+00:00:03,817 --> 00:00:06,876
+khóa học này về quản lý thời gian, tiền bạc và sự nghiệp của bạn.
+
+3
+00:00:06,876 --> 00:00:11,826
+Tôi đã làm giáo sư tại trường kinh doanh UC Irvine ở Sunny California, trong
+
+4
+00:00:11,826 --> 00:00:16,326
+hơn 25 năm, và tôi rất vui mừng được chia sẻ với các bạn một số
+
+5
+00:00:16,326 --> 00:00:20,170
+hiểu biết về tài chính cá nhân và quản lý.
+
+6
+00:00:20,170 --> 00:00:23,380
+Thường dành cho sinh viên MBA của tôi.
+
+7
+00:00:23,380 --> 00:00:25,100
+>> Và tôi là Alex LeBon.
+
+8
+00:00:25,100 --> 00:00:29,680
+Tôi là một sinh viên đại học chuyên ngành vật lý đã trải qua trực tiếp
+
+9
+00:00:29,680 --> 00:00:34,300
+hầu hết các vấn đề và vấn đề chúng ta sẽ nói đến trong khóa học này.
+
+10
+00:00:34,300 --> 00:00:38,011
+Bạn sẽ được nhìn thấy và lắng nghe tôi trong suốt các bài học video, và
+
+11
+00:00:38,011 --> 00:00:41,071
+tôi sẽ giúp giải thích và dịch các
+
+12
+00:00:41,071 --> 00:00:45,520
+khái niệm kinh doanh và kinh tế từ giáo sư Navarro sang cuộc sống hàng ngày của bạn khi còn là một sinh viên. -
+
+13
+00:00:45,520 --> 00:00:47,401
+Vậy thì đây là thỏa thuận.
+
+14
+00:00:47,401 --> 00:00:52,480
+Khóa học này được thiết kế để vừa thực tế vừa vui vẻ.
+
+15
+00:00:52,480 --> 00:00:54,973
+Và nó phải là một kinh nghiệm căng thẳng rất thấp.
+
+16
+00:00:54,973 --> 00:00:59,779
+>> Nếu bạn chỉ đơn giản là xem các bài giảng trực tuyến một vài lần, có các câu đố,
+
+17
+00:00:59,779 --> 00:01:04,450
+Bạn sẽ nhận được một tỷ lệ rất cao của lợi nhuận trên đầu tư giáo dục này.
+
+18
+00:01:05,480 --> 00:01:10,280
+>> Đối với các chủ đề bạn sẽ nghiên cứu, chúng bao gồm từ lập ngân sách, vay mượn và
+
+19
+00:01:10,280 --> 00:01:13,060
+quản lý điểm tín dụng đến tiết kiệm và
+
+20
+00:01:13,060 --> 00:01:17,400
+đầu tư, bảo hiểm, thuế và thậm chí cả tinh thần kinh doanh.
+
+21
+00:01:18,480 --> 00:01:20,920
+>> Và một lưu ý về nội dung.
+
+22
+00:01:20,920 --> 00:01:25,860
+Trong hầu hết các lớp học của bạn, các bài học sẽ được cấu trúc theo một tiến trình rõ ràng, trong đó
+
+23
+00:01:25,860 --> 00:01:30,290
+mỗi bài học được xây dựng trên kế tiếp khi tài liệu trở nên ngày càng khó khăn.
+
+24
+00:01:30,290 --> 00:01:33,040
+Nhưng đó không phải là điều chúng ta sẽ làm ở đây.
+
+25
+00:01:33,040 --> 00:01:34,160
+Đúng vậy, Alex.
+
+26
+00:01:34,160 --> 00:01:39,330
+Mỗi bài học trong lớp này ít nhiều đứng một mình.
+
+27
+00:01:39,330 --> 00:01:44,160
+Nhưng chúng cũng có liên quan cao đến ít nhất một số bài học khác,
+
+28
+00:01:44,160 --> 00:01:46,190
+như thể trong một trang web.
+
+29
+00:01:46,190 --> 00:01:46,900
+Ví dụ,
+
+30
+00:01:46,900 --> 00:01:51,390
+trong một bài học, chúng tôi sẽ dạy khái niệm về kế hoạch cho tiền của bạn.
+
+31
+00:01:51,390 --> 00:01:55,350
+Nhưng trong các bài học khác, chúng tôi sẽ cho bạn thấy các khái niệm liên quan như
+
+32
+00:01:55,350 --> 00:01:57,270
+chiến lược đầu tư và tín dụng.
+
+33
+00:01:58,270 --> 00:02:01,780
+>> Vì vậy, hãy nhớ rằng trong khi bạn đang trải qua các bài học, và
+
+34
+00:02:01,780 --> 00:02:05,910
+đừng ngại quay lại các bài học để giữ cho kiến thức của bạn tươi mới
+
+35
+00:02:05,910 --> 00:02:09,780
+khi chúng tôi tham khảo một chủ đề cụ thể bên ngoài bài học của nó.
+
+36
+00:02:10,930 --> 00:02:13,450
+Và đây là mẹo chính đầu tiên của tôi dành cho bạn.
+
+37
+00:02:13,450 --> 00:02:16,870
+Một trong những điều mạnh mẽ nhất về một khóa học Coursera
+
+38
+00:02:16,870 --> 00:02:19,180
+là các diễn đàn thảo luận cộng đồng.
+
+39
+00:02:19,180 --> 00:02:23,980
+>> Đúng vậy, hãy chắc chắn đăng câu hỏi của bạn, thông tin chi tiết cá nhân hoặc các
+
+40
+00:02:23,980 --> 00:02:26,510
+tài nguyên liên quan bổ sung.
+
+41
+00:02:26,510 --> 00:02:29,840
+Trong khi Alex và tôi không thể trả lời tất cả các câu hỏi của bạn,
+
+42
+00:02:29,840 --> 00:02:34,380
+cộng đồng người học rộng lớn trong khóa học có thể giúp lấp đầy khoảng trống đó.
+
+43
+00:02:34,380 --> 00:02:37,820
+Và bạn sẽ được hưởng lợi rất nhiều từ những hiểu biết tập thể
+
+44
+00:02:37,820 --> 00:02:39,790
+của các bạn đồng nghiệp.
+
+45
+00:02:39,790 --> 00:02:44,060
+Bây giờ, hãy chuẩn bị sẵn sàng cho một chuyến đi rất thú vị.
+
+46
+00:02:44,060 --> 00:02:46,815
+Nhảy ngay vào bài học đầu tiên, và tận hưởng khóa học.
+
+47
+00:02:46,815 --> 00:02:47,315
+[ BLANK AUDIO]

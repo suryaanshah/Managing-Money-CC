@@ -1,0 +1,317 @@
+1
+00:00:00,550 --> 00:00:03,320
+In this section I wanna go over
+some of the basics of stock
+
+2
+00:00:03,320 --> 00:00:05,570
+trading you may find helpful.
+
+3
+00:00:05,570 --> 00:00:06,620
+But before I do that.
+
+4
+00:00:06,620 --> 00:00:10,230
+I want to emphasize the importance
+of learning how to trade stocks
+
+5
+00:00:10,230 --> 00:00:12,630
+in a simulated game environment.
+
+6
+00:00:12,630 --> 00:00:16,330
+That's what a lot of students do at the
+UCI business school, and you should too.
+
+7
+00:00:17,740 --> 00:00:21,970
+The idea behind a stock market simulator
+is that you're given a fixed sum of money,
+
+8
+00:00:21,970 --> 00:00:23,120
+like $1 million.
+
+9
+00:00:23,120 --> 00:00:28,010
+And you are allowed to trade that
+money over a fixed period of time.
+
+10
+00:00:28,010 --> 00:00:30,130
+The cool part about
+stock market simulators.
+
+11
+00:00:30,130 --> 00:00:34,860
+Is that they rely on actual real-time
+data from the stock markets themselves.
+
+12
+00:00:34,860 --> 00:00:38,060
+So they only actual difference
+between trading on a simulator.
+
+13
+00:00:38,060 --> 00:00:41,790
+And trading on your own stock market
+account, is that you are using play money.
+
+14
+00:00:43,890 --> 00:00:47,780
+As for which stock simulator to use,
+there are bunch of them out there.
+
+15
+00:00:47,780 --> 00:00:50,170
+But it is hard to go wrong
+with Wall Street Survivor.
+
+16
+00:00:51,320 --> 00:00:54,000
+So our suggestion in this course,
+is that you go ahead and
+
+17
+00:00:54,000 --> 00:00:57,090
+set up an account at this or
+a similar simulator.
+
+18
+00:00:57,090 --> 00:00:57,780
+Yes it's free.
+
+19
+00:00:58,790 --> 00:01:02,060
+As for stock trading itself,
+here's just a few key concepts.
+
+20
+00:01:03,260 --> 00:01:06,190
+Let's start with market
+versus limit orders.
+
+21
+00:01:08,240 --> 00:01:10,350
+With a market order,
+the stock you want to buy.
+
+22
+00:01:10,350 --> 00:01:13,600
+Is purchased at whatever price is
+clearing in the market at the time you
+
+23
+00:01:13,600 --> 00:01:15,130
+make your trade.
+
+24
+00:01:15,130 --> 00:01:19,010
+The advantage of a market order is that
+you are assured that it will be filled.
+
+25
+00:01:19,010 --> 00:01:22,870
+But you may pay too high a price if you
+happen to buy on a big momentum swing
+
+26
+00:01:22,870 --> 00:01:23,540
+during the day.
+
+27
+00:01:24,640 --> 00:01:27,560
+In contrast, with a limit order
+you can set your price so
+
+28
+00:01:27,560 --> 00:01:29,910
+as to not exceed a certain amount.
+
+29
+00:01:29,910 --> 00:01:32,660
+For example, suppose you wanna
+buy another share of UCI.
+
+30
+00:01:32,660 --> 00:01:36,020
+And you think it's a good
+deal at any price below $105.
+
+31
+00:01:36,020 --> 00:01:40,650
+However, if you have to
+pay a price above $105.
+
+32
+00:01:40,650 --> 00:01:45,920
+You don't think that the reward you are
+likely to earn, will be worth the risk.
+
+33
+00:01:45,920 --> 00:01:46,920
+So with a limit order,
+
+34
+00:01:46,920 --> 00:01:50,700
+all you need to do is set your
+limit priced at $105 in this case.
+
+35
+00:01:51,780 --> 00:01:55,570
+Of course, the down side of a limit order
+is that the order may not be filled if
+
+36
+00:01:55,570 --> 00:01:58,721
+the price remains above $105.
+
+37
+00:01:58,721 --> 00:02:02,930
+Now, a second key concept
+is that of stop losses.
+
+38
+00:02:02,930 --> 00:02:04,950
+A key point here is that
+when you buy a stock,
+
+39
+00:02:04,950 --> 00:02:06,790
+you need to carefully manage your risk.
+
+40
+00:02:07,930 --> 00:02:09,300
+What do I mean by that?
+
+41
+00:02:09,300 --> 00:02:13,360
+Well of course you're buying that stock
+on the speculation that it will rise.
+
+42
+00:02:13,360 --> 00:02:17,200
+But despite all your careful research,
+the stock might actually fall.
+
+43
+00:02:17,200 --> 00:02:21,070
+And if it falls a lot, you can lose a lot
+of money, and sometimes very quickly.
+
+44
+00:02:22,240 --> 00:02:25,120
+The idea of a stop loss is
+to put in a sell order.
+
+45
+00:02:25,120 --> 00:02:28,370
+So that if your stock falls
+below a certain amount.
+
+46
+00:02:28,370 --> 00:02:30,990
+Then the stock is automatically sold.
+
+47
+00:02:30,990 --> 00:02:34,720
+A good rule here is to never
+lose more than 10% in a stock.
+
+48
+00:02:34,720 --> 00:02:37,825
+So for example,
+if you buy a share of UCI at $100,
+
+49
+00:02:37,825 --> 00:02:40,990
+you might wanna put in
+a stop loss order for $90.
+
+50
+00:02:40,990 --> 00:02:47,010
+And here's a cool related concept,
+that of the trailing stop loss.
+
+51
+00:02:47,010 --> 00:02:50,180
+The idea here is to never
+turn a winner into a loser.
+
+52
+00:02:50,180 --> 00:02:55,310
+So for example if you buy UCI at $100 and
+it goes to $110.
+
+53
+00:02:55,310 --> 00:02:59,760
+The wise thing to do here might be to
+raise your stop loss order to $100
+
+54
+00:02:59,760 --> 00:03:01,930
+rather than the original 90.
+
+55
+00:03:01,930 --> 00:03:06,130
+So if UCI falls back down,
+you at least didn't lose any money and
+
+56
+00:03:06,130 --> 00:03:09,090
+therefore didn't turn
+a winner into a loser.
+
+57
+00:03:09,090 --> 00:03:11,840
+These are just some of the many
+tricks of the stock market trade.
+
+58
+00:03:11,840 --> 00:03:16,250
+That you'll need to learn to make money
+on your stock market investments.
+
+59
+00:03:16,250 --> 00:03:20,210
+While you may not have a lot of money
+to invest just now in the stock market.
+
+60
+00:03:20,210 --> 00:03:23,580
+Over time as you get better and
+better jobs at higher and
+
+61
+00:03:23,580 --> 00:03:27,030
+higher pay,
+at least that's what we all hope for.
+
+62
+00:03:27,030 --> 00:03:30,079
+You'll begin to accumulate capital
+that you'll need to invest.
+
+63
+00:03:31,440 --> 00:03:35,840
+So if you pay your tuition to
+the stock market now using play money.
+
+64
+00:03:35,840 --> 00:03:38,190
+And learn how stock trading works.
+
+65
+00:03:38,190 --> 00:03:41,090
+You'll live a far more prosperous life.
+
+66
+00:03:41,090 --> 00:03:43,260
+And that's what managing
+your money is all about.
+
+67
+00:03:43,260 --> 00:03:46,429
+[MUSIC]

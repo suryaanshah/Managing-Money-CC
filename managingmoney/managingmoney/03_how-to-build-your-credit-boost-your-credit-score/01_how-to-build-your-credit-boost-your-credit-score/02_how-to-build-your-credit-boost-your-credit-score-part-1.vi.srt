@@ -1,0 +1,207 @@
+1
+00:00:00,410 --> 00:00:04,700
+Tôi muốn bắt đầu bài học này với một cầu nối giữa so sánh thẻ tín dụng
+
+2
+00:00:04,700 --> 00:00:10,200
+và thẻ ghi nợ và chủ đề hôm nay, xây dựng và tăng điểm tín dụng của bạn.
+
+3
+00:00:10,200 --> 00:00:13,335
+Để vượt qua cây cầu này, chúng ta hãy bắt đầu với
+
+4
+00:00:13,335 --> 00:00:15,200
+kịch bản giả thuyết này, nhưng tất cả quá phổ biến.
+
+5
+00:00:15,200 --> 00:00:19,620
+Giả sử khoản nợ thẻ tín dụng hiện tại của bạn là khoảng 5.000 đô la.
+
+6
+00:00:19,620 --> 00:00:23,310
+Và bạn đã lộn xộn một chút với một số khoản thanh toán trễ trên hóa đơn của bạn, vì vậy
+
+7
+00:00:23,310 --> 00:00:27,210
+bây giờ bạn đang mắc kẹt với một mức lãi suất phạt là 25%.
+
+8
+00:00:27,210 --> 00:00:29,400
+Phải, đúng vậy.
+
+9
+00:00:29,400 --> 00:00:34,070
+Các công ty thẻ tín dụng có thể tính lãi suất cao từ 25% trở lên,
+
+10
+00:00:34,070 --> 00:00:38,860
+ngay cả khi lãi suất trong nền kinh tế rộng lớn hơn chỉ ở các chữ số đơn lẻ.
+
+11
+00:00:38,860 --> 00:00:40,260
+Làm thế nào để bạn đánh vần, cá mập vay?
+
+12
+00:00:42,080 --> 00:00:45,000
+Bây giờ, chúng ta hãy tiếp tục giả định rằng điều duy nhất bạn từng làm với
+
+13
+00:00:45,000 --> 00:00:48,750
+số dư thẻ tín dụng của bạn là thanh toán khoản thanh toán tối thiểu mỗi tháng.
+
+14
+00:00:48,750 --> 00:00:52,950
+Trong thực tế, bạn chỉ cần lấy một đôi kéo, cắt thẻ tín dụng của bạn làm đôi và
+
+15
+00:00:52,950 --> 00:00:53,789
+ném nó vào thùng rác.
+
+16
+00:00:53,789 --> 00:00:58,913
+Bây giờ, nhanh chóng chuyển tiếp bảy năm, tại thời điểm này bạn
+
+17
+00:00:58,913 --> 00:01:03,821
+sẽ phải trả hơn 5,800 đô la tiền lãi một mình,
+
+18
+00:01:03,821 --> 00:01:10,714
+đó là cách vượt quá số dư khởi đầu của bạn và bạn thậm chí không tốn một xu.
+
+19
+00:01:10,714 --> 00:01:14,201
+Trong thực tế số tiền lãi bạn sẽ trả trên thẻ tín dụng của bạn
+
+20
+00:01:14,201 --> 00:01:19,040
+rất nhạy cảm với mức lãi suất mà công ty thẻ tín dụng tính cho bạn.
+
+21
+00:01:19,040 --> 00:01:23,430
+Ví dụ, như bạn có thể khám phá tại một trang web như creditcard.com,
+
+22
+00:01:23,430 --> 00:01:28,400
+nếu bạn có số dư 5.000 đô la với tỷ lệ phần trăm 16% hàng năm
+
+23
+00:01:28,400 --> 00:01:32,070
+và bạn thực hiện thanh toán 125 đô la mỗi tháng,
+
+24
+00:01:32,070 --> 00:01:38,230
+bạn sẽ cần 4.8 năm và 2.000 đô la tiền lãi để trả hết số dư của mình.
+
+25
+00:01:38,230 --> 00:01:41,690
+Được rồi, sự quan sát đó dẫn đến điểm quan trọng đầu tiên của chúng ta.
+
+26
+00:01:41,690 --> 00:01:45,560
+Đơn giản chỉ cần thanh toán số dư tối thiểu trên thẻ tín dụng của bạn mỗi tháng,
+
+27
+00:01:45,560 --> 00:01:49,890
+thay vì trả hết phần lớn hoặc toàn bộ số dư của bạn là một động thái thua lỗ.
+
+28
+00:01:51,100 --> 00:01:55,800
+Và đây là một cái nhìn sâu sắc quan trọng trong tâm trí của nhà phát hành thẻ tín dụng bình thường.
+
+29
+00:01:55,800 --> 00:02:00,280
+Khi bạn chỉ trả số dư tối thiểu mà công ty thẻ thích bạn.
+
+30
+00:02:00,280 --> 00:02:03,500
+>> Và tôi không thể phủ nhận sự thật rằng bạn thích tôi.
+
+31
+00:02:03,500 --> 00:02:04,720
+Ngay bây giờ.
+
+32
+00:02:04,720 --> 00:02:08,540
+>> Những công ty thẻ tín dụng này thực sự thích bạn, bởi vì bạn đang chia ra các
+
+33
+00:02:08,540 --> 00:02:12,060
+khoản thanh toán lãi suất với lãi suất khiêu dâm và bạn không bao giờ mặc định.
+
+34
+00:02:12,060 --> 00:02:15,460
+Tốt cho ngân hàng, nhưng xấu cho anh.
+
+35
+00:02:15,460 --> 00:02:17,740
+Vì vậy, đây là mẹo lớn đầu tiên của bạn.
+
+36
+00:02:17,740 --> 00:02:20,990
+Trả hết số dư thẻ tín dụng của bạn nhanh nhất có thể,
+
+37
+00:02:20,990 --> 00:02:24,600
+để tránh việc thanh toán lãi suất làm xói mòn sức mua của bạn,
+
+38
+00:02:24,600 --> 00:02:28,500
+đặc biệt là khi bạn đang tính lãi suất khiêu dâm.
+
+39
+00:02:28,500 --> 00:02:32,100
+Và mẹo chính đó, đưa chúng ta đến câu hỏi chính đầu tiên của chúng ta.
+
+40
+00:02:32,100 --> 00:02:34,890
+Làm thế nào mà có quá nhiều khách hàng thẻ tín dụng
+
+41
+00:02:34,890 --> 00:02:39,300
+trả lãi suất cắt cổ như 25% hoặc nhiều hơn?
+
+42
+00:02:39,300 --> 00:02:43,380
+Đó là tất cả về rủi ro mà các công ty thẻ tín dụng tuyên bố bạn đặt ra với
+
+43
+00:02:43,380 --> 00:02:47,010
+khả năng bạn mặc định trên hóa đơn thẻ tín dụng của bạn.
+
+44
+00:02:47,010 --> 00:02:51,620
+Nhập đúng giai đoạn, điểm tín dụng và báo cáo tín dụng độc đáo của riêng bạn.
+
+45
+00:02:51,620 --> 00:02:53,070
+Bây giờ hãy nghe này.
+
+46
+00:02:53,070 --> 00:02:57,772
+Hai chỉ số này là yếu tố quyết định lớn nhất của cả hai bạn có thể nhận được
+
+47
+00:02:57,772 --> 00:03:01,643
+tín dụng để bắt đầu, và liệu bạn sẽ bị tính
+
+48
+00:03:01,643 --> 00:03:03,184
+lãi suất thấp nhất hoặc cao nhất.
+
+49
+00:03:03,184 --> 00:03:06,426
+Vì vậy, chúng tôi thực sự cần phải hiểu làm thế nào các báo cáo
+
+50
+00:03:06,426 --> 00:03:11,625
+tín dụng và điểm tín dụng quyết định cả quyền truy cập của bạn vào tín dụng và mức giá bạn sẽ bị tính.
+
+51
+00:03:11,625 --> 00:03:13,389
+Bây giờ, đến phần hai, khi bạn đã sẵn sàng.
+
+52
+00:03:13,389 --> 00:03:20,709
+[ NHẠC]

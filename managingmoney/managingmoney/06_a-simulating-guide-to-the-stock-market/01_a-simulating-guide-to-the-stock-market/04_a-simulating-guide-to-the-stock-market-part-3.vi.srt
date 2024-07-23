@@ -1,0 +1,267 @@
+1
+00:00:00,550 --> 00:00:03,320
+Trong phần này tôi muốn xem qua một số điều cơ bản của
+
+2
+00:00:03,320 --> 00:00:05,570
+giao dịch chứng khoán bạn có thể thấy hữu ích.
+
+3
+00:00:05,570 --> 00:00:06,620
+Nhưng trước khi tôi làm điều đó.
+
+4
+00:00:06,620 --> 00:00:10,230
+Tôi muốn nhấn mạnh tầm quan trọng của việc học cách giao dịch cổ phiếu
+
+5
+00:00:10,230 --> 00:00:12,630
+trong một môi trường trò chơi mô phỏng.
+
+6
+00:00:12,630 --> 00:00:16,330
+Đó là những gì rất nhiều sinh viên làm ở trường kinh doanh UCI, và bạn cũng nên làm thế.
+
+7
+00:00:17,740 --> 00:00:21,970
+Ý tưởng đằng sau một mô phỏng thị trường chứng khoán là bạn được cho một khoản tiền cố định,
+
+8
+00:00:21,970 --> 00:00:23,120
+như 1 triệu đô la.
+
+9
+00:00:23,120 --> 00:00:28,010
+Và bạn được phép giao dịch số tiền đó trong một khoảng thời gian cố định.
+
+10
+00:00:28,010 --> 00:00:30,130
+Phần thú vị về mô phỏng thị trường chứng khoán.
+
+11
+00:00:30,130 --> 00:00:34,860
+Đó là họ dựa vào dữ liệu thời gian thực tế từ thị trường chứng khoán mình.
+
+12
+00:00:34,860 --> 00:00:38,060
+Vì vậy, họ chỉ có sự khác biệt thực tế giữa giao dịch trên một mô phỏng.
+
+13
+00:00:38,060 --> 00:00:41,790
+Và giao dịch trên tài khoản thị trường chứng khoán của riêng bạn, là bạn đang sử dụng tiền chơi.
+
+14
+00:00:43,890 --> 00:00:47,780
+Đối với mô phỏng chứng khoán để sử dụng, có rất nhiều trong số họ ra khỏi đó.
+
+15
+00:00:47,780 --> 00:00:50,170
+Nhưng thật khó để đi sai với Wall Street Survivor.
+
+16
+00:00:51,320 --> 00:00:54,000
+Vì vậy, đề xuất của chúng tôi trong khóa học này, là bạn đi trước và
+
+17
+00:00:54,000 --> 00:00:57,090
+thiết lập một tài khoản tại này hoặc một mô phỏng tương tự.
+
+18
+00:00:57,090 --> 00:00:57,780
+Phải, nó miễn phí.
+
+19
+00:00:58,790 --> 00:01:02,060
+Đối với giao dịch chứng khoán chính nó, đây chỉ là một vài khái niệm chính.
+
+20
+00:01:03,260 --> 00:01:06,190
+Hãy bắt đầu với lệnh thị trường so với lệnh giới hạn.
+
+21
+00:01:08,240 --> 00:01:10,350
+Với lệnh thị trường, cổ phiếu bạn muốn mua.
+
+22
+00:01:10,350 --> 00:01:13,600
+Được mua ở bất cứ giá nào đang thanh toán bù trừ trên thị trường tại thời điểm bạn
+
+23
+00:01:13,600 --> 00:01:15,130
+thực hiện giao dịch của bạn.
+
+24
+00:01:15,130 --> 00:01:19,010
+Ưu điểm của lệnh thị trường là bạn được đảm bảo rằng nó sẽ được lấp đầy.
+
+25
+00:01:19,010 --> 00:01:22,870
+Nhưng bạn có thể phải trả một mức giá quá cao nếu bạn tình cờ mua trên một đà đu lớn
+
+26
+00:01:22,870 --> 00:01:23,540
+trong ngày.
+
+27
+00:01:24,640 --> 00:01:27,560
+Ngược lại, với một lệnh giới hạn, bạn có thể đặt giá của bạn
+
+28
+00:01:27,560 --> 00:01:29,910
+để không vượt quá một số tiền nhất định.
+
+29
+00:01:29,910 --> 00:01:32,660
+Ví dụ, giả sử bạn muốn mua một phần khác của UCI.
+
+30
+00:01:32,660 --> 00:01:36,020
+Và bạn nghĩ đó là một thỏa thuận tốt với bất kỳ mức giá nào dưới $105.
+
+31
+00:01:36,020 --> 00:01:40,650
+Tuy nhiên, nếu bạn phải trả một mức giá trên $105.
+
+32
+00:01:40,650 --> 00:01:45,920
+Bạn không nghĩ rằng phần thưởng bạn có khả năng kiếm được, sẽ có giá trị rủi ro.
+
+33
+00:01:45,920 --> 00:01:46,920
+Vì vậy, với một lệnh giới hạn,
+
+34
+00:01:46,920 --> 00:01:50,700
+tất cả những gì bạn cần làm là đặt giới hạn của bạn có giá $105 trong trường hợp này.
+
+35
+00:01:51,780 --> 00:01:55,570
+Tất nhiên, mặt xuống của lệnh giới hạn là lệnh có thể không được điền nếu
+
+36
+00:01:55,570 --> 00:01:58,721
+giá vẫn ở trên $105.
+
+37
+00:01:58,721 --> 00:02:02,930
+Bây giờ, một khái niệm quan trọng thứ hai là dừng lỗ.
+
+38
+00:02:02,930 --> 00:02:04,950
+Một điểm quan trọng ở đây là khi bạn mua một cổ phiếu,
+
+39
+00:02:04,950 --> 00:02:06,790
+bạn cần phải cẩn thận quản lý rủi ro của bạn.
+
+40
+00:02:07,930 --> 00:02:09,300
+Ý tôi là sao?
+
+41
+00:02:09,300 --> 00:02:13,360
+Tất nhiên bạn đang mua cổ phiếu đó dựa trên suy đoán rằng nó sẽ tăng lên.
+
+42
+00:02:13,360 --> 00:02:17,200
+Nhưng bất chấp tất cả các nghiên cứu cẩn thận của bạn, cổ phiếu có thể thực sự giảm.
+
+43
+00:02:17,200 --> 00:02:21,070
+Và nếu nó rơi rất nhiều, bạn có thể mất rất nhiều tiền, và đôi khi rất nhanh.
+
+44
+00:02:22,240 --> 00:02:25,120
+Ý tưởng về một lệnh dừng lỗ là đặt trong một lệnh bán.
+
+45
+00:02:25,120 --> 00:02:28,370
+Vì vậy, nếu cổ phiếu của bạn giảm xuống dưới một số tiền nhất định.
+
+46
+00:02:28,370 --> 00:02:30,990
+Sau đó, cổ phiếu được bán tự động.
+
+47
+00:02:30,990 --> 00:02:34,720
+Một quy tắc tốt ở đây là không bao giờ mất hơn 10% trong một cổ phiếu.
+
+48
+00:02:34,720 --> 00:02:37,825
+Ví dụ, nếu bạn mua một phần UCI với giá 100 đô la,
+
+49
+00:02:37,825 --> 00:02:40,990
+bạn có thể muốn đặt lệnh dừng lỗ với giá 90 đô la.
+
+50
+00:02:40,990 --> 00:02:47,010
+Và đây là một khái niệm liên quan đến mát mẻ, của trailing stop loss.
+
+51
+00:02:47,010 --> 00:02:50,180
+Ý tưởng ở đây là không bao giờ biến người chiến thắng thành kẻ thua cuộc.
+
+52
+00:02:50,180 --> 00:02:55,310
+Vì vậy, ví dụ nếu bạn mua UCI với giá $100 và nó đi đến $110.
+
+53
+00:02:55,310 --> 00:02:59,760
+Điều khôn ngoan cần làm ở đây có thể là nâng lệnh dừng lỗ của bạn lên 100 đô la
+
+54
+00:02:59,760 --> 00:03:01,930
+chứ không phải là 90 bản gốc.
+
+55
+00:03:01,930 --> 00:03:06,130
+Vì vậy, nếu UCI rơi xuống, ít nhất bạn cũng không mất bất kỳ khoản tiền nào và
+
+56
+00:03:06,130 --> 00:03:09,090
+do đó không biến một người chiến thắng thành một kẻ thua cuộc.
+
+57
+00:03:09,090 --> 00:03:11,840
+Đây chỉ là một số trong nhiều thủ thuật của thương mại thị trường chứng khoán.
+
+58
+00:03:11,840 --> 00:03:16,250
+Rằng bạn sẽ cần phải học cách kiếm tiền trên các khoản đầu tư thị trường chứng khoán của bạn.
+
+59
+00:03:16,250 --> 00:03:20,210
+Trong khi bạn có thể không có nhiều tiền để đầu tư ngay bây giờ vào thị trường chứng khoán.
+
+60
+00:03:20,210 --> 00:03:23,580
+Theo thời gian khi bạn có được công việc tốt hơn và tốt hơn với mức
+
+61
+00:03:23,580 --> 00:03:27,030
+lương cao hơn và cao hơn, ít nhất đó là những gì chúng ta đều hy vọng.
+
+62
+00:03:27,030 --> 00:03:30,079
+Bạn sẽ bắt đầu tích lũy vốn mà bạn sẽ cần đầu tư.
+
+63
+00:03:31,440 --> 00:03:35,840
+Vì vậy, nếu bạn trả học phí của bạn cho thị trường chứng khoán bây giờ sử dụng tiền chơi.
+
+64
+00:03:35,840 --> 00:03:38,190
+Và tìm hiểu cách hoạt động của giao dịch chứng khoán.
+
+65
+00:03:38,190 --> 00:03:41,090
+Anh sẽ sống một cuộc sống thịnh vượng hơn rất nhiều.
+
+66
+00:03:41,090 --> 00:03:43,260
+Và đó là những gì quản lý tiền của bạn là tất cả về.
+
+67
+00:03:43,260 --> 00:03:46,429
+[ NHẠC]
