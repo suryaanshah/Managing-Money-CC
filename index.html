@@ -17,16 +17,21 @@
         <!-- a list on the right side containing syllabus (can be hidden), the main video and then quiz in the middle -->
 
 
+        <div class="heading" id="overview">
+            <h1>Course Overview</h1>
+        </div>
         
-        <h1>Course Overview</h1>
+        
         <h2>About the Course</h2>
         <div class="description" id="About-Course">
         This course will introduce college students in a practical way to the world of personal finance as well as time and career management. It will provide students with a useful set of tools from economics and finance that will allow them to move forward into the world upon graduation with a solid foundation in managing their money, time, and career. In a course of this nature, it is unavoidable that some of the content relates solely to the United States. Personal finance touches on topics that are governed by the nation's tax code, financial regulations, consumer protections, and so forth. However, students outside of the United States will still benefit from many of the principles, explanations, and exercises offered by the course.
         </div>
+        
         <h2>Course Format</h2>
         <div class="description" id="format">
         The course consists of ten modules divided into multiple video lessons. This allows students to view the modules in roughly five-minute increments so the material is easily digestible. Each module concludes with a multiple choice quiz. At the end of the course, students take a final exam.
         </div>
+        
         <h2>Course Grading</h2>
         <div class="description" id="Grading">
         The course is divided into ten modules. Each module has a Quiz worth 6% of the overall grade. There is a comprehensive Final Exam at the end of the course worth 40% of the overall grade.
@@ -36,6 +41,7 @@
         <div class="description" id="prerequisites">
         This class is designed primarily for college students. However, it is also applicable for advanced high school students, and young men and women in their 20's. Many of the topics in the course are taught from a United States perspective, but are also applicable to learners from other areas of the world, albeit with slightly different financial system details. There are no course prerequisites and no previous business experience is necessary.
         </div>
+        
         <h2>
         Suggested Readings
         </h2>
@@ -75,8 +81,26 @@
         </p>
         </li>
         </ol>
-        <p>
-        </p>
+
+        <script>
+            // JavaScript to handle accordion functionality
+            const accordions = document.getElementsByClassName('accordion');
+    
+            for (let i = 0; i < accordions.length; i++) {
+                accordions[i].addEventListener('click', function() {
+                    // Toggle the active class on this heading
+                    this.classList.toggle('active');
+                    
+                    // Toggle the display of the associated panel
+                    const panel = this.nextElementSibling;
+                    if (panel.style.display === 'block') {
+                        panel.style.display = 'none';
+                    } else {
+                        panel.style.display = 'block';
+                    }
+                });
+            }
+        </script>
         
         
         
