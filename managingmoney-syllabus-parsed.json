@@ -1,0 +1,39 @@
+{
+    "title": "What's in Your Budget",
+    "sections": [
+        {
+            "section_title": "Course Overview and Introduction",
+            "content": [
+                {
+                    "title": "Course Overview",
+                    "description": "This course will introduce college students in a practical way to the world of personal finance as well as time and career management. It will provide students with a useful set of tools from economics and finance that will allow them to move forward into the world upon graduation with a solid foundation in managing their money, time, and career."
+                },
+                {
+                    "title": "Course Format",
+                    "description": "The course consists of ten modules divided into multiple video lessons. This allows students to view the modules in roughly five-minute increments so the material is easily digestible. Each module concludes with a multiple choice quiz. At the end of the course, students take a final exam."
+                },
+                {
+                    "title": "Course Grading",
+                    "description": "The course is divided into ten modules. Each module has a Quiz worth 6% of the overall grade. There is a comprehensive Final Exam at the end of the course worth 40% of the overall grade."
+                },
+                {
+                    "title": "Verified Certificate Criteria",
+                    "description": "Verified Certificates are co-branded by Coursera and University of California, Irvine. They are printable, digitally shareable, and will empower you with a verified document in-hand. Link your coursework to your identity, and pass every module to earn your Verified Certificate."
+                },
+                {
+                    "title": "Recommended Background",
+                    "description": "This class is designed primarily for college students. However, it is also applicable for advanced high school students, and young men and women in their 20's. Many of the topics in the course are taught from a United States perspective, but are also applicable to learners from other areas of the world, albeit with slightly different financial system details. There are no course prerequisites and no previous business experience is necessary."
+                },
+                {
+                    "title": "Suggested Readings",
+                    "description": "The following books by the course instructor are not required in any way for the course. However, students who are curious about some of the underlying economics of this course may find these two books useful: Always a Winner: Finding Your Competitive Advantage in an Up and Down Economy by Peter Navarro, When the Market Moves, Will You Be Ready? by Peter Navarro."
+                },
+                {
+                    "title": "Recommended Courses",
+                    "description": "Students who enjoy this course and wish to improve their economic literacy are likewise referred to two of Professor Navarro’s economic principles courses also on Coursera: The Power of Microeconomics, The Power of Macroeconomics."
+                }
+            ]
+        }
+    ]
+}
+
