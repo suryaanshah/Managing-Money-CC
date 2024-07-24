@@ -10,6 +10,13 @@
     font-size: 15px;
 }
 
+.heading1 {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+  }
+
 .active, .collapsible:hover {
 background-color: #ccc;
 }
