@@ -1,0 +1,10 @@
+---
+title: "Managing-Money-MBA-Insights-for-college-students"
+author: "Suryaansh Chawla"
+mainfont: Arial
+url: "https://suryaansh.is-a.dev/Managing-Money-CC/"
+favicon: "/home/suryaansh/Development/Managing-Money-CC/favicon.jpg"
+description: "Managing Money course archived"
+---
+
+
