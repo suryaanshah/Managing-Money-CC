@@ -6,6 +6,11 @@
   font-family: 'Arial', sans-serif;
 }
 
+/*Link Colour*/
+a {
+  color: aaaaff;
+}
+
 /* Body Styling */
 body {
   background-color: #020f18; /* Bluish-black background */
