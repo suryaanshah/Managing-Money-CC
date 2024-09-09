@@ -1,6 +1,9 @@
 # Managing-Money-CC
 Managing money coursera course archived
 
+![image](https://github.com/user-attachments/assets/e5ced698-da85-4311-8bac-4f2098e2c5ea)
+
+
 # History
 [Managing Your Money: MBA Insights for Undergraduates](https://www.coursera.org/learn/managingmoney) was a great introductory course on coursera about personal finance. Sadly it has been archived now, and not available on the internet. 
 
